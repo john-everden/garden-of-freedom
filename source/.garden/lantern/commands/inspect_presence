@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+garden page "Presence" "$HOME/.garden/lantern/views/presence.txt"

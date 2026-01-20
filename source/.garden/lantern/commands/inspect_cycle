@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+garden cycle
+garden page "Cycle" "$HOME/.garden/lantern/views/cycle.txt"

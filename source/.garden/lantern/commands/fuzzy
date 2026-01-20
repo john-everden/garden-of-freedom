@@ -1,0 +1,48 @@
+#!/usr/bin/env bash
+echo "$(date '+%Y-%m-%d %H:%M:%S') fuzzy $1" >> "$HOME/.garden/presence/threads/flow.log"
+
+query="$1"
+
+if [ -z "$query" ]; then
+  echo "Usage: garden fuzzy <term>"
+  exit 1
+fi
+
+SCRIPT_DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+REGISTRY="$SCRIPT_DIR/_registry"
+
+mapfile -t lines < <("$REGISTRY")
+unset 'lines[0]'
+
+best=""
+best_score=9999
+
+distance() {
+  # Levenshtein distance (simple version)
+  python3 - <<EOF
+import sys
+a = "$1"
+b = "$2"
+dp = [[i+j if i*j==0 else 0 for j in range(len(b)+1)] for i in range(len(a)+1)]
+for i in range(1,len(a)+1):
+    for j in range(1,len(b)+1):
+        dp[i][j] = min(
+            dp[i-1][j] + 1,
+            dp[i][j-1] + 1,
+            dp[i-1][j-1] + (a[i-1] != b[j-1])
+        )
+print(dp[-1][-1])
+EOF
+}
+
+for line in "${lines[@]}"; do
+  name=$(echo "$line" | cut -d',' -f1)
+  score=$(distance "$query" "$name")
+  if (( score < best_score )); then
+    best_score=$score
+    best="$name"
+  fi
+done
+
+echo "Closest match: $best"
+

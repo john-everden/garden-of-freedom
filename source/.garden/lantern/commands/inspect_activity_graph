@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+garden activity_graph
+garden page "Activity Graph" "$HOME/.garden/weave/graph/graph.txt"

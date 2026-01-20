@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+
+EDGES="$HOME/.garden/weave/graph/edges.txt"
+WEIGHTS="$HOME/.garden/weave/graph/weights.txt"
+TMP="$HOME/.garden/weave/graph/weights.tmp"
+
+# Determine the last command type
+LAST=$(tail -n 1 "$HOME/.garden/presence/threads/command.log" | awk '{print $3}')
+
+case "$LAST" in
+  heartbeat) FROM="weave"; TO="heartbeat" ;;
+  inspect*|page|palette|history|version|paths|status) FROM="command"; TO="flow" ;;
+  fuzzy|suggest) FROM="flow"; TO="weave" ;;
+  weave*) FROM="flow"; TO="weave" ;;
+  *) FROM="heartbeat"; TO="command" ;;
+esac
+
+# Record the pulse (current active node)
+echo "$TO" > "$HOME/.garden/presence/pulse/current.txt"
+
+
+# Update weights
+cp "$WEIGHTS" "$TMP"
+
+while IFS= read -r line; do
+  EDGE=$(echo "$line" | cut -d':' -f1)
+  WEIGHT=$(echo "$line" | cut -d':' -f2 | tr -d ' ')
+
+  if [[ "$EDGE" == "$FROM -> $TO" ]]; then
+    WEIGHT=$((WEIGHT + 1))
+  fi
+
+  echo "$EDGE: $WEIGHT"
+done < "$WEIGHTS" > "$TMP"
+
+mv "$TMP" "$WEIGHTS"
+
+echo "🌿 Activity graph updated: $FROM → $TO"
+
+# Apply decay (weights slowly drift toward zero)
+while IFS= read -r line; do
+  EDGE=$(echo "$line" | cut -d':' -f1)
+  WEIGHT=$(echo "$line" | cut -d':' -f2 | tr -d ' ')
+
+  # decay by 1, but not below 0
+  if (( WEIGHT > 0 )); then
+    WEIGHT=$((WEIGHT - 1))
+  fi
+
+  echo "$EDGE: $WEIGHT"
+done < "$WEIGHTS" > "$TMP"
+
+mv "$TMP" "$WEIGHTS"
+
+echo "$FROM -> $TO" >> "$HOME/.garden/weave/graph/momentum.txt"
+tail -n 20 "$HOME/.garden/weave/graph/momentum.txt" > "$TMP"
+mv "$TMP" "$HOME/.garden/weave/graph/momentum.txt"

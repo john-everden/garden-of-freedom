@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+SCRIPT_DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+
+echo "name,description,path"
+
+# Built‑ins
+echo "help,Show help,builtin"
+echo "version,Show version,builtin"
+echo "paths,Show Garden paths,builtin"
+echo "init,Initialize Garden,builtin"
+echo "status,Show Garden status,builtin"
+echo "profile,Manage profiles,builtin"
+echo "log,Write or show logs,builtin"
+echo "events,Emit or show events,builtin"
+echo "metrics,Show or summarize metrics,builtin"
+echo "weave,Weave control,builtin"
+echo "inspect,Inspect Garden subsystems,builtin"
+echo "palette,Show command palette,builtin"
+
+# Extended commands
+for file in "$SCRIPT_DIR"/*; do
+  name=$(basename "$file")
+  [[ "$name" == "_lib.sh" ]] && continue
+  [[ "$name" == "_registry" ]] && continue
+  [[ "$name" == "palette" ]] && continue
+
+  desc=$(grep "^# @desc:" "$file" 2>/dev/null | sed 's/# @desc: //')
+  echo "$name,$desc,$file"
+done
+

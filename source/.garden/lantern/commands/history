@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+HIST="$HOME/.garden/history/commands.log"
+
+if [ ! -f "$HIST" ]; then
+  echo "No history yet."
+  exit 0
+fi
+
+echo "🌿 Command History"
+echo "------------------"
+echo ""
+
+cat "$HIST"
+

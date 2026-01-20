@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+EPOCH="$HOME/.garden/presence/epoch/state.txt"
+AGE="$HOME/.garden/presence/age/age.txt"
+STATE="$HOME/.garden/presence/age/state.txt"
+
+EP=$(cat "$EPOCH" 2>/dev/null)
+AG=$(cat "$AGE" 2>/dev/null)
+if [[ -z "$AG" ]]; then AG=0; fi
+
+if [[ "$EP" == "rebirth" ]]; then
+  AG=$((AG + 1))
+  echo "$AG" > "$AGE"
+fi
+
+case $(( AG % 4 )) in
+  0) AST="firstlight" ;;
+  1) AST="ascendant" ;;
+  2) AST="waning" ;;
+  3) AST="shattered" ;;
+esac
+
+echo "$AST" > "$STATE"

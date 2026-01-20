@@ -1,0 +1,36 @@
+Living Map
+==========
+
+Nodes:
+heartbeat
+command
+flow
+weave
+
+Links:
+heartbeat -> command
+command -> flow
+flow -> weave
+weave -> heartbeat
+
+Recent Activity:
+----------------
+Heartbeat:
+2026-01-20 11:29:38 heartbeat
+2026-01-20 11:29:59 heartbeat
+2026-01-20 11:30:08 heartbeat
+
+Command:
+2026-01-20 11:36:37 living_map 
+2026-01-20 11:36:42 inspect_living_map 
+2026-01-20 11:36:42 living_map 
+
+Flow:
+2026-01-20 11:30:00 suggest in
+2026-01-20 11:30:12 fuzzy log
+2026-01-20 11:30:17 suggest in
+
+Weave:
+2026-01-20 11:29:39 weave heartbeat
+2026-01-20 11:30:00 weave heartbeat
+2026-01-20 11:30:21 weave heartbeat

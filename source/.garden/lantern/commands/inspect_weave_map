@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Regenerate the map
+garden weave_map
+
+# Render the page with the generated map content
+TMP="$HOME/.garden/weave/map.txt"
+garden page "Weave Map" "$TMP"
+

@@ -1,0 +1,14 @@
+Presence
+========
+
+Heartbeat:
+$(tail -n 5 ~/.garden/presence/heartbeat.log 2>/dev/null)
+
+Command Thread:
+$(tail -n 5 ~/.garden/presence/threads/command.log 2>/dev/null)
+
+Flow Thread:
+$(tail -n 5 ~/.garden/presence/threads/flow.log 2>/dev/null)
+
+Weave Thread:
+$(tail -n 5 ~/.garden/presence/threads/weave.log 2>/dev/null)

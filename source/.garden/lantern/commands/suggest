@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+echo "$(date '+%Y-%m-%d %H:%M:%S') suggest $1" >> "$HOME/.garden/presence/threads/flow.log"
+
+prefix="$1"
+
+if [ -z "$prefix" ]; then
+  echo "Usage: garden suggest <prefix>"
+  exit 1
+fi
+
+SCRIPT_DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+REGISTRY="$SCRIPT_DIR/_registry"
+
+mapfile -t lines < <("$REGISTRY")
+unset 'lines[0]'
+
+echo "Suggestions:"
+echo ""
+
+for line in "${lines[@]}"; do
+  name=$(echo "$line" | cut -d',' -f1)
+  if [[ "$name" == "$prefix"* ]]; then
+    echo "  $name"
+  fi
+done

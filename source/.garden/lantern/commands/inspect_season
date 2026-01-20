@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+garden season
+garden page "Season" "$HOME/.garden/lantern/views/season.txt"

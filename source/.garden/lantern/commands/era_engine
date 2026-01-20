@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+SEASON="$HOME/.garden/presence/season/state.txt"
+ERA="$HOME/.garden/presence/era/era.txt"
+STATE="$HOME/.garden/presence/era/state.txt"
+
+# Read season state
+S=$(cat "$SEASON" 2>/dev/null)
+
+# Read era counter
+E=$(cat "$ERA" 2>/dev/null)
+if [[ -z "$E" ]]; then E=0; fi
+
+# Advance era on 'night'
+if [[ "$S" == "night" ]]; then
+  E=$((E + 1))
+  echo "$E" > "$ERA"
+fi
+
+# Determine era state
+case $(( E % 4 )) in
+  0) EST="origin" ;;
+  1) EST="growth" ;;
+  2) EST="fracture" ;;
+  3) EST="renewal" ;;
+esac
+
+echo "$EST" > "$STATE"
+
+echo "🌿 Era engine updated: era $E ($EST)"
+

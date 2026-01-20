@@ -1,0 +1,4 @@
+Metrics
+=======
+
+$(cat ~/.garden/metrics/commands.log 2>/dev/null || echo "No metrics recorded.")

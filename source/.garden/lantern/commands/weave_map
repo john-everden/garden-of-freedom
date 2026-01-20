@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+HB="$HOME/.garden/presence/heartbeat.log"
+CMD="$HOME/.garden/presence/threads/command.log"
+FLOW="$HOME/.garden/presence/threads/flow.log"
+WEAVE="$HOME/.garden/presence/threads/weave.log"
+OUT="$HOME/.garden/weave/map.txt"
+
+{
+  echo "Weave Map"
+  echo "========="
+  echo ""
+  echo "Heartbeat:"
+  tail -n 5 "$HB" 2>/dev/null
+  echo ""
+  echo "Command Thread:"
+  tail -n 5 "$CMD" 2>/dev/null
+  echo ""
+  echo "Flow Thread:"
+  tail -n 5 "$FLOW" 2>/dev/null
+  echo ""
+  echo "Weave Thread:"
+  tail -n 5 "$WEAVE" 2>/dev/null
+} > "$OUT"
+
+echo "🌿 Weave map updated."

@@ -1,0 +1,14 @@
+Activity Graph
+==============
+
+Edges:
+heartbeat -> command
+command -> flow
+flow -> weave
+weave -> heartbeat
+
+Weights:
+heartbeat -> command: 0
+command -> flow: 0
+flow -> weave: 0
+weave -> heartbeat: 0

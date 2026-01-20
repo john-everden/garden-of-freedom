@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+AEON="$HOME/.garden/presence/aeon/aeon.txt"
+STATE="$HOME/.garden/presence/aeon/state.txt"
+
+{
+  echo "Aeon Engine"
+  echo "==========="
+  echo ""
+  echo "Aeon:"
+  cat "$AEON"
+  echo ""
+  echo "State:"
+  cat "$STATE"
+} > "$HOME/.garden/lantern/views/aeon.txt"
+
+echo "🌿 Aeon displayed."

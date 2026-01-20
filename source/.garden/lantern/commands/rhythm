@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+STATE="$HOME/.garden/presence/rhythm/state.txt"
+BEAT="$HOME/.garden/presence/rhythm/beat.txt"
+
+{
+  echo "Rhythm Engine"
+  echo "============="
+  echo ""
+  echo "Beat:"
+  cat "$BEAT"
+  echo ""
+  echo "State:"
+  cat "$STATE"
+} > "$HOME/.garden/lantern/views/rhythm.txt"
+
+echo "🌿 Rhythm displayed."

@@ -1,0 +1,4 @@
+heartbeat -> command
+command -> flow
+flow -> weave
+weave -> heartbeat

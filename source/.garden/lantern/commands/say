@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+. "$(dirname "$0")/_lib.sh"
+
+mode="$1"
+shift
+
+if [ -z "$mode" ]; then
+    printf "%s Missing mode\n" "$(red "[error]")"
+    exit 1
+fi
+
+if [ $# -eq 0 ]; then
+    printf "%s Missing message\n" "$(red "[error]")"
+    exit 1
+fi
+
+route_message "$mode" "$*"
+

@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+PHASE="$HOME/.garden/presence/cycle/phase.txt"
+STATE="$HOME/.garden/presence/cycle/state.txt"
+
+{
+  echo "Cycle Engine"
+  echo "============"
+  echo ""
+  echo "Phase:"
+  cat "$PHASE"
+  echo ""
+  echo "State:"
+  cat "$STATE"
+} > "$HOME/.garden/lantern/views/cycle.txt"
+
+echo "🌿 Cycle displayed."

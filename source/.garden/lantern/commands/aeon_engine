@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+AGE="$HOME/.garden/presence/age/state.txt"
+AEON="$HOME/.garden/presence/aeon/aeon.txt"
+STATE="$HOME/.garden/presence/aeon/state.txt"
+
+AG=$(cat "$AGE" 2>/dev/null)
+AN=$(cat "$AEON" 2>/dev/null)
+if [[ -z "$AN" ]]; then AN=0; fi
+
+if [[ "$AG" == "shattered" ]]; then
+  AN=$((AN + 1))
+  echo "$AN" > "$AEON"
+fi
+
+case $(( AN % 4 )) in
+  0) AST="prime" ;;
+  1) AST="flux" ;;
+  2) AST="entropy" ;;
+  3) AST="return" ;;
+esac
+
+echo "$AST" > "$STATE"

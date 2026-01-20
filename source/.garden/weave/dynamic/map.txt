@@ -1,0 +1,30 @@
+Dynamic Weave Map
+=================
+
+Nodes:
+heartbeat: warm
+command: active
+flow: warm
+weave: warm
+
+Pulse:
+command
+
+Momentum (last 20 transitions):
+command -> flow
+heartbeat -> command
+command -> flow
+command -> flow
+flow -> weave
+flow -> weave
+command -> flow
+heartbeat -> command
+command -> flow
+command -> flow
+heartbeat -> command
+command -> flow
+flow -> weave
+flow -> weave
+command -> flow
+command -> flow
+heartbeat -> command

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+garden living_map
+garden page "Living Map" "$HOME/.garden/weave/living/map.txt"

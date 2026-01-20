@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+ERA="$HOME/.garden/presence/era/era.txt"
+STATE="$HOME/.garden/presence/era/state.txt"
+
+{
+  echo "Era Engine"
+  echo "=========="
+  echo ""
+  echo "Era:"
+  cat "$ERA"
+  echo ""
+  echo "State:"
+  cat "$STATE"
+} > "$HOME/.garden/lantern/views/era.txt"
+
+echo "🌿 Era displayed."

@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+SCRIPT_DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+REGISTRY="$SCRIPT_DIR/_registry"
+
+echo "🌿 Entering Garden Shell"
+echo "Type 'exit' to leave."
+echo ""
+
+while true; do
+  # Prompt
+  printf "garden> "
+  read -r input
+
+  # Exit condition
+  if [[ "$input" == "exit" ]]; then
+    echo "Leaving Garden Shell."
+    break
+  fi
+
+  # Empty input
+  if [[ -z "$input" ]]; then
+    continue
+  fi
+
+  # Split input into command + args
+  cmd=$(echo "$input" | awk '{print $1}')
+  args=$(echo "$input" | cut -d' ' -f2-)
+
+  # Dispatch
+  if command -v garden >/dev/null 2>&1; then
+    garden "$cmd" $args
+  else
+    echo "Error: garden command not found."
+  fi
+
+  echo ""
+done
+

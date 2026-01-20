@@ -1,0 +1,8 @@
+Rhythm Engine
+=============
+
+Beat:
+8
+
+State:
+downbeat

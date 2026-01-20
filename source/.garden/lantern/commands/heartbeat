@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+HB="$HOME/.garden/presence/heartbeat.log"
+
+echo "$(date '+%Y-%m-%d %H:%M:%S') heartbeat" >> "$HB"
+
+echo "🌿 Heartbeat sent."
+

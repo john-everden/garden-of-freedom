@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+SCRIPT_DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+REGISTRY="$SCRIPT_DIR/_registry"
+
+query="$1"
+
+if [ -z "$query" ]; then
+  echo "Usage: garden search <term>"
+  exit 1
+fi
+
+mapfile -t lines < <("$REGISTRY")
+unset 'lines[0]'  # skip header
+
+echo "🌿 Search results for: $query"
+echo "-----------------------------"
+echo ""
+
+found=0
+
+for line in "${lines[@]}"; do
+  name=$(echo "$line" | cut -d',' -f1)
+  desc=$(echo "$line" | cut -d',' -f2)
+
+  if [[ "$name" == *"$query"* ]] || [[ "$desc" == *"$query"* ]]; then
+    printf "  %-12s %s\n" "$name" "$desc"
+    found=1
+  fi
+done
+
+if [ "$found" -eq 0 ]; then
+  echo "No matches found."
+fi
+

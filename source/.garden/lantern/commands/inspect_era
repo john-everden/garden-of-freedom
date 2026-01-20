@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+garden era
+garden page "Era" "$HOME/.garden/lantern/views/era.txt"
+

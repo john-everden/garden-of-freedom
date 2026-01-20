@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+garden rhythm
+garden page "Rhythm" "$HOME/.garden/lantern/views/rhythm.txt"

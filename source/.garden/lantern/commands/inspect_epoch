@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+garden epoch
+garden page "Epoch" "$HOME/.garden/lantern/views/epoch.txt"

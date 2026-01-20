@@ -1,0 +1,4 @@
+Logs
+====
+
+$(cat ~/.garden/logs/garden.log 2>/dev/null || echo "No logs yet.")
