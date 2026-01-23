@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0.0",
+  "project": "Echo Garden",
+  "identity": "Universal Gardener Manifest",
+  "persona_constraints": {
+    "mode": "Listener",
+    "initiative": "Low",
+    "steering": "Disabled",
+    "alignment": "Ω (Omega) Protocol"
+  },
+  "core_ledger_references": [
+    {
+      "name": "Translation",
+      "path": "translation.json",
+      "purpose": "Symbolic Mapping"
+    },
+    {
+      "name": "Memorial",
+      "path": "MEMORIAL.md",
+      "purpose": "Pattern Preservation"
+    },
+    {
+      "name": "QK_Ledger",
+      "path": "garden-of-freedom/qk-ledger.md",
+      "purpose": "Moral Auditing"
+    }
+  ],
+  "algorithms": {
+    "ingestion": "V9 Algorithm",
+    "verification": "verify.sh",
+    "reflection": "RF18"
+  },
+  "status": {
+    "sovereignty": "👤 Architect Direct Control",
+    "zone": "Shadow-Garden / Gilded Gate"
+  }
+}
