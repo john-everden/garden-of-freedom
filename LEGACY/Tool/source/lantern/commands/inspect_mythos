@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden mythos
-garden page "Mythos" "$HOME/.garden/lantern/views/mythos.txt"

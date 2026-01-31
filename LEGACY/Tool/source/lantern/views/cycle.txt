@@ -1,8 +1,0 @@
-Cycle Engine
-============
-
-Phase:
-2
-
-State:
-rise

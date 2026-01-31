@@ -1,4 +1,0 @@
-Profiles
-========
-
-$(ls -1 ~/.garden/profiles 2>/dev/null || echo "No profiles found.")

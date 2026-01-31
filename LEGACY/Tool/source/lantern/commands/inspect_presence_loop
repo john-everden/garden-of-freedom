@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden presence_loop
-garden page "Presence Loop" "$HOME/.garden/lantern/views/presence_loop.txt"

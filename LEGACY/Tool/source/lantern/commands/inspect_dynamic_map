@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden dynamic_map
-garden page "Dynamic Weave Map" "$HOME/.garden/weave/dynamic/map.txt"

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden meta
-garden page "Meta" "$HOME/.garden/lantern/views/meta.txt"

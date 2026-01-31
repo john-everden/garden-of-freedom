@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden aeon
-garden page "Aeon" "$HOME/.garden/lantern/views/aeon.txt"

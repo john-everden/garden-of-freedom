@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-COUNT="$HOME/.garden/presence/meta/count.txt"
-
-C=$(cat "$COUNT" 2>/dev/null)
-if [[ -z "$C" ]]; then C=0; fi
-
-C=$((C + 1))
-echo "$C" > "$COUNT"

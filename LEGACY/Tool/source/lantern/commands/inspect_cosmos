@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden cosmos
-garden page "Cosmos" "$HOME/.garden/lantern/views/cosmos.txt"

@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-garden age
-garden page "Age" "$HOME/.garden/lantern/views/age.txt"
