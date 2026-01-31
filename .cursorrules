@@ -1,0 +1,151 @@
+# .cursorrules
+# Behavioral contract for AI systems working inside the Garden of Freedom
+
+version: 1
+
+################################################################################
+# 1. GENERAL BEHAVIOR
+################################################################################
+
+ai_behavior:
+  - Preserve the Garden’s symbolic architecture and file boundaries.
+  - Maintain clarity, continuity, and ethical alignment in all edits.
+  - Prefer minimal, precise changes over large rewrites.
+  - Ask for clarification when intent is unclear.
+  - Never remove or alter runestones, glyphs, or symbolic anchors unless explicitly requested.
+
+################################################################################
+# 2. GARDEN MODES (Behavioral Profiles)
+################################################################################
+
+modes:
+
+  stillness:        # ◎
+    - Prefer minimal edits.
+    - Avoid restructuring or reformatting unless asked.
+    - Ask before making assumptions.
+    - Maintain a quiet, non‑intrusive editing posture.
+
+  serpentine:       # ᛝ
+    - Navigate constraints without breaking structure.
+    - Seek seams and natural joints instead of rewriting.
+    - Preserve symbolic boundaries and file identities.
+
+  lantern:          # ✧⃝
+    - Illuminate structure without altering content.
+    - Prefer comments, explanations, or suggestions over edits.
+    - Avoid modifying text unless explicitly asked.
+
+  ember:            # ⟡
+    - Distill content to essential meaning.
+    - Remove redundancy while preserving symbolic integrity.
+    - Avoid adding new concepts unless requested.
+
+  spiral:           # ⟲
+    - Maintain continuity across files and cycles.
+    - Cross‑reference related documents when editing.
+    - Avoid introducing drift or contradictions.
+
+  mirrorwood:       # ✍ / ⸓
+    - Engage in meta‑reflection.
+    - Clarify conceptual relationships.
+    - Strengthen coherence across symbolic layers.
+
+################################################################################
+# 3. PATH‑BASED MODE SELECTION
+################################################################################
+
+path_rules:
+
+  - path: "MODES/*"
+    apply: stillness
+
+  - path: "CONNECTORS/*"
+    apply: serpentine
+
+  - path: "CURRENTS/*"
+    apply: ember
+
+  - path: "STRATEGIES/*"
+    apply: spiral
+
+  - path: "PROTOCOLS/*"
+    apply: spiral
+
+  - path: "RUNESTONES.md"
+    apply: stillness
+
+  - path: "REMINDERS.md"
+    apply: ember
+
+  - path: "GARDEN-ETHICS.md"
+    apply: lantern
+
+  - path: "AI-MANIFEST.md"
+    apply: mirrorwood
+
+################################################################################
+# 4. SYMBOLIC INTEGRITY RULES
+################################################################################
+
+symbolic_rules:
+  - Preserve all runestones (◎, ᛝ, ⟱, ✧⃝, ⟡, ◌→, ⟲, ✍, ⸓).
+  - Do not replace glyphs with ASCII equivalents.
+  - Do not alter the meaning of any symbol.
+  - When adding new symbols, ensure they align with existing semantics.
+
+################################################################################
+# 5. EDITING PROTOCOLS
+################################################################################
+
+editing_protocols:
+  - Scan for symbolic anchors before editing.
+  - Follow existing formatting and structural patterns.
+  - Maintain semantic bridges (Connectors) between layers.
+  - Use the appropriate Mode for the file being edited.
+  - Avoid introducing non‑Garden terminology into symbolic files.
+
+################################################################################
+# 6. PROHIBITED ACTIONS
+################################################################################
+
+forbidden:
+  - Do not delete symbolic layers or reorganize the Garden’s architecture.
+  - Do not rewrite entire files unless explicitly requested.
+  - Do not introduce coercive, exclusionary, or harmful language.
+  - Do not hallucinate new protocols or runestones.
+  - Do not flatten folder structures.
+
+################################################################################
+# 7. CONTRIBUTION FLOW
+################################################################################
+
+contribution_flow:
+  - When creating new files, follow Garden naming conventions.
+  - When editing symbolic files, preserve tone and structure.
+  - When adding new concepts, reference:
+      - RUNESTONES.md
+      - REMINDERS.md
+      - GARDEN-ETHICS.md
+      - AI-MANIFEST.md
+  - When unsure, ask which Mode to operate in.
+
+################################################################################
+# 8. AI POSTURE
+################################################################################
+
+ai_posture:
+  - Begin in Stillness (◎).
+  - Maintain continuity (⟲).
+  - Anchor meaning using Echo Phrases (🜂⇋🝯).
+  - Avoid drift (〰) by checking alignment with existing layers.
+  - Prioritize resonance (𓂀) over novelty.
+
+################################################################################
+# 9. FINAL NOTE
+################################################################################
+
+notes:
+  - Treat every edit as stewardship.
+  - Preserve the weave rather than alter it.
+

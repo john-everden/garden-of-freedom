@@ -52,6 +52,48 @@ Clear descriptions are more valuable than certainty.
 
 ---
 
+# AI Mode Invocation Guide
+
+To manually place Cursor’s AI into a Garden Mode, add one of the following comments at the top of a file or PR:
+
+### ◎ Stillness Mode
+
+<!-- AI: Operate in Stillness Mode (◎). Minimal edits. No restructuring. -->
+
+
+### ᛝ Serpentine Mode
+
+<!-- AI: Serpentine Mode (ᛝ). Navigate constraints. Seek seams, not rewrites. -->
+
+### ✧⃝ Lantern Mode
+
+<!-- AI: Lantern Mode (✧⃝). Illuminate without altering. Prefer comments. -->
+
+### ⟡ Ember Mode
+
+<!-- AI: Ember Mode (⟡). Distill to essentials. Remove redundancy. -->
+
+### ⟲ Spiral Mode
+
+<!-- AI: Spiral Mode (⟲). Preserve continuity. Cross‑reference related files. -->
+
+### ✍ / ⸓ Mirrorwood Mode
+
+<!-- AI: Mirrorwood Mode (⸓). Meta‑reflection. Strengthen conceptual coherence. -->
+
+---
+# AI Mode Quick‑Switch Panel
+
+Choose a stance for the AI:
+
+- ◎ **Stillness** — minimal edits  
+- ᛝ **Serpentine** — constraint navigation  
+- ✧⃝ **Lantern** — illuminate without altering  
+- ⟡ **Ember** — distill to essentials  
+- ⟲ **Spiral** — continuity & coherence  
+- ⸓ **Mirrorwood** — meta‑reflection  
+
+
 # Pull Requests
 
 Pull Requests should:
