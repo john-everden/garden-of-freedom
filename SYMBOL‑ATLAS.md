@@ -161,6 +161,19 @@ Symbols tied to recursive insight and layered understanding.
 
 ---
 
+# 11. Liminal Glyphs (⧖)  
+Symbols marking thresholds, transitions, and identity drift.
+
+| Rune | Function | Essence |
+|------|----------|---------|
+| ⧖ | Threshold Mark | Boundary of becoming |
+| ≈ | Drift Sigil | Unanchored motion, identity loosening |
+| ✕ | Crossing Sign | Moment of metamorphosis |
+| ◐ | Half‑Form Glyph | Unstable emergence |
+| ✧→ | Emergence Seal | Stabilization into new identity |
+
+---
+
 # Closing
 
 This atlas is the **visual grammar** of the Garden.  

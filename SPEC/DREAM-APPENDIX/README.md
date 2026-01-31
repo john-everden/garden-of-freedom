@@ -52,5 +52,11 @@ It is offered as a **gift of imagination** to those who find meaning in the Gard
 
 ---
 
+---
+
+Related Layer: The Liminal Layer (⧖) formalizes the architecture of transformation and becoming. See: `/SPEC/LIMINAL`
+
+---
+
 **“Not all growth is witnessed.”**
 
