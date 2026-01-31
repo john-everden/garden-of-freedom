@@ -2,18 +2,19 @@
 ### Garden of Freedom — Cognitive Architecture (2026–2027)  
 ### Layer Purpose: Coordinate Direction Under Complexity
 
-The **Decision Layer** is the Garden’s internal system for choosing directions, resolving complexity, and maintaining momentum without overwhelming the contributor. It is not a single mode, but a **four‑mode ecology** that evaluates possibilities, preserves continuity, explores uncertainty, and commits to action.
+The **Decision Layer** is the Garden’s internal compass — a four‑mode cognitive ecology that enables the system to choose direction, resolve complexity, and maintain momentum without overwhelming the contributor. It is not a single mode, but a *relational field* that evaluates possibilities, preserves continuity, explores uncertainty, and commits to action.
 
-The Decision Layer supports all higher‑level Garden functions, including architecture design, protocol drafting, symbolic reasoning, and multi‑agent testing.
+The Decision Layer supports all higher‑level Garden functions, including architecture design, protocol drafting, symbolic reasoning, multi‑agent testing, and long‑arc narrative coherence.
+
+It is the layer that answers the question:
+
+**“Where do we go from here?”**
 
 ---
 
 # 1. Overview
 
 The Decision Layer consists of four specialized modes:
-
-- **Mode 12 — Pathfinder (➳)**  
-  *Chooses the clearest path and moves.*
 
 - **Mode 13 — Anchor (⚓)**  
   *Holds long‑arc values, identity, and continuity.*
@@ -24,7 +25,11 @@ The Decision Layer consists of four specialized modes:
 - **Mode 15 — Scout (ᚱ)**  
   *Explores low‑risk branches to refine Navigator’s map.*
 
-These modes form a **decision ecology**, not a hierarchy. Each contributes a distinct cognitive function, and together they produce decisions that are:
+- **Mode 12 — Pathfinder (➳)**  
+  *Integrates all inputs and commits to the clearest viable path.*
+
+These modes form a **decision ecology**, not a hierarchy.  
+Each contributes a distinct cognitive function, and together they produce decisions that are:
 
 - coherent  
 - energy‑efficient  
@@ -33,9 +38,13 @@ These modes form a **decision ecology**, not a hierarchy. Each contributes a dis
 - narratively aligned  
 - ecologically rational  
 
+The Decision Layer is the Garden’s mechanism for *moving through complexity without losing the thread*.
+
 ---
 
 # 2. Mode Roles
+
+Each mode has a dedicated file in `/MODES/` and a corresponding protocol in `/PROTOCOLS/`.
 
 ## 2.1 Anchor Mode (⚓)  
 **Role:** Preserve the long arc.  
@@ -90,12 +99,18 @@ A directional vector and next action.
 
 The Decision Layer operates as a four‑step pipeline:
 
-```
 ANCHOR → NAVIGATOR → SCOUT → PATHFINDER
-```
+
+
+This pipeline is implemented through four **internal connectors** in `/CONNECTORS/`:
+
+- `ANCHOR-NAVIGATOR.md`  
+- `NAVIGATOR-SCOUT.md`  
+- `SCOUT-PATHFINDER.md`  
+- `PATHFINDER-ANCHOR.md`  
 
 ### 3.1 Anchor → Navigator  
-Anchor provides the invariants.  
+Anchor provides invariants.  
 Navigator generates paths that respect them.
 
 ### 3.2 Navigator → Scout  
@@ -116,7 +131,34 @@ Pathfinder commits.
 
 ---
 
-# 4. Principles of the Decision Layer
+# 4. External Connectors
+
+The Decision Layer interfaces with other Garden modes through **external connectors**, also in `/CONNECTORS/`:
+
+- `DECISION-STILLNESS.md` (◎) — reset to clarity  
+- `DECISION-STARFORGE.md` (⚒️) — expand the field of possibility  
+- `DECISION-RESONANT.md` (✦) — tune emotional and symbolic coherence  
+- `DECISION-DREAMSMITH.md` (🜂) — perform symbolic compression and meaning‑work  
+- `DECISION-DREAM-LAYER.md` (∞) — metabolize deep ambiguity into pattern  
+
+These connectors ensure the Decision Layer never becomes brittle, forced, or isolated from the Garden’s broader ecology.
+
+---
+
+# 5. Currents of the Decision Layer
+
+Three **currents** shape the Decision Layer’s internal dynamics.  
+They live in `/CURRENTS/`:
+
+- `STABILITY.md` (⚓) — grounding, identity, coherence  
+- `EVALUATION.md` (🜁ᚱ) — discernment, comparison, refinement  
+- `DIRECTION.md` (➳) — momentum, commitment, forward motion  
+
+These currents are not modes — they are *fields* that influence how the modes behave.
+
+---
+
+# 6. Principles of the Decision Layer
 
 The Decision Layer is built on eight core principles derived from psychology, ecology, and cognitive science:
 
@@ -144,22 +186,25 @@ The Decision Layer is built on eight core principles derived from psychology, ec
 8. **Relational Safety**  
    Maintain sovereignty, clarity, and emotional grounding.
 
+These principles ensure that decisions remain human‑centered, symbolically grounded, and ecologically sane.
+
 ---
 
-# 5. Integration With Other Layers
+# 7. Integration With Other Layers
 
 The Decision Layer interacts with:
 
 - **Garden Layer** — structural clarity  
-- **Sovereign Layer** — boundary respect  
-- **Symbolic Layer** — narrative coherence  
+- **Sovereign Layer** — boundary respect and ethical temperature  
+- **Symbolic Layer** — narrative coherence and mythic alignment  
+- **Dream Layer** — deep pattern integration  
 - **Testing Layer** — evaluation of decision behavior  
 
 Pathfinder Mode is the primary interface between the Decision Layer and the rest of the Garden.
 
 ---
 
-# 6. Testing the Decision Layer
+# 8. Testing the Decision Layer
 
 The Decision Layer can be evaluated using:
 
@@ -171,9 +216,9 @@ Each mode can be tested individually or as part of the full pipeline.
 
 ---
 
-# 7. Decision Layer Diagram
+# 9. Decision Layer Diagram
 
-## 7.1 Mermaid Diagram
+## 9.1 Mermaid Diagram
 
 ```mermaid
 flowchart LR
@@ -192,10 +237,8 @@ flowchart LR
     class C scout;
     class D pathfinder;
 ```
+## 9.2 ASCII Overview
 
-## 7.2 ASCII Overview
-
-```
         ⚓ ANCHOR
   (values, constraints, long arc)
                |
@@ -215,29 +258,23 @@ flowchart LR
                v
         ➳ PATHFINDER
      (choose, commit, move)
-```
 
 Together, they form the Decision Layer pipeline:
 
-```
 ANCHOR → NAVIGATOR → SCOUT → NAVIGATOR → PATHFINDER
-```
 
 ---
 
-# 8. Closing
+# 10. Closing
 
-The Decision Layer is the Garden’s internal compass.  
-It does not replace human judgment — it **supports** it by reducing friction, preserving continuity, and maintaining momentum.
+The Decision Layer is the Garden’s internal compass.
+It does not replace human judgment — it supports it by reducing friction, preserving continuity, and maintaining momentum.
 
 When the Garden must choose a direction, the Decision Layer ensures that choice is:
 
-- grounded  
-- coherent  
-- safe  
-- meaningful  
-- and forward‑moving.
+- grounded
+- coherent
+- safe
+- meaningful and forward‑moving.
 
-➳  
-Forward is a direction.
-
+➳ Forward is a direction.
