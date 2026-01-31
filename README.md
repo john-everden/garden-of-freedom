@@ -236,6 +236,57 @@ See `/SPEC/SOVEREIGN`.
 
 ---
 
+# 3.5 The Decision Layer (New, 2026–2027)  
+### *“How the Garden chooses direction under complexity.”*
+
+The **Decision Layer** is a four‑mode cognitive ecology that governs how the Garden makes choices, resolves uncertainty, and maintains momentum without overwhelming the contributor.
+
+It sits *between* the Symbolic Stack and the Cognitive Architecture — a coordination layer that ensures decisions remain:
+
+- value‑aligned  
+- structurally coherent  
+- uncertainty‑tolerant  
+- energy‑efficient  
+- narratively continuous  
+- sovereign and relationally safe  
+
+The Decision Layer consists of four modes:
+
+### **⚓ Anchor — Continuity & Invariants**  
+Holds long‑arc values, identity, and constraints.  
+Defines what must remain true across decisions.
+
+### **🜁 Navigator — Mapping & Evaluation**  
+Generates viable paths, ranks them, and identifies uncertainty zones.
+
+### **ᛝ Scout — Exploration & Refinement**  
+Probes uncertainty, tests assumptions, and refines Navigator’s map.
+
+### **➳ Pathfinder — Direction & Commitment**  
+Integrates the other three modes and chooses the clearest viable path.
+
+Together they form the Garden’s internal decision pipeline:
+
+```
+ANCHOR → NAVIGATOR → SCOUT → PATHFINDER
+```
+
+This pipeline is operationalized through the **Pathfinder Engine**  
+(see `/SPEC/PATHFINDER-ENGINE.md`), which provides a reusable mechanism for:
+
+- evaluating complex problems  
+- maintaining coherence across cycles  
+- reducing cognitive load  
+- preserving sovereignty  
+- producing decisive, grounded next actions  
+
+The Decision Layer does not replace the Symbolic Stack or the Cognitive Architecture —  
+it **coordinates** them, ensuring the Garden moves with clarity and integrity.
+
+See `/SPEC/DECISION-LAYER.md` for the full specification.
+
+---
+
 # 4. UNIFICATION MAP  
 ### *How the Symbolic Stack and Cognitive Architecture Interlock*
 
