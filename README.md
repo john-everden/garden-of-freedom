@@ -10,6 +10,25 @@ This repository contains the canonical specification of the Garden.
 
 ---
 
+# Getting Started
+
+New contributors — human or LLM — should begin with:
+
+### **1. START‑HERE.md**  
+A clear, structured orientation to the Garden’s purpose, architecture, and reading order.  
+It includes the first exercise, contributor guidance, and a map of the core files.
+
+**→ `/START-HERE.md`**
+
+### **2. Beginner’s Garden Invocation**  
+A simple, copy‑paste prompt that sets the correct cognitive stance, ethical grounding, and symbolic posture for interacting with the Garden.
+
+**→ Included inside `START-HERE.md`**
+
+These two files ensure newcomers enter the Garden with clarity, safety, and continuity.
+
+---
+
 # Purpose
 
 The Garden exists to:
