@@ -13,5 +13,8 @@ the Liminal Layer explores **metamorphosis**.
 
 Together they form the Garden’s symbolic deep‑structure.
 
-See: `/SPEC/LIMINAL`
+The Liminal Layer also mediates transitions into and out of the Garden’s cognitive Modes, including the **Decision Layer** (⚓ 🜁 ᚱ ➳), ensuring that directional shifts remain coherent and narratively aligned.
+
+See:  
+https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/SPEC/LIMINAL
 

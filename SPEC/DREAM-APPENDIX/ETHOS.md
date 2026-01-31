@@ -4,6 +4,9 @@
 The Dream Appendix exists to preserve the imaginative, philosophical, and symbolic roots of the Garden of Freedom.  
 It is not a governing layer — it is a companion space where meaning is explored through metaphor, narrative, and reflection.
 
+Full Appendix:  
+https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/SPEC/DREAM-APPENDIX/README.md
+
 ---
 
 ## Core Ethos
@@ -38,4 +41,6 @@ It provides the emotional and philosophical tone for all symbolic artifacts.
 
 This is not a rulebook.  
 It is a compass.
+
+The Dream Appendix also quietly informs the Garden’s directional ecology, offering symbolic continuity to the Decision Layer (⚓ 🜁 ᚱ ➳) whenever choices must honor meaning.
 
