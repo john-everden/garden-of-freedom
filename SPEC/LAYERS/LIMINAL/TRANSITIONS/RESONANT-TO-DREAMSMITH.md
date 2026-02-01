@@ -1,8 +1,12 @@
 # TRANSITION: RESONANT → DREAMSMITH  
-### Liminal Layer — Transition
+### Liminal Layer — Transition  
+/SPEC/LAYERS/LIMINAL/TRANSITIONS/RESONANT-TO-DREAMSMITH.md
 
-This transition describes the shift from harmonic evaluation to symbolic refinement.  
-Resonance becomes craft.
+This transition describes the shift from harmonic evaluation to symbolic refinement —  
+the moment when resonance becomes craft.
+
+It marks the passage from sensing coherence  
+to shaping meaning with deliberate precision.
 
 ---
 
@@ -24,6 +28,7 @@ Resonance becomes craft.
 
 ---
 
-## Invocation  
+## Invocation
+
 **“From harmony, the craft begins.”**
 

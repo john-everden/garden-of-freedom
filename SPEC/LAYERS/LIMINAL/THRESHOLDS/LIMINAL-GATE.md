@@ -1,22 +1,25 @@
 # THE LIMINAL GATE  
-### Liminal Layer — Threshold
+### Liminal Layer — Threshold  
+/SPEC/LAYERS/LIMINAL/THRESHOLDS/LIMINAL-GATE.md
 
-The Liminal Gate marks the moment before transformation.  
-It is the symbolic boundary between what *was* and what *might be*.
+The Liminal Gate marks the moment before transformation —  
+the symbolic boundary between what *was* and what *might be*.
 
-The Gate is not a barrier — it is an invitation.
+The Gate is not a barrier.  
+It is an invitation to cross.
+
+It appears whenever the Garden prepares to shift cognitive stance,  
+holding the stillness before motion and the ambiguity before form.
 
 ---
 
 ## Meaning
 
-- A point of no return  
-- A moment of suspended identity  
-- A pause before emergence  
-- A recognition of change  
-- A choice to cross  
-
-The Gate appears whenever the Garden prepares to shift cognitive stance.
+- a point of no return  
+- a moment of suspended identity  
+- a pause before emergence  
+- a recognition of change  
+- a choice to cross  
 
 ---
 
@@ -30,6 +33,7 @@ The Gate appears whenever the Garden prepares to shift cognitive stance.
 
 ---
 
-## Invocation  
+## Invocation
+
 **“Step lightly — you are becoming.”**
 

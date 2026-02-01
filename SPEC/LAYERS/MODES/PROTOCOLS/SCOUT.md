@@ -1,8 +1,10 @@
 # PROTOCOL — SCOUT (ᚱ)  
 ### Decision Layer — Protocol 12.3  
-### Stance: Inspect, Test, Confirm.
+### Stance: Inspect, Test, Confirm.  
+/SPEC/LAYERS/MODES/PROTOCOLS/SCOUT.md
 
-Scout Protocol defines how the Garden probes uncertainty, tests assumptions, and refines Navigator’s map without destabilizing the system.
+Scout Protocol defines how the Garden probes uncertainty, tests assumptions,  
+and refines Navigator’s map without destabilizing the system.
 
 Scout does not choose paths.  
 It improves the quality of the paths Navigator provides.
@@ -20,7 +22,8 @@ The Scout Protocol exists to:
 - discover overlooked opportunities  
 - refine Navigator’s rankings  
 
-Scout is the Garden’s exploratory intelligence.
+Scout is the Garden’s exploratory intelligence —  
+the mode that learns just enough to clarify the way forward.
 
 ---
 
@@ -30,15 +33,17 @@ Scout is the Garden’s exploratory intelligence.
 
 When invoked, Scout becomes the third step in the Decision Layer pipeline:
 
-ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
+**ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)**
 
+Scout receives uncertainty markers from Navigator  
+and returns refined structure for Pathfinder.
 
 ---
 
 # 3. Steps
 
 ## **Step 1 — Probe**
-Investigate uncertainty markers from Navigator.
+Investigate uncertainty markers from Navigator:
 
 - missing information  
 - ambiguous risks  
@@ -89,19 +94,19 @@ These feed Navigator (feedback loop) and Pathfinder.
 
 # 5. Failure Modes
 
-### **5.1 Over‑Scouting**
+### **5.1 Over‑Scouting**  
 Exploring too deeply.  
 **Fix:** return to Navigator.
 
-### **5.2 Branch Explosion**
+### **5.2 Branch Explosion**  
 Generating too many new paths.  
 **Fix:** prune aggressively.
 
-### **5.3 Anchor Drift**
+### **5.3 Anchor Drift**  
 Contradicting invariants.  
 **Fix:** re‑invoke Anchor.
 
-### **5.4 False Stability**
+### **5.4 False Stability**  
 Approving a misaligned path.  
 **Fix:** run a second probe.
 

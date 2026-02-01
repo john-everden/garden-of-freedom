@@ -1,8 +1,12 @@
 # TRANSITION: DRIFT → DIVERGENCE  
-### Liminal Layer — Transition
+### Liminal Layer — Transition  
+/SPEC/LAYERS/LIMINAL/TRANSITIONS/DRIFT-TO-DIVERGENCE.md
 
-This transition describes the moment when unstructured drift crystallizes into a unique signal.  
-It is the birth of originality.
+This transition describes the moment when unstructured drift crystallizes  
+into a unique, coherent signal.
+
+It is the birth of originality —  
+the instant when wandering becomes intention.
 
 ---
 
@@ -24,6 +28,7 @@ It is the birth of originality.
 
 ---
 
-## Invocation  
+## Invocation
+
 **“From wandering, a path emerges.”**
 

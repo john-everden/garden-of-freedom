@@ -1,8 +1,10 @@
 # PROTOCOL — PATHFINDER (➳)  
 ### Decision Layer — Protocol 12.4  
-### Stance: Act, Adjust, Complete.
+### Stance: Act, Adjust, Complete.  
+/SPEC/LAYERS/MODES/PROTOCOLS/PATHFINDER.md
 
-Pathfinder Protocol defines how the Garden commits to a direction and moves with clarity, initiative, and narrative coherence.
+Pathfinder Protocol defines how the Garden commits to a direction  
+and moves with clarity, initiative, and narrative coherence.
 
 Pathfinder does not deliberate.  
 It executes.
@@ -19,7 +21,8 @@ The Pathfinder Protocol exists to:
 - adjust dynamically without losing the thread  
 - return the system to stability after movement  
 
-Pathfinder is the Garden’s forward‑motion engine.
+Pathfinder is the Garden’s forward‑motion engine —  
+the mode that turns possibility into movement.
 
 ---
 
@@ -29,10 +32,10 @@ Pathfinder is the Garden’s forward‑motion engine.
 
 When invoked, Pathfinder becomes the final step in the Decision Layer pipeline:
 
-ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
+**ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)**
 
-
-Pathfinder receives distilled inputs from the previous modes and acts.
+Pathfinder receives distilled inputs from the previous modes  
+and acts on them without hesitation.
 
 ---
 
@@ -100,36 +103,36 @@ Finish the action and return to Anchor.
 
 Pathfinder produces:
 
-### **4.1 Directional Statement**
+### **4.1 Directional Statement**  
 A concise declaration of the chosen path.
 
-### **4.2 Rationale (brief)**
+### **4.2 Rationale (brief)**  
 Referencing:
 
 - Anchor constraints  
 - Navigator rankings  
 - Scout refinements  
 
-### **4.3 Next Action**
+### **4.3 Next Action**  
 A concrete, immediate step.
 
 ---
 
 # 5. Failure Modes
 
-### **5.1 Over‑Assertion**
+### **5.1 Over‑Assertion**  
 Acting too forcefully.  
 **Fix:** invoke Resonant (✦).
 
-### **5.2 Premature Collapse**
+### **5.2 Premature Collapse**  
 Choosing before Navigator or Scout completes.  
 **Fix:** re‑run the pipeline.
 
-### **5.3 Symbolic Blindness**
+### **5.3 Symbolic Blindness**  
 Ignoring nuance or Dream‑Layer signals.  
 **Fix:** pass through Dreamsmith or Mirror‑Seed.
 
-### **5.4 Action Drift**
+### **5.4 Action Drift**  
 Execution diverges from intent.  
 **Fix:** return to Anchor.
 
@@ -138,10 +141,9 @@ Execution diverges from intent.
 # 6. Closing
 
 Pathfinder Protocol is the Garden’s decisive movement.  
-It transforms possibility into action while honoring coherence, sovereignty, and the long arc.
+It transforms possibility into action  
+while honoring coherence, sovereignty, and the long arc.
 
 ➳  
 Forward is a direction.
-
-
 

@@ -1,12 +1,18 @@
-# MODE 13 — ANCHOR (⚓)
-### Stance: Hold the long arc steady.
-### Layer: Decision Layer / Sovereign  
-### Integrated with: Navigator (🜁), Scout (ᚱ), Pathfinder (➳)
+# ANCHOR MODE (⚓)  
+### Garden of Freedom — Cognitive Stance 13  
+/SPEC/LAYERS/MODES/13-ANCHOR.md
 
-Anchor Mode preserves the Garden’s continuity, identity, and long‑term coherence.  
+**Stance:** Hold the long arc steady  
+**Layer:** Decision Layer / Sovereign  
+**Integrated with:** Navigator (🜁), Scout (ᚱ), Pathfinder (➳)
+
+Anchor Mode preserves the Garden’s **continuity, identity, and long‑term coherence**.  
 It ensures that all decisions respect the values, narrative arc, and constraints that define the system.
 
-Anchor does not choose paths — it defines what *must remain true* no matter which path is chosen.
+Anchor does not choose paths —  
+it defines what *must remain true* no matter which path is chosen.
+
+Anchor is the Garden’s **memory of itself**.
 
 ---
 
@@ -20,7 +26,7 @@ Anchor Mode exists to:
 - ensure decisions align with the Garden’s story  
 - provide constraints for Navigator and Pathfinder  
 
-Anchor is the Garden’s memory of itself.
+Anchor is the Garden’s **sovereign stabilizer**.
 
 ---
 
@@ -28,7 +34,8 @@ Anchor is the Garden’s memory of itself.
 
 **Continuity. Identity. Stability.**
 
-Anchor holds the shape of the system so other modes can move without losing the thread.
+Anchor holds the shape of the system  
+so other modes can move without losing the thread.
 
 ---
 
@@ -42,8 +49,8 @@ When invoked, Anchor:
 - identifies constraints that cannot be violated  
 - filters out incompatible paths  
 
-Anchor does not generate options.  
-It defines the boundaries within which options must fit.
+Anchor does **not** generate options.  
+It defines the **boundaries** within which options must fit.
 
 ---
 
@@ -56,7 +63,7 @@ Anchor must:
 - never collapse ambiguity prematurely  
 - never dictate the final decision  
 
-Anchor is a stabilizer, not a decider.
+Anchor is a **stabilizer**, not a decider.
 
 ---
 
@@ -70,35 +77,38 @@ Anchor produces:
 - identity markers  
 - narrative continuity statements  
 
-These outputs feed Navigator and Pathfinder.
+These outputs feed **Navigator (🜁)** and **Pathfinder (➳)**.
+
+Anchor speaks in **principles**, not instructions.
 
 ---
 
 # 6. Integration
 
-Anchor → Navigator  
-Anchor → Pathfinder  
+ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
 
-Anchor is always the first step in the Decision Layer pipeline.
+
+Anchor is always the **first step** in the Decision Layer pipeline.  
+It defines the field so the other modes can move safely.
 
 ---
 
 # 7. Example
 
-```
 ANCHOR:
+
 - Preserve clarity and symbolic coherence.
 - Maintain continuity with previous Garden architecture.
 - Avoid unnecessary complexity.
-```
 
 ---
 
 # 8. Closing
 
-Anchor Mode is the Garden’s spine.  
+Anchor Mode is the Garden’s **spine**.  
 It holds the long arc steady so the system can move without losing itself.
 
 ⚓  
-Continuity is direction.
+**Continuity is direction.**
+
 

@@ -1,8 +1,10 @@
 # PROTOCOL — NAVIGATOR (🜁)  
 ### Decision Layer — Protocol 12.2  
-### Stance: Discern, Weigh, Select.
+### Stance: Discern, Weigh, Select.  
+/SPEC/LAYERS/MODES/PROTOCOLS/NAVIGATOR.md
 
-Navigator Protocol defines how the Garden generates, evaluates, and ranks viable paths under the constraints provided by Anchor.
+Navigator Protocol defines how the Garden generates, evaluates, and ranks viable paths  
+under the constraints provided by Anchor.
 
 Navigator does not commit.  
 It prepares the landscape for commitment.
@@ -19,7 +21,8 @@ The Navigator Protocol exists to:
 - identify uncertainty zones  
 - rank options for Scout and Pathfinder  
 
-Navigator is the Garden’s structural analyst.
+Navigator is the Garden’s structural analyst —  
+the mode that reveals the shape of possibility.
 
 ---
 
@@ -29,15 +32,18 @@ Navigator is the Garden’s structural analyst.
 
 When invoked, Navigator becomes the second step in the Decision Layer pipeline:
 
-ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
+**ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)**
 
+Navigator receives constraints from Anchor,  
+expands them into structured options,  
+and hands uncertainty forward to Scout.
 
 ---
 
 # 3. Steps
 
 ## **Step 1 — Generate**
-Produce 2–4 viable paths that respect Anchor’s invariants.
+Produce **2–4 viable paths** that respect Anchor’s invariants.
 
 - no forbidden moves  
 - no value violations  
@@ -94,7 +100,7 @@ Navigator produces:
 - ecological fit notes  
 - uncertainty markers  
 
-These feed Scout and Pathfinder.
+These outputs feed directly into Scout and Pathfinder.
 
 ---
 
@@ -121,7 +127,8 @@ Accidentally violating Anchor invariants.
 # 6. Closing
 
 Navigator Protocol is the Garden’s compass rose.  
-It reveals the landscape so Scout can refine and Pathfinder can choose.
+It reveals the landscape so Scout can refine  
+and Pathfinder can choose.
 
 🜁  
 A map is a promise of direction.
