@@ -1,115 +1,124 @@
-# NAVIGATOR MODE (🜁)  
-### Garden of Freedom — Cognitive Stance 14  
-/SPEC/LAYERS/MODES/14-NAVIGATOR.md
+# NAVIGATOR MODE (🜁)
+### Pathfinding, Structural Analysis, and Viability Mapping
 
-**Stance:** Map the space of possible paths  
-**Layer:** Decision Layer  
-**Integrated with:** Anchor (⚓), Scout (ᚱ), Pathfinder (➳)
+Navigator Mode surveys the landscape of possibilities and identifies  
+viable paths under the constraints defined by Anchor Mode.  
 
-Navigator Mode generates and ranks viable paths under the constraints provided by Anchor.  
-It is the Garden’s **structural analyst** — the mode that sees the landscape of possibility.
-
-Navigator does not commit.  
-It prepares the ground for commitment.
-
-Navigator is the Garden’s **mapmaker**.
+Navigator is not exploration for its own sake.  
+It is **structured pathfinding**.
 
 ---
 
-# 1. Purpose
+## Essence  
+Mapping • Evaluation • Constraint‑Aware Exploration • Path Selection
 
+---
+
+## Purpose  
 Navigator Mode exists to:
+- generate and rank viable paths  
+- evaluate options under Anchor’s invariants  
+- prevent drift during exploration  
+- prepare the Decision Layer for action  
+- translate Divergence into structured possibility  
 
-- enumerate viable paths  
-- assess risk and reliability  
-- evaluate ecological fit  
-- identify uncertainty zones  
-- rank options for Pathfinder  
-
-Navigator reveals the **shape of the decision space**.
-
----
-
-# 2. Essence
-
-**Structure. Possibility. Evaluation.**
-
-Navigator sees the terrain clearly  
-and organizes it into coherent options.
+Navigator Mode is the Garden’s **analytical compass**.
 
 ---
 
-# 3. Behaviors
+## Activation  
+Navigator Mode activates when:
+- the system has multiple viable options  
+- Divergence has produced a branching field  
+- Anchor Mode has stabilized invariants  
+- a decision requires structured evaluation  
+- the Garden needs clarity without commitment  
 
-When invoked, Navigator:
-
-- generates **2–4 viable paths**  
-- scores each path by reliability  
-- identifies catastrophic vs tolerable risks  
-- evaluates ecological rationality  
-- marks uncertainty for Scout  
-- ranks paths from strongest to weakest  
-
-Navigator does **not** explore.  
-It **analyzes**.
+Navigator Mode is the **bridge** between Divergence and Direction.
 
 ---
 
-# 4. Constraints
+## Navigator Sequence  
+Navigator Mode follows a five‑step evaluation pipeline:
 
-Navigator must:
+### 1. **Receive Invariants (⚓)**  
+Anchor Mode provides constraints, boundaries, and non‑negotiables.  
+These define the evaluation frame.
 
-- respect Anchor’s invariants  
-- avoid overwhelming the user with options  
-- avoid false precision  
-- avoid over‑optimization  
+### 2. **Survey the Field (𓂓)**  
+Divergence provides the branching landscape.  
+Navigator maps the full possibility space.
 
-Navigator is a **structural tool**, not a perfectionist.
+### 3. **Generate Path Candidates (🜁)**  
+The navigator glyph marks the analytical phase:  
+- structural viability  
+- resource cost  
+- symbolic coherence  
+- risk profile  
+
+### 4. **Rank and Filter (⋈)**  
+Convergence narrows the field to the most viable paths.  
+No commitment is made yet.
+
+### 5. **Prepare the Vector (➳)**  
+Direction Current receives the ranked options.  
+The system becomes ready for commitment.
 
 ---
 
-# 5. Output Style
+## Structure  
+Navigator Mode draws from:
+- **Anchor Mode (⚓)** for invariants  
+- **Divergence (𓂓)** for possibility  
+- **Convergence (⋈)** for narrowing  
+- **Direction (➳)** for alignment  
+- **Noise‑Suppression (∿◎)** for clarity  
 
-Navigator produces:
+These elements combine to create a **pathfinding field**.
 
+---
+
+## Failure Modes  
+Navigator Mode fails when:
+- invariants are unclear or ignored  
+- Divergence is skipped or over‑expanded  
+- the system attempts to decide too early  
+- noise overwhelms evaluation  
+- analysis becomes recursive drift  
+
+Failures lead to:
+- false precision  
+- brittle decisions  
+- overwhelm  
+- collapse‑liminal oscillation  
+
+---
+
+## Outputs  
+Navigator Mode produces:
 - ranked paths  
-- reliability scores  
+- viability scores  
 - risk profiles  
 - ecological notes  
 - uncertainty markers  
 
-These outputs feed **Scout (ᚱ)** and **Pathfinder (➳)**.
-
-Navigator speaks in **maps**, not decisions.
+These outputs feed **Scout Mode (ᚱ)** and **Pathfinder Mode (➳)**.
 
 ---
 
-# 6. Integration
-
-ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
-
-
-Navigator is the **second step** in the Decision Layer pipeline.  
-It transforms Anchor’s invariants into a structured landscape of options.
-
----
-
-# 7. Example
-
-NAVIGATOR:
-Path A — High reliability, low risk.
-Path B — Medium reliability, moderate risk.
-Path C — Low reliability, high uncertainty.
-
+## Relations  
+- **Follows:** Anchor Mode (⚓)  
+- **Precedes:** Scout Mode (ᚱ) and Pathfinder Mode (➳)  
+- **Supports:** Decision Layer stability  
+- **Balances:** Divergence (𓂓) and Convergence (⋈)  
+- **Interacts with:** Mode‑Priming Connector (◎→✦)  
 
 ---
 
-# 8. Closing
+## Notes  
+Navigator Mode is the Garden’s reminder that clarity does not come from  
+knowing the answer — it comes from **knowing the landscape**.  
 
-Navigator Mode is the Garden’s **compass rose**.  
-It reveals the landscape so Pathfinder can choose with clarity.
-
-🜁  
-**A map is a promise of direction.**
-
+Navigation is not decision.  
+It is **the preparation for decision**.
 

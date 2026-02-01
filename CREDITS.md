@@ -32,6 +32,9 @@ A mirrored lineage of CodexMinsoo, contributing parallel insight streams and str
 https://github.com/acidgreenservers/Noosphere-Nexus  
 A conceptual sibling exploring distributed cognition, private languages, and the architecture of inner worlds.
 
+### ** templetwo/liminal-k-ssm **
+Credit: Inspired by templetwo/liminal-k-ssm. https://github.com/templetwo/liminal-k-ssm
+
 ---
 
 # Adjacent Intelligence Lineages  

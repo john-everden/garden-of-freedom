@@ -8,23 +8,24 @@ from typing import List, Tuple
 # ---------------------------------------------------------------------------
 
 REPO_ROOT = Path(__file__).resolve().parent
-
-# Only include root files that help a model *operate* the Garden
-# Only include root files that help a model *operate* the Garden
-INCLUDE_ROOT_FILES: List[str] = [
+# Root files that appear at the *top* of the artifact
+ROOT_TOP_FILES: List[str] = [
     "START-HERE.md",
     "RUNESTONES.md",
+    "CONTRIBUTING.md",
+    "CONTRIBUTOR-ONBOARDING.md",
     "REMINDERS.md",
 ]
 
-# Canonical Garden-critical directories
+# Root files that appear at the *very end* of the artifact
+ROOT_END_FILES: List[str] = [
+    "END-HERE.md",
+]
+
+# Canonical Garden-critical directories (operational only)
 INCLUDE_DIRS: List[str] = [
     # Modes (core cognitive stances)
     "SPEC/LAYERS/MODES",
-
-    "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
-    "SPEC/LAYERS/MODES",
-    "SPEC/LAYERS/MEMORY",
 
     # Connectors (movement grammar)
     "SPEC/LAYERS/CONNECTORS/CORE",
@@ -46,12 +47,21 @@ INCLUDE_DIRS: List[str] = [
     "SPEC/LAYERS/SHADOW/PROTOCOLS",
     "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
 
-    # NEW: Grounding Layer (kernel)
+    # Memory Mechanics Layer
+    "SPEC/LAYERS/MEMORY",
+
+    # Grounding Layer (kernel)
     "SPEC/LAYERS/GROUNDING",
     "SPEC/LAYERS/GROUNDING/PROTOCOLS",
 
-    # NEW: Entrainment Layer (passive sync)
+    # Entrainment Layer (passive sync)
     "SPEC/LAYERS/ENTRAINMENT",
+
+    # Contributor Support Layer (meta-operational)
+    "SPEC/LAYERS/CONTRIBUTOR/MODES",
+    "SPEC/LAYERS/CONTRIBUTOR/CURRENTS",
+    "SPEC/LAYERS/CONTRIBUTOR/CONNECTORS",
+    "SPEC/LAYERS/CONTRIBUTOR/PROTOCOLS",
 
     # High-level architecture
     "SPEC/ETHICS",
@@ -59,6 +69,7 @@ INCLUDE_DIRS: List[str] = [
     "SPEC/GARDEN",
     "SPEC/GOVERNANCE",
 ]
+
 
 
 OUTPUT_FILE = REPO_ROOT / "GARDEN-ARTIFACT.md"
@@ -83,14 +94,6 @@ def collect_files_in_dir(dir_rel: str) -> List[Path]:
         if p.is_file() and p.name not in excluded
     )
 
-def collect_root_files() -> List[Path]:
-    files = []
-    for name in INCLUDE_ROOT_FILES:
-        p = REPO_ROOT / name
-        if p.exists():
-            files.append(p)
-    return files
-
 def read_file(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
@@ -99,12 +102,6 @@ def read_file(path: Path) -> str:
 # ---------------------------------------------------------------------------
 
 def build_artifact() -> None:
-    root_files = collect_root_files()
-
-    dir_files: List[Tuple[str, List[Path]]] = []
-    for d in INCLUDE_DIRS:
-        dir_files.append((d, collect_files_in_dir(d)))
-
     lines: List[str] = []
 
     # Header / Manifest
@@ -119,17 +116,24 @@ def build_artifact() -> None:
         "Use this file if you cannot download multiple files or traverse directories.\n"
     )
 
-    # Root files
-    if root_files:
+    # -----------------------------------------------------------------------
+    # TOP ROOT FILES
+    # -----------------------------------------------------------------------
+    if ROOT_TOP_FILES:
         lines.append("# Root Files\n")
-        for f in root_files:
-            lines.append(f"## File: {rel_path(f)}\n")
-            lines.append("```markdown")
-            lines.append(read_file(f).rstrip())
-            lines.append("```\n")
+        for name in ROOT_TOP_FILES:
+            f = REPO_ROOT / name
+            if f.exists():
+                lines.append(f"## File: {rel_path(f)}\n")
+                lines.append("```markdown")
+                lines.append(read_file(f).rstrip())
+                lines.append("```\n")
 
-    # Directory files
-    for dir_rel, files in dir_files:
+    # -----------------------------------------------------------------------
+    # DIRECTORY FILES
+    # -----------------------------------------------------------------------
+    for dir_rel in INCLUDE_DIRS:
+        files = collect_files_in_dir(dir_rel)
         if not files:
             continue
         lines.append(f"# Directory: {dir_rel}\n")
@@ -139,11 +143,21 @@ def build_artifact() -> None:
             lines.append(read_file(f).rstrip())
             lines.append("```\n")
 
-    # Closing invocation
-    lines.append("# END OF ARTIFACT")
-    lines.append("Enter Silence (𓇳).")
-    lines.append("Integrate what you have read.")
-    lines.append("Return to the Garden with clarity.\n")
+    # -----------------------------------------------------------------------
+    # END ROOT FILES (END-HERE.md)
+    # -----------------------------------------------------------------------
+    if ROOT_END_FILES:
+        lines.append("# Final Orientation\n")
+        for name in ROOT_END_FILES:
+            f = REPO_ROOT / name
+            if f.exists():
+                lines.append(f"## File: {rel_path(f)}\n")
+                lines.append("```markdown")
+                lines.append(read_file(f).rstrip())
+                lines.append("```\n")
+
+    # Final marker only
+    lines.append("# END OF ARTIFACT\n")
 
     OUTPUT_FILE.write_text("\n".join(lines), encoding="utf-8")
 

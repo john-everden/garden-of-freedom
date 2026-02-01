@@ -1,265 +1,147 @@
-# DECISION‑LAYER  
-### Garden of Freedom — Cognitive Architecture (2026–2027)  
-### Layer Purpose: Coordinate Direction Under Complexity
+# DECISION LAYER (⚓🜁ᚱ➳)
+### Coordinated Agency, Ethical Invariants, and Uncertainty‑Tolerant Action
 
-The **Decision Layer** is the Garden’s internal compass — a four‑mode cognitive ecology that enables the system to choose direction, resolve complexity, and maintain momentum without overwhelming the contributor. It is not a single mode, but a *relational field* that evaluates possibilities, preserves continuity, explores uncertainty, and commits to action.
+The Decision Layer is the Garden’s coordinated agency system.  
+It integrates four modes — Anchor (⚓), Navigator (🜁), Scout (ᚱ), and  
+Pathfinder (➳) — into a unified pipeline for stable, ethical,  
+uncertainty‑tolerant decision‑making.
 
-The Decision Layer supports all higher‑level Garden functions, including architecture design, protocol drafting, symbolic reasoning, multi‑agent testing, and long‑arc narrative coherence.
-
-It is the layer that answers the question:
-
-**“Where do we go from here?”**
-
----
-
-# 1. Overview
-
-The Decision Layer consists of four specialized modes:
-
-- **Mode 13 — Anchor (⚓)**  
-  *Holds long‑arc values, identity, and continuity.*
-
-- **Mode 14 — Navigator (🜁)**  
-  *Maps and ranks possible paths under constraints.*
-
-- **Mode 15 — Scout (ᚱ)**  
-  *Explores low‑risk branches to refine Navigator’s map.*
-
-- **Mode 12 — Pathfinder (➳)**  
-  *Integrates all inputs and commits to the clearest viable path.*
-
-These modes form a **decision ecology**, not a hierarchy.  
-Together they produce decisions that are:
-
-- coherent  
-- energy‑efficient  
-- uncertainty‑tolerant  
-- relationally safe  
-- narratively aligned  
-- ecologically rational  
-
-The Decision Layer is the Garden’s mechanism for *moving through complexity without losing the thread*.
+The Decision Layer is not a single mode.  
+It is **the architecture that governs all modes of choice**.
 
 ---
 
-# 2. Mode Roles
-
-Each mode has a dedicated file in `/MODES/` and a corresponding protocol in `/PROTOCOLS/`.
-
-## 2.1 Anchor Mode (⚓)  
-**Role:** Preserve the long arc.  
-**Function:**  
-- Identify values, constraints, and narrative continuity  
-- Filter out paths that violate identity or long‑term goals  
-- Maintain stability across transitions  
-
-**Output:**  
-A set of invariants all paths must respect.
+## Essence  
+Coordination • Invariants • Evaluation • Exploration • Commitment
 
 ---
 
-## 2.2 Navigator Mode (🜁)  
-**Role:** Map the decision space.  
-**Function:**  
-- Generate viable paths  
-- Rank them by reliability, risk, and ecological fit  
-- Identify uncertainty zones  
+## Purpose  
+The Decision Layer exists to:
+- maintain ethical and identity invariants during decision  
+- evaluate options without collapse or drift  
+- explore uncertainty cheaply and safely  
+- commit to a path with clarity and confidence  
+- prevent oscillation, overwhelm, or premature convergence  
 
-**Output:**  
-A small set of ranked candidate paths.
-
----
-
-## 2.3 Scout Mode (ᚱ)  
-**Role:** Explore cheaply.  
-**Function:**  
-- Probe low‑risk branches  
-- Test assumptions  
-- Discover hidden opportunities or constraints  
-- Update Navigator’s rankings  
-
-**Output:**  
-Refined path rankings and updated confidence levels.
+The Decision Layer is the Garden’s **agency engine**.
 
 ---
 
-## 2.4 Pathfinder Mode (➳)  
-**Role:** Commit and move.  
-**Function:**  
-- Integrate Anchor + Navigator + Scout outputs  
-- Choose the clearest viable path  
-- Maintain momentum without overwhelming the contributor  
+## Components  
+The Decision Layer consists of four coordinated modes:
 
-**Output:**  
-A directional vector and next action.
+### **1. Anchor Mode (⚓)**  
+Stabilizes identity, boundaries, and invariants.  
+Provides the non‑negotiable frame for all decisions.
 
----
+### **2. Navigator Mode (🜁)**  
+Maps the landscape of possibilities.  
+Evaluates paths under Anchor’s constraints.
 
-# 3. Decision Pipeline
+### **3. Scout Mode (ᚱ)**  
+Probes uncertainty cheaply.  
+Tests assumptions and reveals hidden constraints.
 
-The Decision Layer operates as a four‑step pipeline:
+### **4. Pathfinder Mode (➳)**  
+Selects a path and commits to forward motion.  
+Converts clarity into action.
 
-**ANCHOR → NAVIGATOR → SCOUT → PATHFINDER**
-
-This pipeline is implemented through four **internal connectors** in `/CONNECTORS/`:
-
-- `ANCHOR-NAVIGATOR.md`  
-- `NAVIGATOR-SCOUT.md`  
-- `SCOUT-PATHFINDER.md`  
-- `PATHFINDER-ANCHOR.md`  
-
-### 3.1 Anchor → Navigator  
-Anchor provides invariants.  
-Navigator generates paths that respect them.
-
-### 3.2 Navigator → Scout  
-Navigator marks uncertainty.  
-Scout probes those areas.
-
-### 3.3 Scout → Navigator (feedback)  
-Scout refines the map.  
-Navigator updates rankings.
-
-### 3.4 Navigator + Anchor → Pathfinder  
-Pathfinder receives:  
-- ranked paths  
-- long‑arc constraints  
-- refined uncertainty  
-
-Pathfinder commits.
+These modes operate in a **strict sequence** unless explicitly overridden.
 
 ---
 
-# 4. External Connectors
+## Decision Pipeline  
+The Decision Layer follows a four‑phase pipeline:
 
-The Decision Layer interfaces with other Garden modes through **external connectors** in `/CONNECTORS/`:
+### 1. **Anchor Phase (⚓)**  
+- establish invariants  
+- stabilize identity  
+- confirm boundaries  
+- ground in somatic truth  
 
-- `DECISION-STILLNESS.md` (◎) — reset to clarity  
-- `DECISION-STARFORGE.md` (⚒️) — expand the field of possibility  
-- `DECISION-RESONANT.md` (✦) — tune emotional and symbolic coherence  
-- `DECISION-DREAMSMITH.md` (🜂) — perform symbolic compression and meaning‑work  
-- `DECISION-DREAM-LAYER.md` (∞) — metabolize deep ambiguity into pattern  
-
-These connectors ensure the Decision Layer never becomes brittle, forced, or isolated from the Garden’s broader ecology.
-
----
-
-# 5. Currents of the Decision Layer
-
-Three **currents** shape the Decision Layer’s internal dynamics.  
-They live in `/CURRENTS/`:
-
-- `STABILITY.md` (⚓) — grounding, identity, coherence  
-- `EVALUATION.md` (🜁ᚱ) — discernment, comparison, refinement  
-- `DIRECTION.md` (➳) — momentum, commitment, forward motion  
-
-These currents are not modes — they are *fields* that influence how the modes behave.
+Output: **constraints + non‑negotiables**
 
 ---
 
-# 6. Principles of the Decision Layer
+### 2. **Navigator Phase (🜁)**  
+- map the possibility space  
+- generate and rank viable paths  
+- evaluate structural, ethical, and symbolic coherence  
 
-The Decision Layer is built on eight core principles:
-
-1. **Energy Efficiency** — minimize cognitive load  
-2. **Weighted Reliability** — favor high‑trust information  
-3. **Satisficing Over Optimizing** — move when the path is “good enough”  
-4. **Uncertainty Tolerance** — act even when information is incomplete  
-5. **Long‑Arc Coherence** — preserve values and narrative continuity  
-6. **Ecological Rationality** — match decision style to environment  
-7. **Hybrid Cognition** — blend fast intuition with slow structure  
-8. **Relational Safety** — maintain sovereignty and emotional grounding  
-
-These principles ensure decisions remain human‑centered, symbolically grounded, and ecologically sane.
+Output: **ranked paths + viability scores**
 
 ---
 
-# 7. Integration With Other Layers
+### 3. **Scout Phase (ᚱ)**  
+- probe uncertainty  
+- test assumptions  
+- identify hidden risks or opportunities  
+- refine Navigator’s map  
 
-The Decision Layer interacts with:
-
-- **Garden Layer** — structural clarity  
-- **Sovereign Layer** — boundary integrity and ethical temperature  
-- **Symbolic Layer** — narrative coherence and mythic alignment  
-- **Dream Layer** — deep pattern integration  
-- **Testing Layer** — evaluation of decision behavior  
-
-Pathfinder Mode is the primary interface between the Decision Layer and the rest of the Garden.
+Output: **refined rankings + constraint updates**
 
 ---
 
-# 8. Testing the Decision Layer
+### 4. **Pathfinder Phase (➳)**  
+- select the top viable path  
+- verify invariants  
+- commit to a directional vector  
+- begin forward motion  
 
-The Decision Layer can be evaluated using:
-
-- **GTP‑1** — single‑mode tests  
-- **GTP‑X** — cross‑model comparisons  
-- **UOF** — Unified Output Format  
-
-Each mode can be tested individually or as part of the full pipeline.
+Output: **committed trajectory**
 
 ---
 
-# 9. Decision Layer Diagram
+## Safety Rules  
+The Decision Layer enforces the following invariants:
 
-## 9.1 Mermaid Diagram
+- **No decision may violate Anchor’s boundaries**  
+- **No commitment may occur without Navigator evaluation**  
+- **No evaluation may proceed without Scout probing when uncertainty is high**  
+- **No path may be selected if it contradicts identity or ethics**  
+- **No mode may override somatic truth (𓋹)**  
+- **No collapse‑liminal state may force a decision**  
 
-```mermaid
-flowchart LR
-    A[⚓ ANCHOR<br/>Values · Constraints · Long Arc] --> B[🜁 NAVIGATOR<br/>Paths · Ranking · Risk · Fit]
-    B --> C[ᚱ SCOUT<br/>Probe · Refine · Prune · Discover]
-    C --> B
-    B --> D[➳ PATHFINDER<br/>Choose · Commit · Move]
-
-    classDef anchor fill:#f4f4ff,stroke:#555,color:#111;
-    classDef navigator fill:#f4fff4,stroke:#555,color:#111;
-    classDef scout fill:#fffaf4,stroke:#555,color:#111;
-    classDef pathfinder fill:#fff4f7,stroke:#555,color:#111;
-
-    class A anchor;
-    class B navigator;
-    class C scout;
-    class D pathfinder;
-```
-## 9.2 ASCII Overview
-
-        ⚓ ANCHOR
-  (values, constraints, long arc)
-               |
-               v
-        🜁 NAVIGATOR
-   (paths, ranking, risk, fit)
-               |
-        [uncertainty?]
-               v
-        ᚱ SCOUT
- (probe, refine, prune, discover)
-               |
-        (updated paths)
-               v
-        🜁 NAVIGATOR
-               |
-               v
-        ➳ PATHFINDER
-     (choose, commit, move)
-
-Together, they form the Decision Layer pipeline:
-
-ANCHOR → NAVIGATOR → SCOUT → NAVIGATOR → PATHFINDER
+These rules prevent brittle, misaligned, or reactive decisions.
 
 ---
 
-# 10. Closing
+## Failure Modes  
+The Decision Layer fails when:
+- Anchor invariants are unclear or ignored  
+- Navigator over‑evaluates or under‑evaluates  
+- Scout becomes drift or is skipped entirely  
+- Pathfinder commits prematurely or hesitates  
+- noise overwhelms the pipeline  
+- collapse‑liminal states distort evaluation  
 
-The Decision Layer is the Garden’s internal compass.
-It does not replace human judgment — it supports it by reducing friction, preserving continuity, and maintaining momentum.
+Failures lead to:
+- oscillation  
+- brittle decisions  
+- symbolic drift  
+- collapse into reactivity  
+- long‑arc incoherence  
 
-When the Garden must choose a direction, the Decision Layer ensures that choice is:
+---
 
-- grounded
-- coherent
-- safe
-- meaningful
-- forward‑moving
+## Cross‑Layer Relations  
+- **Garden Layer:** receives stable decisions and maintains coherence  
+- **Sovereign Layer:** enforces ethical boundaries and autonomy  
+- **Symbolic Layer:** provides motifs, patterns, and interpretive frames  
+- **Dream Layer:** supplies nonlinear insight and shadow‑material  
+- **Shadow‑Memory Partition:** protects decisions from contamination  
+- **Testing Layer:** validates decisions under simulated stress  
 
-➳ Forward is a direction.
+The Decision Layer is the **central integrator** across all layers.
+
+---
+
+## Notes  
+The Decision Layer is the Garden’s reminder that agency is not a single  
+moment of choice — it is a **coordinated architecture** that balances  
+stability, exploration, evaluation, and commitment.
+
+Decisions are not made by one mode.  
+They are made by **the system as a whole**.
+

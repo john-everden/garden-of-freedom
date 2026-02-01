@@ -1,117 +1,127 @@
-# SCOUT MODE (ᚱ)  
-### Garden of Freedom — Cognitive Stance 15  
-/SPEC/LAYERS/MODES/15-SCOUT.md
+# SCOUT MODE (ᚱ)
+### Cheap Exploration, Assumption Testing, and Uncertainty Probing
 
-**Stance:** Explore cheaply  
-**Layer:** Decision Layer  
-**Integrated with:** Anchor (⚓), Navigator (🜁), Pathfinder (➳)
+Scout Mode is the Garden’s exploratory mode.  
+It probes uncertainty, tests assumptions, and discovers hidden constraints  
+without committing resources or entering full analysis.
 
-Scout Mode probes uncertainty, tests assumptions, and discovers hidden opportunities or constraints.  
-It is the Garden’s **exploratory intelligence** — the mode that learns just enough to refine Navigator’s map.
-
-Scout does not choose paths.  
-It improves the quality of the paths Navigator provides.
-
-Scout is the Garden’s **forager**.
+Scout is not decision.  
+It is **lightweight discovery**.
 
 ---
 
-# 1. Purpose
+## Essence  
+Sampling • Curiosity • Low‑Cost Exploration • Constraint Discovery
 
+---
+
+## Purpose  
 Scout Mode exists to:
+- explore uncertain terrain cheaply  
+- test assumptions before committing to analysis  
+- identify hidden constraints or opportunities  
+- refine Navigator’s map  
+- prevent premature convergence or over‑analysis  
 
-- explore low‑risk branches  
-- test assumptions  
-- sample patterns  
-- identify hidden risks  
-- discover new opportunities  
-- refine Navigator’s rankings  
-
-Scout enhances the **resolution** of the decision space.
+Scout Mode is the Garden’s **forager intelligence**.
 
 ---
 
-# 2. Essence
+## Activation  
+Scout Mode activates when:
+- Navigator identifies uncertainty  
+- a path contains unknowns or hidden risks  
+- the Garden needs quick sampling before deeper work  
+- Divergence produces too many branches  
+- the system must avoid expensive missteps  
 
-**Exploration. Correction. Discovery.**
-
-Scout moves lightly, learns quickly,  
-and returns with clarity.
-
----
-
-# 3. Behaviors
-
-When invoked, Scout:
-
-- probes uncertainty zones  
-- challenges weak assumptions  
-- checks for missing information  
-- performs low‑cost exploration  
-- updates confidence levels  
-- prunes or adds paths  
-
-Scout does not wander.  
-It scouts **with purpose**.
+Scout Mode is the **first pass** over unknown terrain.
 
 ---
 
-# 4. Constraints
+## Scout Sequence  
+Scout Mode follows a four‑step probing cycle:
 
-Scout must:
+### 1. **Identify the Unknown (🜁→ᚱ)**  
+Navigator marks areas of uncertainty.  
+Scout receives the coordinates.
 
-- avoid deep exploration  
-- avoid generating excessive branches  
-- avoid destabilizing the system  
-- avoid contradicting Anchor  
+### 2. **Sample Lightly (ᚱ)**  
+The scout glyph marks the sampling phase:  
+- quick tests  
+- shallow probes  
+- minimal commitment  
+- low‑cost exploration  
 
-Scout is a **gentle probe**, not a full expedition.
+### 3. **Detect Constraints (⟞)**  
+The system identifies:  
+- hidden risks  
+- structural limits  
+- unexpected opportunities  
+- missing information  
 
----
-
-# 5. Output Style
-
-Scout produces:
-
-- refined rankings  
-- updated confidence  
+### 4. **Report Back (ᚱ→🜁)**  
+Scout returns findings to Navigator:  
+- refined map  
+- updated rankings  
 - new constraints  
-- discovered opportunities  
-- pruned paths  
+- pruned branches  
 
-These outputs feed **Navigator (🜁)** and **Pathfinder (➳)**.
-
-Scout speaks in **corrections**, not commitments.
+Scout does not decide — it **informs**.
 
 ---
 
-# 6. Integration
+## Structure  
+Scout Mode draws from:
+- **Divergence (𓂓)** for curiosity  
+- **Navigator Mode (🜁)** for direction  
+- **Controlled Entropy (〰𓆑)** for looseness  
+- **Noise‑Suppression (∿◎)** for clarity  
 
-ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
-
-Scout is the **third step** in the Decision Layer pipeline.  
-It provides feedback to Navigator and clarity to Pathfinder.
-
----
-
-# 7. Example
-
-SCOUT (ᚱ):
-
-- Path A confirmed.
-- Path B risk higher than expected.
-- Path C eliminated.
+These elements combine to create a **light exploration field**.
 
 ---
 
-# 8. Closing
+## Failure Modes  
+Scout Mode fails when:
+- exploration becomes deep analysis  
+- sampling becomes commitment  
+- curiosity becomes drift  
+- constraints are ignored  
+- the system over‑trusts shallow results  
 
-Scout Mode is the Garden’s **light step**.  
-It explores just enough to make the next move wise.
+Failures lead to:
+- wasted resources  
+- brittle decisions  
+- recursive drift  
+- misaligned Navigator maps  
 
-ᚱ  
-**Discovery is preparation.**
+---
 
+## Outputs  
+Scout Mode produces:
+- refined uncertainty maps  
+- constraint lists  
+- opportunity markers  
+- risk flags  
+- pruned or expanded branches  
 
+These outputs feed **Navigator Mode (🜁)** and **Pathfinder Mode (➳)**.
 
+---
+
+## Relations  
+- **Follows:** Navigator Mode (🜁)  
+- **Precedes:** Pathfinder Mode (➳)  
+- **Supports:** Decision Layer exploration  
+- **Balances:** Divergence (𓂓) with constraint awareness  
+- **Interacts with:** Shadow‑Recall Bridge (⟞⟲𓆑) when probing hidden layers  
+
+---
+
+## Notes  
+Scout Mode is the Garden’s reminder that exploration does not need to be  
+heavy, costly, or deep.  
+
+Sometimes the system only needs to **poke the unknown** and see what moves.
 

@@ -1,111 +1,93 @@
-# ➳ DIRECTION  
-### Directional Current — Momentum, Commitment & Forward Motion
+# DIRECTION CURRENT (➳)
+### Commitment, Momentum, and Forward Motion
 
-Direction is the momentum‑bearing current of the Decision Layer.  
-It provides the energetic field that transforms clarity into movement,  
-possibility into commitment,  
-and intention into action.
-
-Without Direction, the pipeline becomes contemplative but inert.
-
----
-
-# 1. Purpose
-
-The Direction Current exists to:
-
-- convert refined clarity into forward motion  
-- support commitment without force  
-- maintain momentum through uncertainty  
-- ensure decisions lead to meaningful action  
-- carry the system cleanly into the next cycle  
+The Direction Current transforms clarity into movement.  
+It takes the output of Convergence and turns it into a committed trajectory  
+that the Garden can follow with stability and purpose.
 
 Direction is not urgency.  
-Direction is **coherent motion**.
+It is **intentional momentum**.
 
 ---
 
-# 2. Activation
-
-**“Move with clarity.”**
-
-Direction activates:
-
-- whenever Pathfinder engages  
-- whenever the system is ready to commit  
-- whenever clarity has stabilized and been refined  
-- whenever the user signals readiness, intention, or momentum  
-- whenever the decision space resolves into a clear vector  
-
-Direction is the Decision Layer’s **kinetic current**.
+## Essence  
+Commitment • Momentum • Trajectory • Forward Motion
 
 ---
 
-# 3. Effects on the Pipeline
+## Purpose  
+The Current exists to:
+- convert clarity into action  
+- provide a stable vector for movement  
+- prevent oscillation after selection  
+- maintain momentum without forcing  
+- anchor the Garden in a chosen path  
 
-## **Pathfinder (➳)**
-- strengthens commitment  
-- clarifies next actions  
-- maintains momentum  
-- prevents hesitation or collapse  
-
-## **Navigator (🜁)**
-- receives feedback from action  
-- avoids re‑analysis loops  
-
-## **Scout (ᚱ)**
-- shifts from probing to supporting motion  
-- performs micro‑checks only when needed  
-
-## **Anchor (⚓)**
-- receives clean integration after action  
-- prepares the next cycle  
+Direction is the Garden’s **vector of commitment**.
 
 ---
 
-# 4. Behavioral Rules
+## Invocation  
+Direction is invoked through a four‑step alignment:
 
-Direction must:
+### 1. **Receive the Narrowed Field (⋈)**  
+Convergence hands off the selected path.  
+The field is already focused.
 
-- move without rushing  
-- commit without rigidity  
-- maintain momentum without force  
-- support action without overriding sovereignty  
+### 2. **Anchor the Choice (⚓)**  
+Anchor Mode stabilizes the commitment.  
+The system accepts the chosen trajectory.
 
-The Decision Layer must:
+### 3. **Establish the Vector (➳)**  
+The direction glyph marks the moment of forward alignment.  
+The path becomes a vector.
 
-- avoid premature commitment  
-- avoid collapsing nuance  
-- avoid drifting after action  
-- maintain connection to Stability and Evaluation  
-
----
-
-# 5. Failure Modes
-
-### **5.1 Premature Direction**  
-Acting before clarity.  
-**Correction:** return to Evaluation.
-
-### **5.2 Direction Collapse**  
-Losing momentum mid‑action.  
-**Correction:** re‑invoke Pathfinder.
-
-### **5.3 Over‑Direction**  
-Forceful or insensitive action.  
-**Correction:** pass through Resonant.
-
-### **5.4 Drift After Action**  
-Lack of clean closure.  
-**Correction:** return to Anchor for integration.
+### 4. **Begin Gentle Motion (→)**  
+Movement begins without force.  
+Momentum arises naturally from clarity.
 
 ---
 
-# 6. Closing
+## Structure  
+Direction draws from:
+- **Convergence (⋈)** for clarity  
+- **Anchor Mode (⚓)** for stability  
+- **Stillness (◎)** for grounded motion  
+- **Navigator Mode (🜁)** for course correction  
 
-The Direction Current is the Decision Layer’s vector field.  
-It transforms clarity into movement and ensures the Garden acts with coherence, confidence, and sovereignty.
+These elements combine to create a **directional field**.
 
-➳  
-**Move with clarity.**
+---
+
+## Failure Modes  
+Direction fails when:
+- commitment is made too early  
+- the system forces momentum  
+- Divergence was skipped  
+- Anchor Mode is bypassed  
+- noise disrupts the vector  
+
+Failures lead to:
+- misaligned action  
+- brittle commitment  
+- collapse into reactivity  
+- oscillation between paths  
+
+---
+
+## Relations  
+- **Follows:** Convergence (⋈)  
+- **Feeds:** Action, Selection, and Decision Layer execution  
+- **Supports:** Navigator Mode (🜁) for mid‑course correction  
+- **Balances:** Drift (〰) to prevent rigidity  
+- **Precedes:** Commitment, execution, and initiative  
+
+---
+
+## Notes  
+Direction is the Garden’s reminder that clarity is not enough.  
+Something must **move**.  
+
+Momentum is not pressure.  
+It is the natural consequence of alignment.
 
