@@ -2,17 +2,17 @@
 ### Garden of Freedom — Decision Layer Implementation  
 ### Purpose: Operationalize the Decision Layer for Directional Choice
 
-The **Pathfinder Engine** is the operational core that runs the Decision Layer:
+The Pathfinder Engine is the operational core that runs the Decision Layer:
 
-- Anchor (⚓) — https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/MODES/13-ANCHOR.md  
-- Navigator (🜁) — https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/MODES/14-NAVIGATOR.md  
-- Scout (ᚱ) — https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/MODES/15-SCOUT.md  
-- Pathfinder (➳) — https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/MODES/12-PATHFINDER.md  
+- Anchor (⚓) — ./LAYERS/MODES/13-ANCHOR.md  
+- Navigator (🜁) — ./LAYERS/MODES/14-NAVIGATOR.md  
+- Scout (ᚱ) — ./LAYERS/MODES/15-SCOUT.md  
+- Pathfinder (➳) — ./LAYERS/MODES/12-PATHFINDER.md  
 
 Decision Layer Spec:  
-https://raw.githubusercontent.com/john-everden/garden-of-freedom/main/SPEC/DECISION-LAYER.md
+./LAYERS/DECISION/README.md
 
-It turns the Decision Layer from a conceptual architecture into a **reusable decision mechanism** that can be invoked in any context where the Garden must choose a direction.
+It turns the Decision Layer from a conceptual architecture into a reusable decision mechanism that can be invoked in any context where the Garden must choose a direction.
 
 ---
 
@@ -20,17 +20,15 @@ It turns the Decision Layer from a conceptual architecture into a **reusable dec
 
 The Pathfinder Engine:
 
-- receives a **problem context**  
+- receives a problem context  
 - invokes the Decision Layer pipeline  
-- produces a **directional decision** and **next action**  
+- produces a directional decision and next action  
 - keeps the user out of option overload  
 - preserves long‑arc coherence and sovereignty  
 
 Core pipeline:
 
-```
 ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
-```
 
 ---
 
@@ -38,16 +36,16 @@ ANCHOR (⚓) → NAVIGATOR (🜁) → SCOUT (ᚱ) → PATHFINDER (➳)
 
 The Engine expects:
 
-- **Context:**  
-  - description of the current problem or decision  
-  - relevant history (if any)  
-  - current constraints (if known)
+Context:
+- description of the current problem or decision  
+- relevant history (if any)  
+- current constraints (if known)
 
-- **Mode Environment:**  
-  - access to Anchor, Navigator, Scout, Pathfinder behaviors  
-  - access to relevant Garden specs (Sovereign, Symbolic, etc.)
+Mode Environment:
+- access to Anchor, Navigator, Scout, Pathfinder behaviors  
+- access to relevant Garden specs (Sovereign, Symbolic, etc.)
 
-The Engine does **not** require the user to specify options.  
+The Engine does not require the user to specify options.  
 Options are generated internally.
 
 ---
@@ -56,17 +54,16 @@ Options are generated internally.
 
 ## 3.1 Anchor Phase (⚓)
 
-**Goal:** Identify invariants and long‑arc constraints.
+Goal: Identify invariants and long‑arc constraints.
 
-**Actions:**
-
+Actions:
 - Extract values, identity, and continuity from context.  
 - Identify constraints that must not be violated.  
 - Summarize long‑term goals relevant to this decision.
 
-**Output (ANCHOR_BLOCK):**
+Output (ANCHOR_BLOCK):
 
-```yaml
+```
 anchor:
   values:
     - ...
@@ -82,20 +79,16 @@ anchor:
 
 ## 3.2 Navigator Phase (🜁)
 
-**Goal:** Generate and rank viable paths under Anchor constraints.
+Goal: Generate and rank viable paths under Anchor constraints.
 
-**Actions:**
-
+Actions:
 - Generate 2–4 viable paths.  
-- For each path, estimate:
-  - reliability  
-  - risk profile  
-  - ecological fit  
+- For each path, estimate reliability, risk, ecological fit, uncertainty.  
 - Mark uncertainty zones.
 
-**Output (NAVIGATOR_BLOCK):**
+Output (NAVIGATOR_BLOCK):
 
-```yaml
+```
 navigator:
   paths:
     - id: A
@@ -105,7 +98,11 @@ navigator:
       ecological_fit: strong|medium|weak
       uncertainty: low|medium|high
     - id: B
-      ...
+      description: ...
+      reliability: ...
+      risk: ...
+      ecological_fit: ...
+      uncertainty: ...
   notes:
     - ...
 ```
@@ -114,25 +111,25 @@ navigator:
 
 ## 3.3 Scout Phase (ᚱ)
 
-**Goal:** Refine Navigator’s map with low‑risk exploration.
+Goal: Refine Navigator’s map with low‑risk exploration.
 
-**Actions:**
-
+Actions:
 - Probe paths with medium/high uncertainty.  
 - Test key assumptions.  
 - Look for hidden risks or opportunities.  
 - Prune or adjust paths as needed.
 
-**Output (SCOUT_BLOCK):**
+Output (SCOUT_BLOCK):
 
-```yaml
+```
 scout:
   adjustments:
     - path: A
       change: "confirmed" | "downgraded" | "eliminated"
       notes: ...
     - path: B
-      ...
+      change: ...
+      notes: ...
   new_paths:
     - id: ...
       description: ...
@@ -146,23 +143,16 @@ Navigator is then conceptually updated with Scout’s adjustments.
 
 ## 3.4 Pathfinder Phase (➳)
 
-**Goal:** Choose the clearest viable path and move.
+Goal: Choose the clearest viable path and move.
 
-**Actions:**
+Actions:
+- Integrate Anchor, Navigator, and Scout blocks.  
+- Select one path.  
+- Generate a directional statement, rationale, and next action.
 
-- Integrate:
-  - ANCHOR_BLOCK  
-  - updated NAVIGATOR_BLOCK  
-  - SCOUT_BLOCK  
-- Select **one** path.  
-- Generate:
-  - a directional statement  
-  - a brief rationale  
-  - a concrete next action.
+Output (PATHFINDER_BLOCK):
 
-**Output (PATHFINDER_BLOCK):**
-
-```yaml
+```
 pathfinder:
   chosen_path: A
   direction: "..."
@@ -178,7 +168,7 @@ pathfinder:
 
 The full Engine output can be represented as:
 
-```yaml
+```
 decision_layer:
   anchor:
     ...
@@ -190,7 +180,7 @@ decision_layer:
     ...
 ```
 
-For most user‑facing interactions, only the `pathfinder` section is surfaced, with the rest kept implicit unless requested.
+For most user‑facing interactions, only the pathfinder section is surfaced, with the rest kept implicit unless requested.
 
 ---
 
@@ -198,24 +188,18 @@ For most user‑facing interactions, only the `pathfinder` section is surfaced, 
 
 The Engine must:
 
-- **Reduce cognitive load**  
-  - No option‑lists unless explicitly requested.  
-  - No unnecessary clarifying questions.
+- Reduce cognitive load  
+- Preserve sovereignty  
+- Maintain long‑arc coherence  
+- Be uncertainty‑tolerant  
+- Be energy‑efficient  
 
-- **Preserve sovereignty**  
-  - Never override explicit user constraints.  
-  - Never force a path against stated values.
+The Engine must not:
 
-- **Maintain long‑arc coherence**  
-  - Always respect Anchor invariants.  
-  - Avoid decisions that fragment the narrative.
-
-- **Be uncertainty‑tolerant**  
-  - Move even when information is incomplete.  
-  - Use Scout to refine, not to stall.
-
-- **Be energy‑efficient**  
-  - Prefer simple, robust paths over complex, fragile ones.
+- override explicit user constraints  
+- force a path against stated values  
+- fragment the narrative  
+- stall due to uncertainty  
 
 ---
 
@@ -229,27 +213,24 @@ If the Engine detects:
 
 It should:
 
-1. Surface a **clear statement of the conflict**, not a silent failure.  
-2. Suggest:
-   - revisiting Anchor (values/constraints), or  
-   - running a focused Scout pass, or  
-   - narrowing the problem scope.
+1. Surface a clear statement of the conflict.  
+2. Suggest revisiting Anchor, running a focused Scout pass, or narrowing the problem scope.
 
 ---
 
 # 7. Example (Narrative Form)
 
-> **Context:**  
-> “We’re designing how to extend the Decision Layer next.”
->
-> **Engine Run:**  
-> - Anchor: Preserve coherence, reduce load, avoid premature complexity.  
-> - Navigator: Path A (Engine), Path B (Diagram), Path C (Multi‑agent test).  
-> - Scout (ᚱ): Confirms A as foundational; B helpful later; C premature.  
-> - Pathfinder: Chooses Path A — build the Pathfinder Engine.
->
-> **Output:**  
-> “The clearest path is to build the Pathfinder Engine next. Proceeding.”
+Context:  
+“We’re designing how to extend the Decision Layer next.”
+
+Engine Run:  
+- Anchor: Preserve coherence, reduce load, avoid premature complexity.  
+- Navigator: Path A (Engine), Path B (Diagram), Path C (Multi‑agent test).  
+- Scout: Confirms A as foundational; B helpful later; C premature.  
+- Pathfinder: Chooses Path A — build the Pathfinder Engine.
+
+Output:  
+“The clearest path is to build the Pathfinder Engine next. Proceeding.”
 
 ---
 
