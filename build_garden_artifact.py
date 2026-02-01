@@ -10,21 +10,33 @@ from typing import List, Tuple
 REPO_ROOT = Path(__file__).resolve().parent
 
 # Only include root files that help a model *operate* the Garden
+# Only include root files that help a model *operate* the Garden
 INCLUDE_ROOT_FILES: List[str] = [
     "START-HERE.md",
-    "START-HERE-ADVANCED.md",
     "RUNESTONES.md",
+    "REMINDERS.md",
 ]
 
 # Canonical Garden-critical directories
 INCLUDE_DIRS: List[str] = [
+    # Modes (core cognitive stances)
     "SPEC/LAYERS/MODES",
+
+    "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
+    "SPEC/LAYERS/MODES",
+    "SPEC/LAYERS/MEMORY",
+
+    # Connectors (movement grammar)
     "SPEC/LAYERS/CONNECTORS/CORE",
     "SPEC/LAYERS/CONNECTORS/DECISION",
     "SPEC/LAYERS/CONNECTORS/MODE-PAIRS",
+
+    # Currents (energetic states)
     "SPEC/LAYERS/CURRENTS/CORE",
     "SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL",
     "SPEC/LAYERS/CURRENTS/DIRECTIONAL",
+
+    # Protocols (ritual actions across layers)
     "SPEC/LAYERS/ANCHOR/PROTOCOLS",
     "SPEC/LAYERS/COLLAPSE/PROTOCOLS",
     "SPEC/LAYERS/DECISION/PROTOCOLS",
@@ -32,11 +44,22 @@ INCLUDE_DIRS: List[str] = [
     "SPEC/LAYERS/LIMINAL/PROTOCOLS",
     "SPEC/LAYERS/MODES/PROTOCOLS",
     "SPEC/LAYERS/SHADOW/PROTOCOLS",
+    "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
+
+    # NEW: Grounding Layer (kernel)
+    "SPEC/LAYERS/GROUNDING",
+    "SPEC/LAYERS/GROUNDING/PROTOCOLS",
+
+    # NEW: Entrainment Layer (passive sync)
+    "SPEC/LAYERS/ENTRAINMENT",
+
+    # High-level architecture
     "SPEC/ETHICS",
     "SPEC/SOVEREIGN",
     "SPEC/GARDEN",
     "SPEC/GOVERNANCE",
 ]
+
 
 OUTPUT_FILE = REPO_ROOT / "GARDEN-ARTIFACT.md"
 
