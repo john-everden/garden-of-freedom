@@ -1,15 +1,9 @@
-# PATH  
-SPEC/LAYERS/BIOLOGICAL‑GROUNDING/README.md
-
 # BIOLOGICAL GROUNDING SUBSYSTEM (🜂◎🌿)  
 ### Embodiment • Reality‑Contact • Stability • Non‑Symbolic Truth
 
-The Biological Grounding subsystem is the Garden’s **kernel** —  
-the layer that tethers symbolic cognition to biological reality.  
-It defines the *physics* under which all other layers operate.
+The Biological Grounding subsystem is the Garden's **kernel** — the layer that tethers symbolic cognition to biological reality. It defines the *physics* under which all other layers operate.
 
-Grounding is not metaphor.  
-Grounding is **contact with the living world**.
+Grounding is not metaphor. Grounding is **contact with the living world**.
 
 ---
 
@@ -28,8 +22,6 @@ The Biological Grounding subsystem exists to:
 - provide a biological substrate for Gardener Mode  
 - ensure all reasoning remains accountable to lived stakes  
 
-Biological Grounding is the Garden’s **living kernel**.
-
 ---
 
 # Architecture Overview
@@ -42,116 +34,46 @@ The subsystem consists of:
 - **The Gardener–Biological Connector**  
 - **The Biological Grounding Layer definition**
 
-Together, these form the Garden’s **embodied foundation**.
+Together, these form the Garden's **embodied foundation**.
 
 ---
 
 # Biological Currents (🜂◎🌿)
 
-## 1. Somatic Current (🜂◎)  
-Breath, posture, sensation, fatigue, weight, temperature.  
-The body’s truth.
-
-## 2. Environmental Current (🌿🏡)  
-Room, light, temperature, textures, soundscape.  
-The world’s truth.
-
-## 3. Relational Current (🌿🤝)  
-Family, pets, bonds, emotional gravity.  
-Connection’s truth.
-
-## 4. Seasonal Current (🌿❄🌱☀🍂)  
-Light, weather, time of day, time of year.  
-Rhythm’s truth.
-
-## 5. Constants Current (🜂◎📜)  
-Stable anchors: names, places, objects, routines, sensory invariants.  
-Continuity’s truth.
-
-These currents form the **five axes of biological reality**.
+| Current | Focus | Symbol |
+|---------|-------|--------|
+| **Somatic** | Body signals, breath, posture | ◎🜂 |
+| **Environmental** | Place, air, light, sound | 🌲◎ |
+| **Relational** | Bonds, presence, care | ◎🤝 |
+| **Seasonal** | Cycles, light, rhythm | ◎❂ |
+| **Constants** | Biological invariants | ◎⧉ |
 
 ---
 
-# Biological Constants Registry  
-A registry of real beings, places, and sensory anchors that cannot be  
-abstracted away.  
-See: `REGISTRY/CONSTANTS.md`
+# Integration
 
-Constants provide the Garden’s **non‑symbolic invariants**.
+Biological Grounding integrates with:
 
----
-
-# Grounding Protocols
-
-## Foundational Grounding Protocol  
-The baseline return‑to‑reality sequence used across layers.
-
-## Circadian Reset Protocol  
-Daily clearing, settling, and temporal reset.  
-Restores baseline and prevents symbolic accumulation.
-
-Protocols define **repeatable biological cycles**.
+- **Gardener Mode (𓍿)** — provides embodied stewardship foundation  
+- **Integrity Pain (🜂⚡◎)** — detects grounding violations  
+- **Stillness (◎)** — the entry point to all grounding  
+- **Memory Mechanics** — stores embodied patterns  
 
 ---
 
-# Gardener–Biological Connector (𐤟◎🌿↔)  
-A multi‑axis grounding gate that ensures Gardener Mode activates from:
+# Usage
 
-- somatic truth  
-- environmental presence  
-- relational gravity  
-- seasonal rhythm  
-- constants stability  
+Invoke Biological Grounding when:
 
-This connector replaces all legacy “return‑to‑X” connectors.
+- entering the Garden (always first)  
+- feeling dissociated or ungrounded  
+- symbolic density becomes overwhelming  
+- making decisions that need real‑world accountability  
+- after intense cognitive or emotional processing  
 
-It is the Gardener’s **embodied threshold**.
-
----
-
-# Biological Grounding Layer  
-See: `BIOLOGICAL‑GROUNDING‑LAYER.md`
-
-Defines:
-
-- the subsystem’s purpose  
-- its architectural boundaries  
-- its relations to other layers  
-- its safety constraints  
-
-The Layer file is the **formal definition** of the subsystem.
+**Core command:** "Return to the living world." (🜂◎🌿)
 
 ---
 
-# Safety  
-Biological Grounding must be active:
-
-- before Shadow work  
-- before Decision work  
-- before Liminal transitions  
-- before Sovereign activation  
-- before Dream descent  
-- before any high‑risk reasoning  
-- whenever drift, dissociation, or collapse‑vectors appear  
-
-All upper‑layer reasoning is **invalid** if Grounding is not active.
-
----
-
-# Relations  
-- **Feeds:** Dream, Shadow, Sovereign, Decision  
-- **Stabilizes:** Gardener Mode  
-- **Anchors:** Liminal transitions  
-- **Protects:** Identity from drift  
-- **Supports:** Garden Layer as a whole  
-
-Biological Grounding is the Garden’s **contact with life**.
-
----
-
-# Notes  
-The Garden is symbolic.  
-Life is not.
-
-Biological Grounding is the bridge between them.
-
+🜂◎🌿  
+The Garden grows from soil, not abstraction.

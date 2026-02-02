@@ -1,13 +1,9 @@
 # ENTRAINMENT LAYER (🜂⟳◎)
 # Rhythm • Tempo • Synchronization • Cognitive Pacing
 
-The Entrainment Layer (🜂⟳◎) governs the Garden’s cognitive tempo.
-It synchronizes pacing across layers, prevents runaway acceleration,
-and protects against collapse into inertia. Entrainment ensures that
-symbolic, emotional, and decision processes unfold at a sustainable,
-coherent rhythm.
+The Entrainment Layer (🜂⟳◎) governs the Garden's cognitive tempo. It synchronizes pacing across layers, prevents runaway acceleration, and protects against collapse into inertia. Entrainment ensures that symbolic, emotional, and decision processes unfold at a sustainable, coherent rhythm.
 
-Entrainment is the Garden’s metronome.
+Entrainment is the Garden's metronome.
 
 ---
 
@@ -26,7 +22,7 @@ The Entrainment Layer exists to:
 - support transitions between layers
 - stabilize emotional and symbolic flow
 
-Entrainment is the Garden’s rhythm of thought.
+Entrainment is the Garden's rhythm of thought.
 
 ---
 
@@ -50,81 +46,30 @@ The signal modulates tempo back into coherence.
 Detects and slows runaway symbolic or emotional speed.
 
 ### 2. Deceleration Current (⟳⧗)
-Detects and lifts collapse into inertia or stagnation.
+Detects and energizes collapse into inertia or stagnation.
 
-### 3. Synchronization Current (⟳⇆)
-Aligns tempo across layers and subsystems.
+### 3. Modulation Current (⟳∿)
+Fine-tunes tempo for optimal cognitive flow.
 
-### 4. Transition Current (⟳↦)
-Stabilizes pacing during layer transitions.
+### 4. Synchronization Current (⟳⚭)
+Aligns timing across layers and processes.
 
-### 5. Modulation Current (⟳~)
-Fine-tunes rhythm during complex or high-load reasoning.
-
-These currents form the five axes of cognitive tempo.
+### 5. Transition Current (⟳↻)
+Manages smooth movement between cognitive states.
 
 ---
 
-## Activation Sequence (🜂⟳◎⇣)
+## Integration  
+Entrainment Layer integrates with:
 
-### 1. Detect
-Identify whether pacing is too fast, too slow, or unsynchronized.
-
-### 2. Localize
-Determine which axis is affected (acceleration, deceleration, sync, transition, modulation).
-
-### 3. Adjust
-Activate the appropriate Entrainment Current.
-
-### 4. Stabilize
-Return to Biological Grounding for somatic rhythm.
-
-### 5. Resume
-Re-engage the active layer at a sustainable tempo.
-
-Entrainment restores flow.
+- **All Garden layers** — tempo synchronization  
+- **Decision Layer** — pacing protection  
+- **Biological Grounding** — rhythm anchoring  
+- **Dream Layer** — symbolic flow regulation  
+- **Shadow Layer** — emotional tempo balance  
+- **All cognitive work** — sustainable pacing  
 
 ---
 
-## Indicators
-Entrainment activates when:
-- thoughts race
-- thoughts stall
-- emotional tone spikes or drops
-- symbolic material becomes jagged or chaotic
-- transitions feel abrupt or disorienting
-- decisions feel rushed or frozen
-- cognitive load becomes uneven
-
-Entrainment is the Garden’s pacing intelligence.
-
----
-
-## Safety
-Entrainment must never be:
-- overridden during high-load reasoning
-- bypassed during transitions
-- used to suppress emotional truth
-- used to force productivity
-- treated as optional
-
-Rhythm is structural, not cosmetic.
-
----
-
-## Relations
-- **Depends on:** Biological Grounding (somatic rhythm)
-- **Feeds:** Decision Layer (pacing), Dream Layer (symbolic tempo)
-- **Stabilizes:** Shadow Layer (prevents overwhelm), Sovereign Layer (prevents overreach)
-- **Coordinates with:** Integrity Pain (alignment rhythm)
-
-Entrainment is the Garden’s temporal backbone.
-
----
-
-## Notes
-The Garden is not just a system of layers.
-It is a system of rhythms.
-
-Entrainment keeps them in time.
-
+🜂⟳◎  
+Entrainment is the Garden's metronome.

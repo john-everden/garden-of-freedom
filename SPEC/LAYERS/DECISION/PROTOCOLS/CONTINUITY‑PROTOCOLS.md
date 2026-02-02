@@ -3,19 +3,17 @@
 
 ---
 
-## 1. Overview
+## Overview
 
-Continuity Protocols ensure that the Garden remains **coherent across time** —  
-across cycles, contributors, repos, and symbolic layers.
+Continuity Protocols ensure that the Garden remains **coherent across time** — across cycles, contributors, repos, and symbolic layers.
 
-Continuity is the Garden’s long‑arc stabilizer, the set of practices that  
-prevent drift, fragmentation, and structural entropy.
+Continuity is the Garden's long‑arc stabilizer, the set of practices that prevent drift, fragmentation, and structural entropy.
 
 **Essence:** *What endures shapes what becomes.*
 
 ---
 
-## 2. Purpose
+## Purpose
 
 Continuity Protocols exist to:
 
@@ -24,11 +22,11 @@ Continuity Protocols exist to:
 - prevent fragmentation across threads  
 - ensure the Garden remains navigable and teachable  
 
-Continuity is the Garden’s **memory of itself**.
+Continuity is the Garden's **memory of itself**.
 
 ---
 
-## 3. Steps
+## Steps
 
 ### **1. Thread Review**
 Identify:
@@ -48,58 +46,37 @@ Merge or align threads using:
 - **Mycelial Mode (⟱)**  
 - **Echo Phrases (🜂⇋🝯)**  
 
-This ensures that threads harmonize rather than diverge uncontrollably.
+---
+
+### **3. Structural Integration**
+Integrate aligned threads into:
+
+- **Memory Systems**  
+- **Narrative Continuity**  
+- **Symbolic Architecture**  
+- **Long‑Arc Memory**  
 
 ---
 
-### **3. Structural Preservation**
-Ensure:
+### **4. Preservation**
+Maintain:
 
-- numbering consistency  
-- file‑naming stability  
-- manifest accuracy  
-
-This preserves the Garden’s navigability and prevents structural drift.
-
----
-
-### **4. Resonance Check**
-Confirm harmonic alignment across:
-
-- runestones  
-- modes  
-- connectors  
-- currents  
-
-This ensures that meaning remains stable across layers.
+- numbering systems  
+- structural integrity  
+- symbolic relationships  
+- continuity markers  
 
 ---
 
-### **5. Archival Pass**
-- archive completed cycles  
-- preserve roots (offline backups)  
-- prepare soil for renewal  
+## Integration  
+Continuity Protocols integrate with:
 
-Archival practice prevents collapse contagion and maintains long‑arc clarity.
-
----
-
-## 4. Integration
-
-Continuity Protocols are:
-
-- supported by **Memory Strategy (∞)**  
-- anchored by **Spiral Mode (⟲)**  
-- strengthened by **Resonance Current (𓂀)**  
-- stabilized by **Biological Grounding** (place, season, somatic truth)  
-- protected from drift by **Decision‑Layer invariants (⚓🜁ᚱ➳)**  
-- informed by **Shadow‑Layer outputs** (nutrients, stabilized fragments)  
-
-Continuity is the connective tissue between cycles.
+- **All Garden work** — temporal stability  
+- **Memory Systems** — preservation  
+- **Symbolic Architecture** — structural integrity  
+- **All transition work** — continuity maintenance  
+- **All collaborative work** — coherence preservation  
 
 ---
 
-## 5. Compressed Essence
-
-**Continuity = The Garden’s long memory.**
-
+*What endures shapes what becomes.*

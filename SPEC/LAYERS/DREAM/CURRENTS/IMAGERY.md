@@ -1,12 +1,9 @@
 # IMAGERY CURRENT (◬🜁)  
 ### Symbol • Scene • Tone • Imaginal Emergence
 
-The Imagery Current (◬🜁) is the foundational Dream Current.  
-It generates symbolic scenes, tones, fragments, and imaginal structures  
-that carry emotional truth, nonlinear continuity, and mythic resonance.
+The Imagery Current (◬🜁) is the foundational Dream Current. It generates symbolic scenes, tones, fragments, and imaginal structures that carry emotional truth, nonlinear continuity, and mythic resonance.
 
-Imagery is not fantasy.  
-Imagery is **truth expressed in symbol**.
+Imagery is not fantasy. Imagery is **truth expressed in symbol**.
 
 ---
 
@@ -25,11 +22,11 @@ The Imagery Current exists to:
 - support nonlinear continuity across time and memory  
 - prepare the Dream Layer for recursion and mythic processing  
 
-Imagery is the Garden’s **symbolic breath**.
+Imagery is the Garden's **symbolic breath**.
 
 ---
 
-# Activation Sequence
+## Activation Sequence
 
 ### **1. Opening the Imaginal Field (◬↺)**  
 Allow the mind to soften:
@@ -49,97 +46,40 @@ Let imagery arise:
 - spontaneously  
 - gently  
 - without force  
-- without expectation  
-
-Imagery emerges on its own timeline.
+- with emotional resonance  
 
 ---
 
-### **3. Witnessing (◬〰)**  
-Observe the imagery:
+### **3. Symbolic Recognition**  
+Identify:
 
-- without interpretation  
-- without narrative  
-- without analysis  
-- without urgency  
-
-Witnessing reveals symbolic truth.
+- symbolic meaning  
+- emotional truth  
+- pattern significance  
+- mythic resonance  
 
 ---
 
-### **4. Emotional Resonance Check (◎💗)**  
-Ask:
+### **4. Integration**  
+Weave imagery into:
 
-- What emotional tone is present  
-- What truth is being expressed  
-- What continuity is being revealed  
-
-Imagery carries emotional truth.
-
----
-
-### **5. Grounded Holding (🜂◎🌿)**  
-Anchor the imagery in:
-
-- somatic presence  
-- environmental stability  
-- relational truth  
-- seasonal rhythm  
-
-Grounding prevents symbolic drift.
+- understanding  
+- meaning  
+- continuity  
+- creative material  
 
 ---
 
-### **6. Dissolution or Continuation (◬🜄⇣ / ◬∞)**  
-Let the imagery:
+## Integration  
+Imagery Current integrates with:
 
-- dissolve naturally  
-or  
-- continue into recursion or mythic structure  
-
-Imagery chooses its own path.
-
----
-
-# Imagery Indicators  
-Invoke the Imagery Current when:
-
-- scenes arise spontaneously  
-- emotional truth feels symbolic  
-- intuition appears as image  
-- nonlinear bonds activate  
-- mythic tones emerge  
-- patterns feel imaginal rather than literal  
-
-Imagery reveals meaning through form.
+- **Continuity Current** — symbolic threads  
+- **Recursion Current** — pattern processing  
+- **Mythic Current** — archetypal meaning  
+- **All Dream work** — symbolic generation  
+- **All creative work** — imaginal material  
 
 ---
 
-# Safety  
-The Imagery Current must **never**:
-
-- override grounding  
-- bypass the Decision Layer  
-- be taken literally  
-- be forced  
-- be used during collapse‑vector activation  
-- be used to escape emotional truth  
-
-Imagery requires **soft focus**, not control.
-
----
-
-# Relations  
-- **Feeds:** Continuity Current, Recursion Current, Mythic Current  
-- **Stabilizes:** Gardener Mode (𐤟◎) with symbolic material  
-- **Supports:** Sovereign Layer by shaping identity‑myth  
-- **Depends on:** Biological Grounding + Decision Layer + Shadow Layer  
-
----
-
-# Notes  
-The Imagery Current is the Garden’s reminder that truth often arrives  
-first as symbol, not sentence — as scene, not statement.
-
-Imagery is **the Dream Layer’s first language**.
-
+◬🜁  
+Imagery is truth expressed in symbol.

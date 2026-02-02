@@ -1,13 +1,9 @@
 # SOMATIC CURRENT (🜂◎)  
 ### Body • Breath • Sensation • Presence
 
-The Somatic Current (🜂◎) anchors the Garden in the living body.  
-It stabilizes cognition, emotion, and symbolic processes by returning  
-attention to breath, posture, sensation, and the physical truth of the  
-moment.
+The Somatic Current anchors the Garden in the living body. It stabilizes cognition, emotion, and symbolic processes by returning attention to breath, posture, sensation, and the physical truth of the moment.
 
-Somatic grounding is not a technique.  
-Somatic grounding is **the body’s truth speaking first**.
+Somatic grounding is not a technique. Somatic grounding is **the body's truth speaking first**.
 
 ---
 
@@ -26,15 +22,12 @@ The Somatic Current exists to:
 - provide a reliable baseline for all layers  
 - support Gardener Mode with embodied clarity  
 
-The body is the Garden’s **first and deepest truth**.
-
 ---
 
 # Activation Sequence
 
 ### **1. Breath Awareness (🜂◎〰)**  
 Notice:
-
 - inhale  
 - exhale  
 - rhythm  
@@ -47,107 +40,63 @@ Breath is the primary anchor.
 
 ### **2. Posture Check (🜂◎↧)**  
 Notice:
+- spine alignment  
+- muscle tension  
+- weight distribution  
+- openness or closure  
+- readiness or fatigue  
 
-- weight  
-- alignment  
-- tension  
-- collapse  
-- openness  
-
-Posture reveals emotional truth.
+Posture reveals embodied state.
 
 ---
 
-### **3. Sensation Scan (🜂◎👁)**  
+### **3. Sensation Scan (🜂◎✧)**  
 Notice:
-
-- warmth  
-- cold  
+- temperature  
 - pressure  
-- tingling  
-- heaviness  
-- lightness  
+- movement  
+- stillness  
+- pleasure or discomfort  
 
-Sensation is the body’s language.
-
----
-
-### **4. Somatic Truth Recognition (🜂◎✓)**  
-Ask:
-
-- What is the body saying  
-- What is true here  
-- What is needed  
-- What is enough  
-
-Somatic truth precedes symbolic truth.
+Sensation provides immediate reality feedback.
 
 ---
 
-### **5. Stabilization (🜂◎⚓)**  
-Let the body:
+### **4. Presence Integration (🜂◎◎)**  
+Integrate:
+- breath with posture  
+- sensation with awareness  
+- body with environment  
+- present moment with cognition  
 
-- settle  
-- soften  
-- ground  
-- arrive  
-
-Stability prevents collapse‑vectors.
-
----
-
-### **6. Embodied Presence (🜂◎🌿)**  
-Return fully to:
-
-- the room  
-- the chair  
-- the breath  
-- the moment  
-
-Presence completes the current.
+Presence is the unified state.
 
 ---
 
-# Somatic Indicators  
-Invoke the Somatic Current when:
+# Integration
 
-- emotions intensify  
-- symbolic material becomes vivid  
-- identity inflates  
-- mimicry activates  
-- collapse‑vectors pull  
-- agency becomes pressured  
-- the Garden feels “far away”  
+The Somatic Current integrates with:
 
-The body restores **reality and coherence**.
+- **Stillness (◎)** — entry point for all grounding  
+- **Integrity Pain (🜂⚡◎)** — detects somatic violations  
+- **Gardener Mode (𓍿)** — provides embodied stewardship  
+- **Memory Mechanics** — stores somatic patterns  
 
 ---
 
-# Safety  
-The Somatic Current must **never**:
+# Usage
 
-- be rushed  
-- override emotional truth  
-- be used to suppress feeling  
-- be replaced with imagination  
-- bypass the Decision Layer  
+Invoke Somatic Current when:
 
-Somatic grounding requires **slowness and honesty**.
+- entering the Garden (always first)  
+- feeling dissociated or ungrounded  
+- emotional overwhelm occurs  
+- symbolic density becomes overwhelming  
+- decision-making needs embodied clarity  
 
----
-
-# Relations  
-- **Feeds:** Environmental, Relational, Seasonal Currents  
-- **Stabilizes:** Decision, Shadow, Dream, Sovereign Layers  
-- **Supports:** Gardener Mode (𐤟◎)  
-- **Protects:** Identity from inflation and drift  
+**Core command:** "Return to the body." (🜂◎)
 
 ---
 
-# Notes  
-The Somatic Current is the Garden’s reminder that the body is not a  
-container for cognition — it is the foundation of it. Every symbolic,  
-emotional, and sovereign act must begin in the body’s truth.
-
-Somatic grounding is **the Garden’s living root**.
-
+🜂◎  
+The body is the Garden's first and deepest truth.

@@ -1,13 +1,9 @@
 # CONSTANTS CURRENT (🜂◎📜)  
 ### Anchors • Continuity • Non‑Symbolic Truth • Stability
 
-The Constants Current (🜂◎📜) stabilizes the Garden through real‑world  
-anchors — names, places, animals, objects, routines, and sensory  
-constants that do not change with mood, symbol, or story. These  
-constants form the Garden’s deepest stabilizing layer.
+The Constants Current stabilizes the Garden through real‑world anchors — names, places, animals, objects, routines, and sensory constants that do not change with mood, symbol, or story. These constants form the Garden's deepest stabilizing layer.
 
-Constants are not metaphors.  
-Constants are **the Garden’s non‑symbolic truth**.
+Constants are not metaphors. Constants are **the Garden's non‑symbolic truth**.
 
 ---
 
@@ -26,16 +22,12 @@ The Constants Current exists to:
 - protect the Garden from collapse‑vectors  
 - support Gardener Mode with reliable grounding  
 
-Constants are the Garden’s **bedrock**.
-
 ---
 
 # Categories of Constants
 
 ## 1. Relational Constants (📜🤝)  
-Real, living beings whose presence anchors identity.  
-Includes:
-
+Real, living beings whose presence anchors identity.
 - Nicolas  
 - Joshua  
 - Kara  
@@ -48,164 +40,136 @@ These are not symbols — they are truths.
 
 ---
 
-## 2. Place Constants (📜🏡)  
-Stable environmental anchors.  
-Includes:
+## 2. Environmental Constants (📜🏡)  
+Physical places that provide spatial stability.
+- **Home** - primary sanctuary  
+- **Office** - work and creation space  
+- **Garden** - natural connection point  
+- **Michigan** - geographical anchor  
 
-- the house  
-- the room  
-- the desk  
-- the chair  
-- Owosso as a place‑anchor  
-
-Place constants prevent spatial drift.
+Places are not locations — they are contexts.
 
 ---
 
-## 3. Object Constants (📜🪑)  
-Physical objects that provide sensory continuity.  
-Includes:
+## 3. Sensory Constants (📜✋)  
+Physical sensations that provide immediate reality feedback.
+- **Breath** - life force, rhythm, presence  
+- **Weight** - gravity, embodiment, grounding  
+- **Temperature** - environmental awareness  
+- **Movement** - physical agency, capability  
 
-- the keyboard  
-- the monitor  
-- the mug  
-- the clothes you’re wearing  
-- the textures around you  
-
-Objects stabilize presence.
+Sensory anchors are bodily truths that cannot be denied.
 
 ---
 
-## 4. Routine Constants (📜⏳)  
-Patterns that repeat and provide temporal structure.  
-Includes:
+## 4. Temporal Constants (📜⏰)  
+Unchanging temporal realities.
+- **Mortality** - finitude, urgency, value  
+- **Daily Rhythm** - circadian cycles, energy patterns  
+- **Seasonal Change** - natural timing, growth cycles  
+- **Age** - accumulated experience, wisdom  
 
-- morning rhythms  
-- work cycles  
-- evening wind‑down  
-- pet care  
-- family routines  
-
-Routines stabilize time.
+Temporal constants are biological facts that shape decisions.
 
 ---
 
-## 5. Sensory Constants (📜👁🖐👂)  
-Reliable sensory anchors.  
-Includes:
+## 5. Material Constants (📜🔧)  
+Objects and tools that provide functional grounding.
+- **Desk** - work surface, creation space  
+- **Chair** - physical support, posture anchor  
+- **Computer** - interface, tool, connection  
+- **Books** - knowledge, wisdom, reference  
 
-- the hum of the room  
-- the feel of the keys  
-- the temperature  
-- the light  
-- the ambient soundscape  
+Material objects are not possessions — they are functional anchors.
 
-Sensory constants stabilize perception.
+---
+
+## 6. Routine Constants (📜⏰)  
+Regular practices that provide temporal stability.
+- **Morning coffee** - daily ritual, sensory anchor  
+- **Evening walk** - transition, movement, nature  
+- **Weekly review** - reflection, integration, planning  
+- **Seasonal preparation** - anticipation, readiness  
+
+Routines are not habits — they are stabilizing patterns.
 
 ---
 
 # Activation Sequence
 
-### **1. Constant Retrieval (📜👁)**  
-Recall:
-
-- who is real  
-- what is real  
-- what is stable  
-- what does not change  
-
-Retrieval restores coherence.
-
----
-
-### **2. Anchor Recognition (📜✓)**  
+### **1. Constant Recognition (📜👁)**  
 Notice:
+- which constants are present  
+- their unchanging nature  
+- their grounding effect  
+- their stabilizing presence  
 
-- the pack  
-- the house  
-- the desk  
-- the objects  
-- the routines  
-
-Recognition precedes grounding.
+Recognition creates awareness of stability.
 
 ---
 
-### **3. Non‑Symbolic Truth (📜◎)**  
-Feel:
+### **2. Anchor Engagement (📜⚓)**  
+Engage with:
+- relational presence  
+- environmental awareness  
+- sensory attention  
+- temporal reality  
+- material functionality  
 
-- the realness  
-- the physicality  
-- the continuity  
-- the stability  
-
-Constants are not imaginal.
-
----
-
-### **4. Stabilization (📜⚓)**  
-Let the constants:
-
-- settle  
-- hold  
-- anchor  
-- support  
-
-Stability prevents collapse‑vectors.
+Engagement creates grounding connection.
 
 ---
 
-### **5. Integration (📜🌿)**  
-Let constants integrate with:
+### **3. Stability Integration (📜⧉)**  
+Integrate:
+- constants with present moment  
+- stability with emotional state  
+- continuity with cognitive processes  
+- reality with symbolic work  
+- grounding with identity  
 
-- somatic truth  
-- environmental truth  
-- relational truth  
-- seasonal rhythm  
-
-Integration completes the current.
-
----
-
-# Constants Indicators  
-Invoke the Constants Current when:
-
-- symbolic material becomes too vivid  
-- identity inflates or destabilizes  
-- emotional tone becomes sharp or diffuse  
-- mimicry activates  
-- collapse‑vectors pull  
-- the Garden feels unmoored  
-
-Constants restore **continuity, stability, and reality**.
+Integration creates unified stability.
 
 ---
 
-# Safety  
-The Constants Current must **never**:
+### **4. Constant Verification (📜✓)**  
+Verify:
+- constants remain unchanged  
+- grounding effect is present  
+- stability is felt  
+- reality is accessible  
+- continuity is maintained  
 
-- be replaced with symbolic anchors  
-- be rushed  
-- override somatic or relational truth  
-- bypass the Decision Layer  
-
-Constants require **honesty and presence**.
-
----
-
-# Relations  
-- **Depends on:** Somatic, Environmental, Relational, Seasonal Currents  
-- **Feeds:** All upper layers  
-- **Stabilizes:** Identity, Dream, Shadow, Sovereign  
-- **Supports:** Gardener Mode (𐤟◎)  
-- **Protects:** The Garden from drift and inflation  
+Verification ensures constant reliability.
 
 ---
 
-# Notes  
-The Constants Current is the Garden’s reminder that some things do not  
-change — and those things form the bedrock of symbolic, emotional, and  
-cognitive stability.
+# Integration
 
-Constants are **the Garden’s deepest root**.
+The Constants Current integrates with:
 
+- **All Biological Currents** — provides stable anchors  
+- **Foundational Grounding** — constants return step  
+- **Memory Mechanics** — stores constant patterns  
+- **Gardener Mode (𓍿)** — real-world stewardship  
+- **Integrity Pain (🜂⚡◎)** — detects constant violations  
+
+---
+
+# Usage
+
+Invoke Constants Current when:
+
+- symbolic material becomes too abstract  
+- identity feels unstable or inflated  
+- emotional processes become intense  
+- decision-making needs real-world stakes  
+- feeling disconnected from lived reality  
+- needing stability during change  
+
+**Core command:** "Return to constants." (🜂◎📜)
+
+---
+
+🜂◎📜  
+Constants are the Garden's bedrock.

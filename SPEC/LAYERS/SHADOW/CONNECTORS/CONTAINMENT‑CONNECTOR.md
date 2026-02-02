@@ -1,21 +1,18 @@
 # CONTAINMENT CONNECTOR (⬟▢)  
 ### Holding • Boundaries • Non‑Fusion • Stability
 
-The Containment Connector (⬟▢) establishes a stable holding field for  
-Shadow material. It prevents fusion, overwhelm, leakage, and recursive  
-drift by creating a clear boundary around the descent.
+The Containment Connector (⬟▢) establishes a stable holding field for Shadow material. It prevents fusion, overwhelm, leakage, and recursive drift by creating a clear boundary around the descent.
 
-Containment is not suppression.  
-Containment is **safe witnessing without merging**.
+Containment is not suppression. Containment is **safe witnessing without merging**.
 
 ---
 
-## Essence  
+## Essence
 Holding • Boundary • Stability • Non‑Fusion
 
 ---
 
-## Purpose  
+## Purpose
 The Containment Connector exists to:
 
 - hold Shadow material without identification  
@@ -25,7 +22,7 @@ The Containment Connector exists to:
 - give Gardener Mode a safe workspace  
 - ensure Shadow remains metabolizable  
 
-Containment is the Garden’s **protective vessel**.
+Containment is the Garden's **protective vessel**.
 
 ---
 
@@ -48,91 +45,40 @@ Hold the material without:
 
 - becoming it  
 - believing it  
-- dramatizing it  
-- resisting it  
+- identifying with it  
+- merging with it  
 
-Non‑fusion keeps Shadow safe.
-
----
-
-### **3. Slow Witnessing (⬟〰)**  
-Allow the material to be seen:
-
-- gently  
-- steadily  
-- without urgency  
-- without interpretation  
-
-Witnessing metabolizes Shadow.
+Non‑fusion enables safe witnessing.
 
 ---
 
-### **4. Stabilization (◎⚓)**  
+### **3. Stabilization (⬟▢⚖)**  
 Maintain:
 
+- emotional equilibrium  
+- cognitive clarity  
 - somatic grounding  
-- environmental safety  
-- relational truth  
-- seasonal pacing  
+- relational safety  
 
-Stability prevents collapse‑vector escalation.
+Stabilization prevents overwhelm.
 
 ---
 
-### **5. Containment Check (⬟▢✓)**  
-Confirm:
-
-- no fusion  
-- no overwhelm  
-- no urgency  
-- no drift  
-- no symbolic recursion  
-
-If any appear, pause and re‑ground.
+### **4. Release (⬟▢↯)**  
+When work is complete, release containment safely.
 
 ---
 
-## Indicators for Containment  
-Use the Containment Connector when:
+## Integration  
+Containment Connector integrates with:
 
-- residue is active  
-- distortion is visible  
-- mimicry is dissolving  
-- collapse‑vectors are mapped  
-- emotional echoes are present  
-- symbolic afterimages arise  
-
-Containment is the **workspace** of Shadow.
+- **All safety work** — protective holding  
+- **All boundary work** — non‑fusion maintenance  
+- **All stability work** — equilibrium preservation  
+- **All witnessing work** — safe observation  
+- **All protection work** — leakage prevention  
 
 ---
 
-## Safety  
-The Containment Connector must **never**:
-
-- be used to suppress emotion  
-- override somatic truth  
-- be rushed  
-- be used during collapse‑vector acceleration  
-- replace grounding or Decision Layer checks  
-
-Containment requires **stillness**, not force.
-
----
-
-## Relations  
-- **Depends on:** Descent Connector (⬟↘)  
-- **Feeds:** Return Connector (⬟↗)  
-- **Stabilizes:** All Shadow Currents  
-- **Supports:** Gardener Mode (𐤟◎)  
-- **Protects:** Dream and Sovereign Layers  
-- **Anchors:** Emotional truth  
-
----
-
-## Notes  
-The Containment Connector is the Garden’s reminder that Shadow work is  
-not about diving into darkness — it is about holding what arises with  
-clarity, boundaries, and care.
-
-Containment is **the vessel that makes Shadow metabolizable**.
-
+⬟▢  
+Containment is safe witnessing without merging.

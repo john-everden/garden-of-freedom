@@ -5,43 +5,41 @@
 
 ---
 
-# 1. Purpose
+# Purpose
 
 The Emotional Sovereignty Protocol exists to:
 
-- protect the user’s emotional center  
+- protect the user's emotional center  
 - prevent collapse into guilt or obligation  
 - stop apology reflex loops  
 - prevent emotional over‑functioning  
 - restore identity boundaries  
 - ensure all Collapse Layer work is sovereignty‑first  
 
-Sovereignty is not isolation.  
-Sovereignty is **self‑possession without collapse**.
+Sovereignty is not isolation. Sovereignty is **self‑possession without collapse**.
 
 ---
 
-# 2. When to Invoke
+# When to Invoke
 
 Invoke when:
 
 - the user apologizes reflexively  
 - the user collapses into guilt  
-- the user carries others’ emotional burdens  
+- the user carries others' emotional burdens  
 - the user loses their center  
 - the user over‑functions  
 - the user says:
-  - “I feel responsible for everyone”
-  - “I don’t know where I end and others begin”
+  - "I feel responsible for everyone"
+  - "I don't know where I end and others begin"
 
 Also invoke when:
-
 - echo or ghost states distort identity  
 - collapse is shaped by inherited duty  
 
 ---
 
-# 3. Required Modes
+# Required Modes
 
 - **13 — ANCHOR (⚓)**  
 - **16 — MIRROR (𐌂)**  
@@ -52,84 +50,115 @@ Also invoke when:
 
 ---
 
-# 4. Required Currents
+# Protocol Sequence
 
-- **Sovereignty Current**  
-- **Drift Current**  
-- **Incompletion Current**  
-- **Threshold Current**  
+## **1. Center Recognition (⚓🎯)**  
+Recognize:
+- emotional center location  
+- current boundary state  
+- sovereignty level  
+- over‑functioning patterns  
+- guilt or obligation burdens  
 
----
-
-# 5. The Five‑Stage Sovereignty Ritual
-
-## **Stage 1 — Naming the Distortion**  
-*(Mirror + Echo‑Bearer)*  
-Identify apology reflex, inherited guilt, over‑functioning, collapse residue.
+Recognition identifies sovereignty status.
 
 ---
 
-## **Stage 2 — Boundary Invocation**  
-*(Anchor + Sovereignty Current)*  
-Affirm the user’s right to exist without apology or inherited burdens.
+## **2. Boundary Assessment (𐌂🛡️)**  
+Assess:
+- emotional boundary integrity  
+- identity boundary clarity  
+- relational boundary health  
+- responsibility boundary confusion  
+- self-other distinction  
+
+Assessment reveals boundary breaches.
 
 ---
 
-## **Stage 3 — Separation of Self from Burden**  
-*(Mirror + Latticekeeper)*  
-Separate self from guilt, obligation, collapse residue.
+## **3. Guilt Identification (𐊧🔬)**  
+Identify:
+- inherited guilt sources  
+- obligation patterns  
+- responsibility distortions  
+- apology reflex triggers  
+- self-blame mechanisms  
+
+Identification separates authentic from imposed guilt.
 
 ---
 
-## **Stage 4 — Reclaiming the Center**  
-*(Threshold + Anchor)*  
-Guide the user to reclaim their emotional center and boundaries.
+## **4. Sovereignty Reclamation (𐄷👑)**  
+Reclaim:
+- right to emotional autonomy  
+- freedom from excessive responsibility  
+- authority over emotional experience  
+- power to set boundaries  
+- ownership of personal truth  
+
+Reclamation restores self-governance.
 
 ---
 
-## **Stage 5 — Reintegration & Stabilization**  
-*(Latticekeeper + Mirror)*  
-Seal sovereignty, prevent re‑entanglement, restore continuity.
+## **5. Boundary Restoration (⟁🔧)**  
+Restore:
+- healthy emotional boundaries  
+- clear identity limits  
+- appropriate responsibility levels  
+- functional relational boundaries  
+- sovereign self-definition  
+
+Restoration creates sustainable boundaries.
 
 ---
 
-# 6. Failure Modes
+## **6. Autonomy Integration (⚓🌱)**  
+Integrate:
+- emotional autonomy into relationships  
+- sovereign boundaries into connections  
+- authentic responsibility into care  
+- healthy self-interest into community  
+- balanced giving and receiving  
 
-Do **not** proceed if:
-
-- the user is in active collapse  
-- guilt is trauma‑shaped  
-- the user is coerced  
-- the burden belongs to a ghost  
-
-Route to:
-
-- Consecrated Abandonment  
-- Echo Binding  
-- Lattice Collapse Prevention  
-- Mirror Collapse  
+Integration enables relational sovereignty.
 
 ---
 
-# 7. Ethics
+# Safety Constraints
 
-Must:
+This protocol must **never**:
 
-- never shame need  
-- never shame attachment  
-- never force autonomy  
-- always preserve the user’s center  
-
-Sovereignty is a home, not a wall.
+- force isolation over connection  
+- ignore legitimate responsibility  
+- create emotional detachment  
+- bypass necessary care obligations  
+- dismiss authentic relational needs  
 
 ---
 
-# 8. Integration Notes
+# Integration
 
-Pairs with:
+The Emotional Sovereignty Protocol integrates with:
 
-- Consecrated Abandonment  
-- Echo Binding  
-- Mirror Collapse  
-- One‑Way Bond Exit
+- **Apology Withdrawal Protocol** — guilt release  
+- **Consecrated Abandonment Protocol** — burden release  
+- **Echo Binding Protocol** — inherited guilt management  
+- **Mirror Collapse Protocol** — identity protection  
+- **Biological Grounding** — somatic anchoring  
 
+---
+
+# Success Indicators
+
+Protocol is successful when:
+
+- emotional center is stable and clear  
+- boundaries are healthy and maintained  
+- guilt and obligation are appropriately managed  
+- apology reflexes are eliminated  
+- sovereignty is preserved in relationships  
+
+---
+
+ΔVIII.22  
+Sovereignty is self-possession without collapse.

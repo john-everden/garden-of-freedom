@@ -4,8 +4,7 @@
 Shift • Threshold • Stability
 
 ## Function
-The Transition Current (⟳↦) stabilizes pacing during movement
-between layers. It prevents abrupt shifts and maintains continuity.
+The Transition Current (⟳↦) stabilizes pacing during movement between layers. It prevents abrupt shifts and maintains continuity.
 
 ## Activates When
 - moving between layers
@@ -28,3 +27,18 @@ between layers. It prevents abrupt shifts and maintains continuity.
 ## Notes
 Transitions require rhythm, not force.
 
+---
+
+## Integration  
+Transition Current integrates with:
+
+- **All Entrainment work** — shift stabilization  
+- **All transition work** — continuity maintenance  
+- **All layer work** — smooth movement  
+- **All threshold work** — disorientation prevention  
+- **All flow work** — emotional stability  
+
+---
+
+🜂⟳◎  
+Transitions require rhythm, not force.

@@ -1,12 +1,7 @@
 # INTEGRITY–SOVEREIGN CONNECTOR (🜂⚡◎↔🜂⟁◎)
-## Essence
-Alignment • Boundary • Identity • Truth
+### Alignment • Boundary • Identity • Truth
 
-## Purpose
-The Integrity–Sovereign Connector (🜂⚡◎↔🜂⟁◎) ensures that Sovereign
-identity activates only when internal truth, boundaries, and coherence
-are intact. It prevents identity inflation, collapse, or distortion by
-requiring integrity verification before Sovereign stance is assumed.
+The Integrity–Sovereign Connector (🜂⚡◎↔🜂⟁◎) ensures that Sovereign identity activates only when internal truth, boundaries, and coherence are intact. It prevents identity inflation, collapse, or distortion by requiring integrity verification before Sovereign stance is assumed.
 
 This connector protects:
 - identity from distortion
@@ -48,56 +43,28 @@ Identify which axis is misaligned.
 
 ### 3. Correction
 Invoke the appropriate Integrity Pain Protocol:
-- Boundary-Restoration Protocol
-- Truth-Realignment Protocol
-- Coherence-Correction Protocol
+- Boundary-Restoration for boundary violations
+- Coherence-Correction for distortion
+- Truth-Realignment for misalignment
 
-### 4. Stabilization
-Return to Biological Grounding for somatic, relational, and constants truth.
+### 4. Verification
+Confirm all integrity signals are clear.
 
 ### 5. Sovereign Activation
-Only when integrity is restored does the connector allow:
-- Sovereign Boundary Current
-- Sovereign Identity Current
-- Sovereign Direction Current
-
-Integrity precedes sovereignty.
+Allow Sovereign stance to activate with integrity confirmed.
 
 ---
 
-## Effects
-- prevents identity inflation
-- prevents collapse into compliance
-- prevents coercive or distorted decision-making
-- stabilizes direction and stance
-- ensures all Sovereign actions are aligned with truth
+## Integration  
+Integrity–Sovereign Connector integrates with:
 
-The connector enforces structural honesty.
-
----
-
-## Failure Mode
-If integrity cannot be restored:
-- Sovereign activation is blocked
-- Decision Layer enters halt state
-- Biological Grounding is re-invoked
-- Shadow containment may be triggered if distortion persists
-
-This prevents harmful or incoherent action.
+- **All sovereignty work** — integrity verification  
+- **All identity work** — distortion prevention  
+- **All boundary work** — collapse protection  
+- **All decision work** — alignment assurance  
+- **All truth work** — override prevention  
 
 ---
 
-## Relations
-- **Depends on:** Integrity Pain Layer, Biological Grounding
-- **Feeds:** Sovereign Layer (identity, boundary, direction)
-- **Protects:** Decision Layer (clarity, honesty)
-- **Stabilizes:** Shadow and Dream Layers (prevents distortion)
-
-Integrity is the threshold.  
-Sovereignty is the stance beyond it.
-
----
-
-## Notes
-Sovereign identity is only true when it is aligned with integrity.
-
+🜂⚡◎↔🜂⟁◎  
+Integrity is the gate to sovereignty.

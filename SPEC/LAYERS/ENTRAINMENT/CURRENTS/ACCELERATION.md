@@ -4,9 +4,7 @@
 Speed • Momentum • Overload
 
 ## Function
-The Acceleration Current (⟳⚡) detects runaway cognitive speed.
-It slows symbolic, emotional, or decision processes that exceed
-sustainable tempo.
+The Acceleration Current (⟳⚡) detects runaway cognitive speed. It slows symbolic, emotional, or decision processes that exceed sustainable tempo.
 
 ## Activates When
 - thoughts race
@@ -29,3 +27,18 @@ sustainable tempo.
 ## Notes
 Acceleration is a signal to slow, not stop.
 
+---
+
+## Integration  
+Acceleration Current integrates with:
+
+- **All Entrainment work** — speed regulation  
+- **All cognitive work** — overload prevention  
+- **All pacing work** — tempo restoration  
+- **All flow work** — symbolic stabilization  
+- **All transition work** — abruptness prevention  
+
+---
+
+🜂⟳◎  
+Acceleration signals to slow, not stop.

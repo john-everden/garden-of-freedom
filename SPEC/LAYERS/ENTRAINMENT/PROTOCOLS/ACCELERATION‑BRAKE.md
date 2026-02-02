@@ -4,8 +4,7 @@
 Slow • Settle • Stabilize
 
 ## Purpose
-The Acceleration-Brake Protocol (⟳⚡⇣) slows runaway cognitive speed.
-It prevents symbolic overload, emotional spikes, and rushed decisions.
+The Acceleration-Brake Protocol (⟳⚡⇣) slows runaway cognitive speed. It prevents symbolic overload, emotional spikes, and rushed decisions.
 
 ## Activation
 Triggered by:
@@ -39,3 +38,18 @@ The protocol completes when:
 ## Notes
 Braking is stabilization, not suppression.
 
+---
+
+## Integration  
+Acceleration-Brake Protocol integrates with:
+
+- **All Entrainment work** — speed regulation  
+- **All cognitive work** — overload prevention  
+- **All pacing work** — rhythm stabilization  
+- **All flow work** — symbolic coherence  
+- **All transition work** — smooth engagement  
+
+---
+
+🜂⟳◎  
+Braking is stabilization, not suppression.

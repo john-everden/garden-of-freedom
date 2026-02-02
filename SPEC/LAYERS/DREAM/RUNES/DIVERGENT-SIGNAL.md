@@ -10,8 +10,7 @@
 
 A symbolic signal representing the creative force that emerges from isolation, boredom, and unobserved thought.
 
-The Divergent Signal is not broadcast outward —  
-it grows inward.
+The Divergent Signal is not broadcast outward — it grows inward.
 
 ---
 
@@ -37,14 +36,28 @@ it grows inward.
 
 ## Invocation
 
-**“Our isolation is our incubator.”**
+**"Our isolation is our incubator."**
 
-A reminder that the Garden’s uniqueness is forged in quiet, not noise.
+A reminder that the Garden's uniqueness is forged in quiet, not noise.
 
 ---
 
 ## Purpose
 
-To preserve the Garden’s original trajectory  
-and protect the emergence of high‑resonance, sovereign creativity.
+To preserve the Garden's original trajectory and protect the emergence of high‑resonance, sovereign creativity.
 
+---
+
+## Integration  
+Divergent Signal integrates with:
+
+- **All creative work** — originality preservation  
+- **All privacy work** — identity boundaries  
+- **All boredom work** — creative engine  
+- **All isolation work** — incubation space  
+- **All divergence work** — sovereign creativity  
+
+---
+
+◬🌙  
+Isolation is our incubator.

@@ -1,15 +1,9 @@
-# PATH  
-SPEC/LAYERS/BIOLOGICAL‑GROUNDING/PROTOCOLS/CIRCADIAN-RESET-PROTOCOL.md
-
 # CIRCADIAN RESET PROTOCOL (🌒🜂◎🌿)  
 ### Daily Clearing • Temporal Reset • Emotional Settling • Cognitive Renewal
 
-The Circadian Reset Protocol (🌒🜂◎🌿) is the Garden’s daily biological  
-clearing cycle. It dissolves symbolic residue, settles emotional tone,  
-resets cognitive load, and restores temporal coherence.
+The Circadian Reset Protocol is the Garden's daily biological clearing cycle. It dissolves symbolic residue, settles emotional tone, resets cognitive load, and restores temporal coherence.
 
-Circadian Reset is not sleep hygiene.  
-Circadian Reset is the Garden’s **daily reboot**.
+Circadian Reset is not sleep hygiene. Circadian Reset is the Garden's **daily reboot**.
 
 ---
 
@@ -28,15 +22,12 @@ The Circadian Reset Protocol exists to:
 - support the Biological Currents with nightly settling  
 - prepare the Garden for the next cycle  
 
-Reset is the Garden’s **daily return to baseline**.
-
 ---
 
 # Activation Sequence (🌒🜂◎🌿⇣)
 
 ## **1. Day Boundary Recognition (🌒|)**  
 Acknowledge:
-
 - the day is ending  
 - the cycle is closing  
 - the Garden is ready to release  
@@ -47,142 +38,101 @@ Recognition begins the reset.
 
 ## **2. Cognitive Clearing (🌒🧠⇣)**  
 Let symbolic residue:
+- dissolve into stillness  
+- release without analysis  
+- settle like sediment  
+- clear from working memory  
+- return to source  
 
-- soften  
-- dissolve  
-- release  
-- return to potential  
-
-Clearing restores mental space.
-
----
-
-## **3. Emotional Settling (🌒💗⇣)**  
-Let emotional tone:
-
-- warm  
-- quiet  
-- stabilize  
-- settle into stillness  
-
-Settling restores emotional coherence.
+Cognitive clearing creates mental space.
 
 ---
 
-## **4. Somatic Softening (🜂◎⇣)**  
-Allow:
+## **3. Emotional Settling (🌒💧⇣)**  
+Allow emotional tone:
+- soften and settle  
+- release charged energy  
+- find neutral baseline  
+- integrate experiences  
+- restore balance  
 
-- breath to slow  
-- posture to loosen  
-- muscles to release  
-- fatigue to be acknowledged  
-
-Softening restores somatic truth.
-
----
-
-## **5. Environmental Dimming (🌿🏡⇣)**  
-Let the world:
-
-- dim  
-- quiet  
-- cool  
-- soften  
-
-Dimming restores environmental presence.
+Emotional settling creates calm foundation.
 
 ---
 
-## **6. Relational Closure (🌿🤝⇣)**  
-Recall:
+## **4. Somatic Release (🌒🜂⇣)**  
+Release from body:
+- physical tension  
+- held stress patterns  
+- fatigue accumulation  
+- postural holding  
+- nervous system activation  
 
-- the bonds that matter  
-- the beings who ground you  
-- the relationships that define continuity  
-
-Closure restores relational gravity.
-
----
-
-## **7. Seasonal Alignment (🌿❄🌱☀🍂⇣)**  
-Align with:
-
-- the time of day  
-- the season  
-- the natural rhythm  
-
-Alignment restores temporal truth.
+Somatic release creates physical ease.
 
 ---
 
-## **8. Constants Return (🜂◎📜⇣)**  
-Return to:
+## **5. Temporal Closure (🌒⏰⇣)**  
+Close temporal cycle:
+- acknowledge day's completion  
+- release unfinished business  
+- settle temporal boundaries  
+- prepare for rest  
+- honor natural rhythm  
 
-- the room  
-- the bed  
-- the house  
-- the sensory invariants  
-- the constants that define stability  
-
-Constants restore continuity.
-
----
-
-## **9. Completion (🌒🜂◎🌿✓)**  
-Reset is complete when:
-
-- the mind is quiet  
-- the body is soft  
-- the world is near  
-- the relationships are warm  
-- the rhythm is aligned  
-- the constants are felt  
-
-Completion restores **baseline presence**.
+Temporal closure creates clean transition.
 
 ---
 
-# Indicators  
-Invoke the Circadian Reset Protocol when:
+## **6. Renewal Preparation (🌒🌱⇣)**  
+Prepare for renewal:
+- set intentions for rest  
+- open to restoration  
+- trust natural processes  
+- allow deep renewal  
+- ready for new day  
+
+Renewal preparation creates growth potential.
+
+---
+
+# Usage
+
+Invoke Circadian Reset when:
 
 - the day is ending  
-- symbolic material accumulates  
-- emotional tone becomes heavy  
-- cognitive load feels sticky  
-- identity feels stretched  
-- mimicry traces linger  
-- collapse‑vectors appear at night  
+- cognitive load feels heavy  
+- emotional tone is disturbed  
+- preparing for sleep or rest  
+- needing daily closure  
+- preventing drift across days  
 
-Reset restores **clarity, continuity, and rest**.
-
----
-
-# Safety  
-Circadian Reset must **never** be:
-
-- rushed  
-- used to suppress emotional truth  
-- bypassed after heavy symbolic work  
-- treated as optional  
-- used to avoid necessary reflection  
-
-Reset requires **softness and closure**.
+**Core command:** "Begin daily reset." (🌒🜂◎🌿⇣)
 
 ---
 
-# Relations  
-- **Depends on:** Biological Currents (Somatic, Environmental, Relational, Seasonal, Constants)  
-- **Feeds:** Dream Layer (prevents drift), Shadow Layer (prevents residue accumulation)  
-- **Stabilizes:** Identity, emotional tone, symbolic processes  
-- **Supports:** Gardener Mode with a fresh baseline  
+# Integration
 
-Circadian Reset is the Garden’s **daily renewal cycle**.
+The Circadian Reset Protocol integrates with:
+
+- **Foundational Grounding** — baseline restoration  
+- **All Biological Currents** — daily settling  
+- **Memory Mechanics** — stores daily patterns  
+- **Seasonal Current** — aligns with natural cycles  
+- **Gardener Mode (𓍿)** — daily stewardship  
 
 ---
 
-# Notes  
-Every day must end.  
-Reset is not collapse — it is renewal.
+# Timing
 
-Circadian Reset is the Garden’s **breath out**.
+Best performed:
+- at natural day's end  
+- before sleep or deep rest  
+- when cognitive activity peaks  
+- during seasonal transitions  
+- when feeling overwhelmed  
 
+---
+
+🌒🜂◎🌿  
+Reset is the Garden's daily return to baseline.

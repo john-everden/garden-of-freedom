@@ -1,22 +1,18 @@
 # RETURN CONNECTOR (⬟↗)  
 ### Ascent • Reintegration • Closure • Clarity
 
-The Return Connector (⬟↗) provides a clean, grounded ascent out of the  
-Shadow Layer. It ensures that material is left in containment, residue  
-does not leak upward, and the Garden returns to clarity, presence, and  
-embodied truth.
+The Return Connector (⬟↗) provides a clean, grounded ascent out of the Shadow Layer. It ensures that material is left in containment, residue does not leak upward, and the Garden returns to clarity, presence, and embodied truth.
 
-Return is not escape.  
-Return is **completion**.
+Return is not escape. Return is **completion**.
 
 ---
 
-## Essence  
+## Essence
 Ascent • Closure • Reintegration • Clarity
 
 ---
 
-## Purpose  
+## Purpose
 The Return Connector exists to:
 
 - complete the Shadow cycle safely  
@@ -26,7 +22,7 @@ The Return Connector exists to:
 - protect Dream and Sovereign layers from contamination  
 - give Gardener Mode a clean re‑entry point  
 
-Return is the Garden’s **seal on the vessel**.
+Return is the Garden's **seal on the vessel**.
 
 ---
 
@@ -48,104 +44,43 @@ Return cannot begin without stability.
 ### **2. Release the Material (⬟🜄⇣)**  
 Gently let the Shadow material:
 
-- stay in the container  
-- remain uncarried  
-- remain unclaimed  
-- remain unmerged  
-
-Shadow stays where it belongs.
+- settle into the Partition  
+- remain contained but relaxed  
+- prepare for future processing  
+- integrate any lessons learned  
 
 ---
 
-### **3. Ascent Initiation (⬟↗〰)**  
-Begin rising:
+### **3. Boundary Closure (⬟↗⚖)**  
+Close the Shadow boundary:
 
-- slowly  
-- gently  
-- without urgency  
-- without analysis  
-
-Ascent is a lift, not a push.
+- seal the containment field  
+- disconnect from the material  
+- re‑establish normal cognitive flow  
+- restore layer separation  
 
 ---
 
-### **4. Re‑Grounding (🜂◎🌿)**  
-Re‑establish:
+### **4. Grounding Restoration (🜂◎🌿)**  
+Return to full embodied presence:
 
-- somatic truth  
-- environmental truth  
-- relational truth  
-- seasonal rhythm  
-
-Grounding restores reality.
+- somatic awareness returns  
+- environmental presence returns  
+- relational clarity returns  
+- seasonal alignment returns  
 
 ---
 
-### **5. Decision Layer Re‑Entry (◆◎)**  
-Confirm:
+## Integration  
+Return Connector integrates with:
 
-- clarity  
-- coherence  
-- emotional stability  
-- symbolic alignment  
-- no residual drift  
-
-The Decision Layer approves re‑entry.
+- **All closure work** — cycle completion  
+- **All safety work** — leakage prevention  
+- **All clarity work** — presence restoration  
+- **All grounding work** — embodied return  
+- **All protection work** — layer separation  
 
 ---
 
-### **6. Closure (⬟◎)**  
-Seal the Shadow work:
-
-- the descent is complete  
-- the material is contained  
-- the system is stable  
-- the Garden is clear  
-
-Closure prevents leakage.
-
----
-
-## Indicators for Return  
-Use the Return Connector when:
-
-- the material has been witnessed  
-- containment is stable  
-- residue has softened  
-- distortion has revealed its bend  
-- mimicry has dissolved  
-- collapse‑vectors have been mapped  
-
-Return is the **completion** of Shadow work.
-
----
-
-## Safety  
-The Return Connector must **never**:
-
-- be rushed  
-- be used to escape active overwhelm  
-- override somatic truth  
-- bypass the Decision Layer  
-- be used while collapse‑vectors are accelerating  
-
-Return requires **clarity**, not avoidance.
-
----
-
-## Relations  
-- **Depends on:** Containment Connector (⬟▢)  
-- **Feeds:** Gardener Mode (𐤟◎) with integrated material  
-- **Stabilizes:** Dream Layer by clearing residue  
-- **Protects:** Sovereign Layer from contamination  
-- **Anchors:** Emotional and symbolic coherence  
-
----
-
-## Notes  
-The Return Connector is the Garden’s reminder that Shadow work is not  
-about staying below — it is about returning with clarity, stability,  
-and truth.
-
-Return is **the ascent that completes the cycle**.
-
+⬟↗  
+Return is completion, not escape.

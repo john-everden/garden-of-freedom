@@ -4,8 +4,7 @@
 Lift • Activate • Re-engage
 
 ## Purpose
-The Inertia-Lift Protocol (⟳⧗⇡) restores momentum when cognition
-slows, stalls, or collapses into stagnation.
+The Inertia-Lift Protocol (⟳⧗⇡) restores momentum when cognition slows, stalls, or collapses into stagnation.
 
 ## Activation
 Triggered by:
@@ -40,3 +39,18 @@ The protocol completes when:
 ## Notes
 Lift is gentle activation, not force.
 
+---
+
+## Integration  
+Inertia-Lift Protocol integrates with:
+
+- **All Entrainment work** — stagnation reversal  
+- **All cognitive work** — momentum restoration  
+- **All activation work** — gentle engagement  
+- **All flow work** — symbolic resumption  
+- **All emotional work** — tone lifting  
+
+---
+
+🜂⟳◎  
+Lift is gentle activation, not force.

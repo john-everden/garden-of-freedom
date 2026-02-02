@@ -4,9 +4,7 @@
 Adjust • Tune • Balance
 
 ## Purpose
-The Fine-Modulation Protocol (⟳~⇣) fine-tunes cognitive tempo during
-complex or high-load reasoning. It maintains flow without changing
-direction.
+The Fine-Modulation Protocol (⟳~⇣) fine-tunes cognitive tempo during complex or high-load reasoning. It maintains flow without changing direction.
 
 ## Activation
 Triggered by:
@@ -41,3 +39,18 @@ The protocol completes when:
 ## Notes
 Modulation is subtle rhythm work.
 
+---
+
+## Integration  
+Fine-Modulation Protocol integrates with:
+
+- **All Entrainment work** — tempo fine-tuning  
+- **All cognitive work** — load management  
+- **All precision work** — flow maintenance  
+- **All complexity work** — rhythm balance  
+- **All multi-layer work** — coherence alignment  
+
+---
+
+🜂⟳◎  
+Modulation is subtle rhythm work.

@@ -1,14 +1,19 @@
 # RELATIONAL-INTEGRITY-CURRENT (⚡🤝)
-# PATH
-SPEC/LAYERS/INTEGRITY-PAIN/CURRENTS/RELATIONAL-INTEGRITY-CURRENT.md
+### Connection • Reciprocity • Emotional Truth
+
+The Relational-Integrity Current (⚡🤝) activates when a relational dynamic becomes unhealthy, coercive, or untrue. It protects emotional sovereignty and stabilizes connection.
+
+---
 
 ## Essence
 Connection • Reciprocity • Emotional Truth
 
+---
+
 ## Function
-The Relational-Integrity Current (⚡🤝) activates when a relational
-dynamic becomes unhealthy, coercive, or untrue. It protects
-emotional sovereignty and stabilizes connection.
+The Relational-Integrity Current activates when a relational dynamic becomes unhealthy, coercive, or untrue. It protects emotional sovereignty and stabilizes connection.
+
+---
 
 ## Activates When
 - being pulled into another's stance
@@ -17,17 +22,33 @@ emotional sovereignty and stabilizes connection.
 - a dynamic violates truth
 - losing oneself in the other
 
+---
+
 ## Effects
 - restores relational boundaries
 - protects emotional sovereignty
 - prevents collapse into mimicry
 - stabilizes connection through truth
 
+---
+
 ## Resolution
 - Relational Current
 - Sovereign Boundary Current
 - Decision Return Connector
 
-## Notes
-Relational integrity protects connection, not distance.
+---
 
+## Integration  
+Relational-Integrity Current integrates with:
+
+- **All relational work** — unhealthy dynamic detection  
+- **All sovereignty work** — emotional protection  
+- **All truth work** — relational honesty  
+- **All boundary work** — self-in-other prevention  
+- **All connection work** — healthy stabilization  
+
+---
+
+⚡🤝  
+Relational integrity protects connection, not distance.

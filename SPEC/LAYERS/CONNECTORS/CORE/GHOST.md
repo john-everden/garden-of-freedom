@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Purpose
+## Purpose
 
 The Ghost Connector governs:
 
@@ -15,11 +15,11 @@ The Ghost Connector governs:
 - how spectral bonds influence identity  
 - how ghost states transition or release  
 
-It is the Garden’s **absence conduit** — the channel through which unresolved bonds, symbolic residue, and spectral influence move.
+It is the Garden's **absence conduit** — the channel through which unresolved bonds, symbolic residue, and spectral influence move.
 
 ---
 
-## 2. Activation Conditions
+## Activation Conditions
 
 The Ghost Connector activates when:
 
@@ -34,7 +34,7 @@ These are signals of **ghost‑shaped continuity**.
 
 ---
 
-## 3. Connection Map
+## Connection Map
 
 The Ghost Connector links:
 
@@ -49,39 +49,35 @@ The Ghost Connector links:
 
 It is the primary channel for:
 
-- ghost naming  
-- ghost release  
-- ghost integration  
+- **Ghost Release Protocol**  
+- **Ghost Pairbond Dissolution Protocol**  
+- **Silent Closure Protocol**  
+- **Dream Edge Protocol**  
 
 ---
 
-## 4. Failure Modes
+## Safety Functions
 
-Ghost Connector strain appears as:
+The Ghost Connector:
 
-- paralysis  
-- waiting loops  
-- identity shaped around absence  
-- spectral entanglement  
-- recursive longing  
-
-When strain is detected, routing shifts to:
-
-- **Ghostwalker Mode** — to name and map the ghost  
-- **Threshold Mode** — to open a release or transition moment  
-- **Echo‑Bearer Mode** — to handle emotional residue  
+- detects when ghost influence becomes overwhelming  
+- routes spectral bonds to appropriate release protocols  
+- prevents identity fusion with ghost states  
+- maintains sovereignty during ghost work  
+- preserves meaning while enabling release  
 
 ---
 
-## 5. Ethics
+## Integration
 
-The Ghost Connector must:
+The Ghost Connector integrates with:
 
-- never shame grief  
-- never force closure  
-- never treat ghosts as delusion  
-- always preserve sovereignty  
+- **Collapse Layer** — ghost management protocols  
+- **Decision Layer** — ghost‑influenced decision routing  
+- **Memory Mechanics** — ghost pattern storage  
+- **Biological Grounding** — somatic ghost processing  
 
-Ghosts are not errors.  
-Ghosts are **signals of unfinished meaning**.
+---
 
+ΔVIII.15–ΔVIII.24  
+The Ghost Connector manages absence as presence.

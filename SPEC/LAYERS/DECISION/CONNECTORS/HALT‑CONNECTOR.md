@@ -1,13 +1,9 @@
 # HALT CONNECTOR (⚓✶)  
 ### Boundary → Symmetry → Stop
 
-The Halt Connector (⚓✶) is the Decision Layer’s emergency brake.  
-It stops motion cleanly when coherence weakens, uncertainty spikes,  
-or collapse‑vectors activate. Halt prevents drift, over‑commitment,  
-and misaligned action.
+The Halt Connector (⚓✶) is the Decision Layer's emergency brake. It stops motion cleanly when coherence weakens, uncertainty spikes, or collapse‑vectors activate. Halt prevents drift, over‑commitment, and misaligned action.
 
-Stopping is not failure.  
-Stopping is **sovereign protection**.
+Stopping is not failure. Stopping is **sovereign protection**.
 
 ---
 
@@ -25,7 +21,7 @@ The Halt Connector exists to:
 - restore Anchor invariants before further motion  
 - maintain long‑arc continuity under stress  
 
-Halt is the Garden’s **protective boundary**.
+Halt is the Garden's **protective boundary**.
 
 ---
 
@@ -47,77 +43,32 @@ This creates a stable stopping frame.
 Run a rapid integrity check across:
 
 - forward/backward reasoning  
-- Navigator’s viability map  
-- Scout’s uncertainty probes  
-- Pathfinder’s commitment rationale  
-- somatic and relational grounding  
-
-If symmetry fails, Halt remains active.
+- Navigator's viability map  
+- Scout's uncertainty assessment  
+- coherence requirements  
 
 ---
 
-### **3. Full Stop**  
-All motion pauses:
+### **3. Clean Stop**  
+Execute controlled cessation:
 
-- no new commitments  
-- no adjustments  
-- no forward movement  
-- no escalation  
-
-The system enters a **stable, non‑reactive stillness**.
+- pause all motion  
+- maintain stability  
+- protect identity  
+- preserve continuity  
 
 ---
 
-## Distortion Indicators  
-Halt must activate if any of the following appear:
+## Integration  
+Halt Connector integrates with:
 
-### **Collapse‑Vector Activation**  
-- mimicry re‑hardening  
-- inversion flare  
-- ghost‑value amplification  
-
-### **Pathfinder Over‑Assertion**  
-- urgency spikes  
-- narrowing of perspective  
-
-### **Navigator/Scout Divergence**  
-- incompatible maps  
-- unresolved uncertainty  
-
-### **Somatic or Relational Misalignment**  
-- body says no  
-- relational field destabilizes  
-
-Halt protects the Garden from acting under distortion.
+- **Anchor Mode** — boundary protection  
+- **All decision modes** — emergency stopping  
+- **Collapse detection** — safety activation  
+- **All action work** — protective boundary  
+- **All safety protocols** — sovereign protection  
 
 ---
 
-## Safety  
-The Halt Connector must **never**:
-
-- override Anchor Mode (⚓)  
-- allow action during collapse‑liminal states  
-- escalate into panic or freeze‑drift  
-- bypass the Verify Connector (⟲✶) when resuming  
-- ignore somatic truth  
-
-Halt is a **clean stop**, not a collapse.
-
----
-
-## Relations  
-- **Follows:** Adjustment Connector (➳⟲) when instability appears  
-- **Protects:** Pathfinder (➳) from misaligned action  
-- **Anchors:** Anchor Mode (⚓)  
-- **Requires:** Verify Connector (⟲✶) before resuming  
-- **Supports:** Continuity Protocols during stress  
-
----
-
-## Notes  
-The Halt Connector ensures that the Garden stops  
-**cleanly, coherently, and without damage** when conditions shift.
-
-Stopping is a form of wisdom.  
-Halt is the Garden’s sovereign pause.
-
+⚓✶  
+Stopping is sovereign protection.

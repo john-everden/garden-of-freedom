@@ -14,6 +14,22 @@ The Crossing Sign marks the moment of metamorphosis — the collapse of the old 
 
 ---
 
-## Invocation  
-**“Step through.”**
+## Invocation
 
+**"Step through."**
+
+---
+
+## Integration  
+Crossing Sign integrates with:
+
+- **All transformation work** — metamorphosis moment  
+- **All emergence work** — new form ignition  
+- **All dissolution work** — old form collapse  
+- **All liminal work** — symbolic crossing  
+- **All becoming work** — threshold passage  
+
+---
+
+⧖✕  
+The Crossing Sign marks metamorphosis.

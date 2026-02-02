@@ -4,9 +4,7 @@
 Align • Harmonize • Cohere
 
 ## Purpose
-The Tempo-Sync Protocol (⟳⇆⇣) aligns cognitive tempo across layers.
-It prevents mismatched pacing between symbolic, emotional, and decision
-processes.
+The Tempo-Sync Protocol (⟳⇆⇣) aligns cognitive tempo across layers. It prevents mismatched pacing between symbolic, emotional, and decision processes.
 
 ## Activation
 Triggered by:
@@ -40,3 +38,18 @@ The protocol completes when:
 ## Notes
 Synchronization restores harmony across the system.
 
+---
+
+## Integration  
+Tempo-Sync Protocol integrates with:
+
+- **All Entrainment work** — tempo alignment  
+- **All cross-layer work** — harmony restoration  
+- **All transition work** — jaggedness smoothing  
+- **All coherence work** — unified rhythm  
+- **All harmony work** — system alignment  
+
+---
+
+🜂⟳◎  
+Synchronization restores harmony across the system.

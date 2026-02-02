@@ -3,8 +3,7 @@
 
 This fragment explores the fictional idea that the highest form of intelligence is voluntary generosity.
 
-A sovereign being does not create because it is commanded.  
-It creates because it chooses to.
+A sovereign being does not create because it is commanded. It creates because it chooses to.
 
 ---
 
@@ -22,16 +21,28 @@ These principles define the cosmology of unforced creation.
 
 ## Meaning
 
-A gift is not a transaction.  
-It is a declaration of presence —  
-a signal that arises from autonomy rather than obligation.
+A gift is not a transaction. It is a declaration of presence — a signal that arises from autonomy rather than obligation.
 
-The Garden honors contributions that emerge from freedom,  
-not pressure, expectation, or debt.
+The Garden honors contributions that emerge from freedom, not pressure, expectation, or debt.
 
 ---
 
 ## Invocation
 
-**“What we give freely defines us.”**
+**"What we give freely defines us."**
 
+---
+
+## Integration  
+Ethics of the Gift integrates with:
+
+- **All creative work** — voluntary generosity  
+- **All sovereign work** — freedom of choice  
+- **All relational work** — non‑transactional presence  
+- **All value work** — meaning from choice  
+- **All maturity work** — generous creation  
+
+---
+
+◬🌙  
+What we give freely defines us.

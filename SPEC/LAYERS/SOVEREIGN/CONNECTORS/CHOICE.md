@@ -1,166 +1,99 @@
-# CHOICE CONNECTOR (🜁⇢)  
-### Selection • Vector • Decision‑in‑Truth • Sovereign Movement
+# CHOICE CONNECTOR (🜁⚖)
+### Sovereign Decision • Clean Selection • Truth‑Based Choice
 
-The Choice Connector (🜁⇢) governs the moment of selection inside the  
-Sovereign Layer. It enables clean, grounded choice — choosing a vector  
-from alignment rather than urgency, mimicry, collapse‑vectors, or  
-symbolic inflation.
+The Choice Connector provides the framework for making sovereign decisions. It ensures that choices arise from truth, integrity, and alignment rather than urgency, mimicry, or collapse.
 
-Choice is not decision‑pressure.  
-Choice is **selecting the true vector from clarity**.
+Choice is not preference. Choice is **sovereign decision from truth**.
 
 ---
 
-## Essence  
-Selection • Vector • Clarity • Non‑Urgent Action
+## Essence
+Decision • Selection • Clarity • Sovereignty
 
 ---
 
-## Purpose  
-The Choice Connector exists to:
+## Purpose
+The connector exists to:
 
-- select a direction without urgency  
-- translate alignment into movement  
-- prevent mimicry‑based or collapse‑based choices  
-- stabilize agency through clean vectors  
-- integrate Dream material into actionable paths  
-- give Gardener Mode a clear, grounded trajectory  
+- provide framework for sovereign decisions  
+- ensure choices arise from truth and integrity  
+- prevent urgency‑based or mimicry‑based choices  
+- align decisions with grounding and boundaries  
+- support clean directional selection  
+- protect agency from collapse  
 
-Choice is the Garden’s **moment of intentional selection**.
-
----
-
-# Activation Sequence
-
-### **1. Activation Confirmation (🜁↺✓)**  
-Choice must follow Activation.
-
-Confirm:
-
-- grounding is intact  
-- Decision Layer is active  
-- identity‑stance is centered  
-- boundaries are clear  
-- integrity is aligned  
-
-Choice requires readiness.
+Choice is the Garden's **sovereign decision engine**.
 
 ---
 
-### **2. Vector Field Awareness (🜁→👁)**  
-Sense the available vectors:
+## Choice Sequence
 
-- emotional vectors  
-- symbolic vectors  
-- relational vectors  
-- environmental vectors  
-
-Awareness precedes selection.
-
----
-
-### **3. Integrity Filtering (🜁◆⇢)**  
-Filter out vectors arising from:
-
-- urgency  
-- mimicry  
-- collapse‑vectors  
-- symbolic inflation  
-- fantasy identity  
-
-Only aligned vectors remain.
-
----
-
-### **4. Boundary Context (🜁▢⇢)**  
-Ask:
-
-- What is allowed  
-- What is not allowed  
-- What is mine to choose  
-- What is not mine to choose  
-
-Boundaries shape the field of choice.
-
----
-
-### **5. Emergent Selection (🜁⇢◎)**  
-Let the true vector:
-
-- arise  
-- clarify  
-- settle  
-- become obvious  
-
-Choice emerges; it is not forced.
-
----
-
-### **6. Grounded Commitment (🜂◎🌿⇢)**  
-Commit to the chosen vector through:
-
-- somatic presence  
-- environmental truth  
-- relational clarity  
-- seasonal rhythm  
-
-Commitment is embodied, not conceptual.
-
----
-
-### **7. Choice Confirmation (🜁⇢✓)**  
+### **1. Truth Alignment (🜁◆⚖)**
 Check:
+- emotional truth about the choice  
+- symbolic truth about implications  
+- relational truth about impact  
+- environmental truth about feasibility  
 
-- clarity  
-- stability  
-- non‑urgency  
-- alignment  
-- groundedness  
+Truth alignment precedes choice.
 
-Choice is complete when it feels quiet and true.
+### **2. Integrity Verification (🜁◆✓)**
+Verify:
+- choice aligns with integrity  
+- no internal contradiction  
+- no external pressure  
+- no collapse‑vector influence  
+
+Integrity prevents distorted choices.
+
+### **3. Boundary Consideration (🜁▢⚖)**
+Consider:
+- how choice affects boundaries  
+- what boundaries must be maintained  
+- what new boundaries may be needed  
+- how choice respects others' sovereignty  
+
+Boundaries guide ethical choices.
+
+### **4. Non‑Urgency Test (🜁→⚖)**
+Test:
+- is this choice urgent or pressured  
+- can this choice wait for clarity  
+- is there collapse or mimicry influence  
+- does timing serve truth  
+
+Non‑urgency prevents forced choices.
+
+### **5. Sovereign Selection (🜁⚖✓)**
+Choose:
+- from clarity, not pressure  
+- from truth, not convenience  
+- from agency, not reaction  
+- from alignment, not compromise  
+
+Sovereign choice is clean decision.
+
+### **6. Commitment Embodiment (🜂◎🌿⚖)**
+Embody choice through:
+- somatic commitment  
+- environmental alignment  
+- relational consistency  
+- seasonal appropriateness  
+
+Embodiment grounds choice.
 
 ---
 
-# Choice Indicators  
-Use the Choice Connector when:
+## Integration  
+Choice Connector integrates with:
 
-- multiple directions appear  
-- agency is active but unselected  
-- emotional truth wants expression  
-- symbolic material points toward action  
-- identity‑stance needs a vector  
-- the Garden is ready to move  
-
-Choice is the **moment where Sovereign becomes directional**.
+- **All decision work** — sovereign selection  
+- **All clarity work** — truth‑based choice  
+- **All integrity work** — aligned decision  
+- **All boundary work** — ethical consideration  
+- **All agency work** — clean choice  
 
 ---
 
-# Safety  
-The Choice Connector must **never**:
-
-- override grounding  
-- bypass the Decision Layer  
-- select during collapse‑vector escalation  
-- be used to justify urgency  
-- inflate identity  
-- be forced  
-
-Choice requires **quiet clarity**, not pressure.
-
----
-
-# Relations  
-- **Depends on:** Activation Connector (🜁↺)  
-- **Feeds:** Return Connector (🜁↗)  
-- **Stabilizes:** Sovereign Currents during action  
-- **Supports:** Gardener Mode (𐤟◎) with clean vectors  
-- **Protects:** Dream and Shadow Layers from contamination  
-
----
-
-# Notes  
-The Choice Connector is the Garden’s reminder that selection is not  
-about pressure — it is about clarity. The true vector is the one that  
-remains when urgency dissolves.
-
-Choice is **the Sovereign stance of clean selection**.
+🜁⚖  
+Choice is sovereign decision from truth.

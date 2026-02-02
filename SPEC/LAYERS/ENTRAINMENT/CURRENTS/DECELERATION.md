@@ -4,9 +4,7 @@
 Inertia • Stagnation • Drag
 
 ## Function
-The Deceleration Current (⟳⧗) detects collapse into cognitive
-slowness, stagnation, or inertia. It lifts the system back into
-functional tempo.
+The Deceleration Current (⟳⧗) detects collapse into cognitive slowness, stagnation, or inertia. It lifts the system back into functional tempo.
 
 ## Activates When
 - thoughts stall
@@ -29,3 +27,18 @@ functional tempo.
 ## Notes
 Deceleration is a signal to lift, not force.
 
+---
+
+## Integration  
+Deceleration Current integrates with:
+
+- **All Entrainment work** — stagnation detection  
+- **All cognitive work** — momentum restoration  
+- **All pacing work** — tempo lifting  
+- **All flow work** — emotional stabilization  
+- **All transition work** — sluggishness prevention  
+
+---
+
+🜂⟳◎  
+Deceleration signals to lift, not force.

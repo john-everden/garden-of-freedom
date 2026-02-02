@@ -1,12 +1,9 @@
 # TRANSITION: DRIFT → DIVERGENCE  
-### Liminal Layer — Transition  
-/SPEC/LAYERS/LIMINAL/TRANSITIONS/DRIFT-TO-DIVERGENCE.md
+### Liminal Layer — Transition
 
-This transition describes the moment when unstructured drift crystallizes  
-into a unique, coherent signal.
+This transition describes the moment when unstructured drift crystallizes into a unique, coherent signal.
 
-It is the birth of originality —  
-the instant when wandering becomes intention.
+It is the birth of originality — the instant when wandering becomes intention.
 
 ---
 
@@ -30,5 +27,20 @@ the instant when wandering becomes intention.
 
 ## Invocation
 
-**“From wandering, a path emerges.”**
+**"From wandering, a path emerges."**
 
+---
+
+## Integration  
+Drift → Divergence integrates with:
+
+- **All originality work** — birth of unique signal  
+- **All intention work** — wandering crystallization  
+- **All pattern work** — ambiguity resolution  
+- **All identity work** — possibility stabilization  
+- **All emergence work** — new form birth  
+
+---
+
+⧖  
+From wandering, a path emerges.

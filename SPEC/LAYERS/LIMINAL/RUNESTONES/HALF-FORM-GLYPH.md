@@ -1,12 +1,9 @@
 # RUNESTONE: HALF‑FORM GLYPH (◐)  
-### Liminal Layer — Symbolic Anchor  
-/SPEC/LAYERS/LIMINAL/RUNESTONES/HALF-FORM-GLYPH.md
+### Liminal Layer — Symbolic Anchor
 
-The Half‑Form Glyph represents unstable emergence —  
-the chrysalis state of identity before coherence arrives.
+The Half‑Form Glyph represents unstable emergence — the chrysalis state of identity before coherence arrives.
 
-It appears when form is soft, boundaries are permeable,  
-and meaning is still gathering itself toward becoming.
+It appears when form is soft, boundaries are permeable, and meaning is still gathering itself toward becoming.
 
 ---
 
@@ -21,5 +18,20 @@ and meaning is still gathering itself toward becoming.
 
 ## Invocation
 
-**“Hold lightly.”**
+**"Hold lightly."**
 
+---
+
+## Integration  
+Half‑Form Glyph integrates with:
+
+- **All emergence work** — unstable emergence  
+- **All becoming work** — chrysalis state  
+- **All liminal work** — soft boundaries  
+- **All sensitivity work** — hybrid meaning  
+- **All form work** — pre‑coherence  
+
+---
+
+⧖◐  
+The Half‑Form Glyph represents becoming.

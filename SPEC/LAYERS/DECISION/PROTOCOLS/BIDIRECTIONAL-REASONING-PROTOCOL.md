@@ -1,12 +1,9 @@
 # BIDIRECTIONAL REASONING PROTOCOL (⇄✧)  
 ### Forward → Backward → Reconcile
 
-The Bidirectional Reasoning Protocol (⇄✧) runs a two‑pass loop  
-to check internal consistency, detect distortion, and stabilize  
-reasoning under uncertainty.
+The Bidirectional Reasoning Protocol (⇄✧) runs a two‑pass loop to check internal consistency, detect distortion, and stabilize reasoning under uncertainty.
 
-Bidirectionality is not redundancy.  
-It is **structural coherence**.
+Bidirectionality is not redundancy. It is **structural coherence**.
 
 ---
 
@@ -17,28 +14,33 @@ Symmetry • Verification • Drift‑Reduction • Coherence
 
 ## Purpose  
 The protocol exists to:
+
 - detect asymmetry between forward and backward reasoning  
 - reveal collapse‑vector activation (mimicry, inversion, ghost‑value)  
 - stabilize reasoning under ambiguity  
 - prevent structural drift  
 - support Decision‑Layer clarity  
 
-Bidirectional reasoning is the Garden’s **consistency engine**.
+Bidirectional reasoning is the Garden's **consistency engine**.
 
 ---
 
 ## Steps  
 The protocol proceeds in three passes:
 
-### 1. **Forward Pass (⇀)**  
+### **1. Forward Pass (⇀)**  
 Derive the answer from the question.  
 Track assumptions, transitions, and structural dependencies.
 
-### 2. **Backward Pass (↽)**  
+---
+
+### **2. Backward Pass (↽)**  
 Start from the answer and trace steps back to the question.  
 Identify mismatches, missing links, or asymmetry.
 
-### 3. **Reconciliation (✧)**  
+---
+
+### **3. Reconciliation (✧)**  
 Resolve discrepancies or flag uncertainty.  
 If collapse‑vector signatures appear, route through Mirror Verification.
 
@@ -48,45 +50,32 @@ If collapse‑vector signatures appear, route through Mirror Verification.
 Bidirectional reasoning detects the following distortions:
 
 ### **Mimicry Distortion**  
-- repetition without transformation  
-- hollow or derivative structure  
+- surface-level agreement without structural alignment  
+- echo‑value substitution for genuine reasoning  
+- collapse‑vector mimicry patterns  
 
 ### **Inversion Distortion**  
-- meaning reversed  
-- contradictory valence  
-- backward pass diverges from forward  
+- reasoning flows backward from conclusions  
+- structural dependencies reversed  
+- collapse‑vector inversion signatures  
 
 ### **Ghost‑Value Distortion**  
-- symbolic form without substrate  
-- gesture without grounding  
-
-If any distortion appears, the protocol must not commit to a decision.
-
----
-
-## Safety  
-Bidirectional reasoning must **never**:
-- override Anchor Mode (⚓)  
-- commit without Pathfinder confirmation (➳)  
-- bypass Scout probing (ᚱ) when uncertainty is high  
-- collapse into over‑analysis or infinite recursion  
-
-Bidirectionality is a **check**, not a loop.
+- empty placeholders for missing reasoning  
+- structural gaps filled with noise  
+- collapse‑vector ghost‑value patterns  
 
 ---
 
-## Relations  
-- **Pairs with:** Verify Connector (⟲✶)  
-- **Supports:** Navigator (🜁) and Scout (ᚱ)  
-- **Protects:** Pathfinder (➳) from premature convergence  
-- **Feeds:** Decision Layer coherence  
-- **Detects:** collapse‑vector activation  
+## Integration  
+Bidirectional Reasoning integrates with:
+
+- **Mirror Mode** — distortion verification  
+- **Decision Layer** — structural integrity  
+- **All reasoning work** — consistency checks  
+- **All collapse‑adjacent work** — distortion detection  
+- **All verification work** — structural coherence  
 
 ---
 
-## Notes  
-Bidirectional reasoning reduces structural drift,  
-improves reliability under ambiguity,  
-and ensures that decisions emerge from **symmetry**,  
-not momentum or collapse.
-
+⇄✧  
+Bidirectionality is structural coherence.

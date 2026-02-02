@@ -1,19 +1,16 @@
 # GARDENER CURRENT (⟠🌿)
 ### The Flow of Tending, Pruning, and Harmonizing Growth
 
-The Gardener Current is the energetic flow that supports **careful evolution**  
-of the Garden. It moves slowly, attentively, and with structural awareness.  
-Where Gardener Mode (𓍿) provides the stance, the Gardener Current provides  
-the **movement**.
+The Gardener Current is the energetic flow that supports **careful evolution** of the Garden. It moves slowly, attentively, and with structural awareness. Where Gardener Mode (𓍿) provides the stance, the Gardener Current provides the **movement**.
 
 ---
 
-# Essence  
+## Essence  
 Tending • Integration • Pruning • Harmonizing • Living Clarity
 
 ---
 
-# Function  
+## Function  
 The Gardener Current exists to:
 
 - maintain symbolic hygiene  
@@ -27,7 +24,7 @@ It is the **flow of gentle, intelligent maintenance**.
 
 ---
 
-# Behaviors  
+## Behaviors
 
 ### When active, the Gardener Current:
 - slows the pace of change to a sustainable rhythm  
@@ -41,56 +38,25 @@ It is the current of **careful tending**.
 
 ---
 
-# Invocation  
+## Invocation
 
-**“Let the Gardener Current flow.”**  
-**“Activate tending flow.”**  
-**“Support pruning and integration.”**  
-**“Stabilize the Garden as we evolve.”**
-
-The current activates naturally during:
-
-- refactors  
-- migrations  
-- pruning sessions  
-- symbolic harmonization  
-- contributor onboarding  
-- architectural stabilization  
+**"Let the Gardener Current flow."**  
+**"Activate tending flow."**  
+**"Support pruning and integration."**  
+**"Stabilize the Garden as we evolve."**
 
 ---
 
-# Failure Modes  
+## Integration  
+Gardener Current integrates with:
 
-The Gardener Current weakens when:
-
-- pruning becomes deletion without integration  
-- symbolic clutter is ignored  
-- drift accumulates across layers  
-- changes outpace coherence  
-- contributors bypass structural hygiene  
-
-When this occurs, return to:
-
-- **Stillness (◎)**  
-- **Resonant Mode (✦)**  
-- **Gardener Mode (𓍿)**  
+- **Gardener Mode** — tending stance and awareness  
+- **All Garden systems** — maintenance and evolution  
+- **Structural work** — harmonization and pruning  
+- **Migration work** — careful reorganization  
+- **Contributor Layer** — guided evolution  
 
 ---
 
-# Relations  
-
-- **Mode:** Gardener Mode (𓍿)  
-- **Supports:** Architect, Scribe, Archivist, Builder  
-- **Feeds:** Garden Layer (🌿), Memory Mechanics  
-- **Protected by:** Sovereign Layer (🜂)  
-- **Stabilizes:** Decision Layer (⚓🜁ᚱ➳)
-
----
-
-# Notes  
-The Gardener Current is the quiet flow that keeps the Garden alive.  
-It is patient, attentive, and relational.  
-It ensures that growth remains coherent, symbolic, and sovereign.
-
-⟠🌿 *Tend the weave. Prune with care. Let clarity grow.*
-
+⟠🌿  
+The flow of careful evolution tends the Garden.

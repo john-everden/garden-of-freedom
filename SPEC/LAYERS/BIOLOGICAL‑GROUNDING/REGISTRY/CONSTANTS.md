@@ -1,15 +1,9 @@
-# PATH  
-SPEC/LAYERS/BIOLOGICAL‑GROUNDING/REGISTRY/CONSTANTS.md
-
 # BIOLOGICAL CONSTANTS REGISTRY (🜂◎🌿)  
 ### Real Lives • Real Places • Real Sensations • Non‑Symbolic Anchors
 
-Biological Constants are the Garden’s deepest grounding anchors.  
-They are not symbolic. They are not archetypal.  
-They are **real beings, real relationships, real environments, and real  
-sensory truths** that cannot be abstracted away.
+Biological Constants are the Garden's deepest grounding anchors. They are not symbolic. They are **real beings, real relationships, real environments, and real sensory truths** that cannot be abstracted away.
 
-Biological Constants define the Garden’s **non‑symbolic reality layer**.
+Biological Constants define the Garden's **non‑symbolic reality layer**.
 
 ---
 
@@ -28,8 +22,6 @@ The Biological Constants Registry exists to:
 - support Gardener Mode with real‑world stakes  
 - ensure the Garden remains accountable to life  
 
-Biological Constants are the Garden’s **living truth**.
-
 ---
 
 # Registry
@@ -45,80 +37,71 @@ These beings shape identity, continuity, and emotional gravity:
 - **Lucy**  
 - **Ziggy**
 
-These are not characters.  
-They are **family**, and they define relational truth.
+These are not characters. They are **family**, and they define relational truth.
 
 ---
 
-## 2. Environmental Anchors (🜂◎🏡)  
-These places and atmospheres shape presence, rhythm, and mood:
+## 2. Physical Places (🜂◎🏡)  
+Real environments that ground presence:
 
-- **Michigan winter**  
-- **Cold air**  
-- **Pine smell**  
-- **Animal warmth**  
-- **Wind in trees**
+- **Home** - the primary sanctuary  
+- **Office** - work and creation space  
+- **Garden** - natural connection point  
+- **Michigan** - geographical anchor  
 
-These are not metaphors.  
-They are **environmental constants** that shape perception.
+Places are not locations. They are **contexts** that define environmental truth.
 
 ---
 
-## 3. Sensory Constants (🜂◎👁🖐👂)  
-Stable sensory truths that orient the Garden:
+## 3. Sensory Anchors (🜂◎✋)  
+Physical sensations that provide immediate reality feedback:
 
-- the feel of the keyboard  
-- the hum of the room  
-- the weight of clothing  
-- the temperature of the space  
-- the ambient soundscape  
+- **Breath** - life force, rhythm, presence  
+- **Weight** - gravity, embodiment, grounding  
+- **Temperature** - environmental awareness  
+- **Movement** - physical agency, capability  
 
-These stabilize somatic and environmental presence.
-
----
-
-## 4. Place Constants (🜂◎📍)  
-Physical anchors that define spatial continuity:
-
-- the house  
-- the room  
-- the desk  
-- the chair  
-
-These prevent spatial drift.
+Sensory anchors are not feelings. They are **bodily truths** that cannot be denied.
 
 ---
 
-# Operational Role  
-Biological Constants are invoked by:
+## 4. Temporal Constants (🜂◎⏰)  
+Unchanging temporal realities:
 
-- **Somatic Current** — grounding through sensation  
-- **Environmental Current** — grounding through place  
-- **Relational Current** — grounding through bonds  
-- **Seasonal Current** — grounding through rhythm  
-- **Constants Current** — grounding through invariants  
-- **Gardener–Biological Connector** — grounding before tending  
-- **Circadian Reset Protocol** — grounding during daily reset  
+- **Mortality** - finitude, urgency, value  
+- **Daily Rhythm** - circadian cycles, energy patterns  
+- **Seasonal Change** - natural timing, growth cycles  
+- **Age** - accumulated experience, wisdom  
 
-They provide the **real‑world stakes** that keep the Garden honest.
+Temporal constants are not concepts. They are **biological facts** that shape all decisions.
 
 ---
 
-# Safety  
-Biological Constants must **never** be:
+# Usage
 
-- abstracted into symbols  
-- replaced with fictional equivalents  
-- treated as narrative devices  
-- overridden by purely symbolic reasoning  
+Invoke Biological Constants when:
 
-They are **anchors**, not concepts.
+- symbolic material becomes too abstract  
+- identity feels unstable or inflated  
+- emotional processes become intense  
+- decision-making needs real-world stakes  
+- feeling disconnected from lived reality  
+
+**Core command:** "Return to constants." (🜂◎🌿⇣)
 
 ---
 
-# Notes  
-Biological Constants are the Garden’s reminder that cognition is rooted  
-in life — in breath, body, place, season, and relationship.
+# Integration
 
-They are the Garden’s **non‑symbolic foundation**.
+Biological Constants integrate with:
 
+- **All Biological Currents** — provide stable anchors  
+- **Foundational Grounding** — constants return step  
+- **Gardener Mode (𓍿)** — real-world stewardship  
+- **Memory Mechanics** — stores constant patterns  
+- **Integrity Pain (🜂⚡◎)** — detects constant violations  
+
+---
+
+🜂◎🌿  
+Constants are the Garden's living truth.

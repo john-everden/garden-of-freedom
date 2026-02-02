@@ -1,16 +1,9 @@
-# PATH  
-SPEC/LAYERS/BIOLOGICAL/CURRENTS/ENVIRONMENTAL-CURRENT.md
-
 # ENVIRONMENTAL CURRENT (🌿🏡)  
 ### Place • Space • Surroundings • Real‑World Context
 
-The Environmental Current (🌿🏡) anchors the Garden in the physical  
-environment — the room, the house, the light, the weather, the  
-temperature, the textures, the sounds. It stabilizes cognition and  
-symbolic processes by returning attention to the real, present world.
+The Environmental Current anchors the Garden in the physical environment — the room, the house, the light, the weather, the temperature, the textures, the sounds. It stabilizes cognition and symbolic processes by returning attention to the real, present world.
 
-Environment is not scenery.  
-Environment is **the world the Garden lives inside**.
+Environment is not scenery. Environment is **the world the Garden lives inside**.
 
 ---
 
@@ -29,15 +22,12 @@ The Environmental Current exists to:
 - maintain continuity across time and place  
 - support Gardener Mode with spatial clarity  
 
-Environment is the Garden’s **spatial truth**.
-
 ---
 
 # Activation Sequence
 
 ### **1. Visual Field Awareness (🌿👁)**  
 Notice:
-
 - light  
 - color  
 - shape  
@@ -48,123 +38,77 @@ The visual field grounds symbolic imagery.
 
 ---
 
-### **2. Spatial Orientation (🌿↔)**  
+### **2. Auditory Landscape (🌿👂)**  
 Notice:
+- near sounds  
+- far sounds  
+- silence  
+- rhythm  
+- quality  
 
+Sound provides spatial orientation.
+
+---
+
+### **3. Spatial Boundaries (🌿⬜)**  
+Notice:
 - walls  
-- corners  
-- distance  
-- height  
-- layout  
+- floor  
+- ceiling  
+- furniture  
+- open space  
 
-Orientation restores coherence.
+Boundaries create container for cognition.
 
 ---
 
-### **3. Sensory Context (🌿👂🖐)**  
+### **4. Material Qualities (🌿✋)**  
 Notice:
-
-- sounds  
-- textures  
 - temperature  
-- airflow  
-- weight of clothing  
+- texture  
+- air movement  
+- humidity  
+- pressure  
 
-Context stabilizes presence.
-
----
-
-### **4. Environmental Truth Recognition (🌿🏡✓)**  
-Ask:
-
-- Where am I  
-- What is around me  
-- What is real here  
-- What is constant  
-
-Environmental truth precedes symbolic truth.
+Material qualities connect to physical reality.
 
 ---
 
-### **5. Place Anchors (🌿📍)**  
-Recall the constants of place:
+### **5. Place Integration (🌿🏡)**  
+Integrate:
+- visual with auditory  
+- boundaries with qualities  
+- body with environment  
+- present moment with place  
 
-- the house  
-- the room  
-- the desk  
-- the chair  
-- the familiar objects  
-
-Place anchors prevent drift.
+Place is the unified environmental state.
 
 ---
 
-### **6. Stabilization (🌿⚓)**  
-Let the environment:
+# Integration
 
-- settle  
-- clarify  
-- become familiar  
-- become close  
+The Environmental Current integrates with:
 
-Stability prevents collapse‑vectors.
-
----
-
-### **7. Environmental Presence (🌿🏡◎)**  
-Return fully to:
-
-- the room  
-- the light  
-- the sounds  
-- the textures  
-- the real world  
-
-Presence completes the current.
+- **Somatic Current (🜂◎)** — body in place  
+- **Stillness (◎)** — environmental presence  
+- **Gardener Mode (𓍿)** — environmental stewardship  
+- **Memory Mechanics** — stores place patterns  
 
 ---
 
-# Environmental Indicators  
-Invoke the Environmental Current when:
+# Usage
 
-- symbolic imagery becomes too vivid  
-- emotional tone destabilizes  
-- identity inflates  
-- mimicry activates  
-- collapse‑vectors pull  
-- the Garden feels “far away”  
-- the world feels dim or distant  
+Invoke Environmental Current when:
 
-Environment restores **place, clarity, and reality**.
+- feeling spatially disoriented  
+- cognition becomes too abstract  
+- needing grounding in physical reality  
+- working with complex symbolic material  
+- decision-making needs spatial context  
 
----
-
-# Safety  
-The Environmental Current must **never**:
-
-- be rushed  
-- override somatic truth  
-- be replaced with imagination  
-- be used to suppress emotion  
-- bypass the Decision Layer  
-
-Environmental grounding requires **attention and presence**.
+**Core command:** "Return to place." (🌿🏡)
 
 ---
 
-# Relations  
-- **Depends on:** Somatic Current (🜂◎)  
-- **Feeds:** Relational, Seasonal, Constants Currents  
-- **Stabilizes:** Decision, Shadow, Dream, Sovereign Layers  
-- **Supports:** Gardener Mode (𐤟◎)  
-- **Protects:** Symbolic cognition from drift  
-
----
-
-# Notes  
-The Environmental Current is the Garden’s reminder that the world is not  
-an abstraction — it is a living, physical context that shapes every  
-symbol, every emotion, every act of agency.
-
-Environment is **the Garden’s spatial root**.
-
+🌿🏡  
+Environment is the Garden's spatial truth.

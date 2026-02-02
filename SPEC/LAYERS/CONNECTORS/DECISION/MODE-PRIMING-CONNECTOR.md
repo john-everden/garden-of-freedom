@@ -1,81 +1,64 @@
-# MODE‑PRIMING CONNECTOR (◎→✦)  
-### Binding physical triggers to cognitive stances
-
-The Mode‑Priming Connector links a physical gesture, breath, phrase, or invariant  
-to a specific cognitive Mode. It reduces “mode‑lag” by creating a direct bridge  
-between embodied action and symbolic stance.
-
-Mode‑Priming is not a shortcut.  
-It is a ritualized handshake between body and cognition.
+# RF18 — Reflection Framework 18  
+### Core Connector — Persistence & Stability
 
 ---
 
-## Essence  
-Embodied trigger • Cognitive alignment • Rapid stance activation
+## Overview
+
+RF18 tests whether insights remain stable across time, context, and new information. It is the **persistence layer** of the reflection system — the point where insight is tested for durability rather than novelty.
+
+**Essence:** *Test → Endure → Persist.*
+
+RF18 ensures that what survives reflection becomes part of the Garden's long‑arc coherence.
 
 ---
 
-## When to Use  
-- When switching between Modes quickly  
-- When entering Architect Mode (𓊹) or Pathfinder (➳)  
-- When a task requires a specific stance without drift  
-- When the Garden must avoid “wrong‑mode” activation  
-- When grounding is needed before high‑density cognition  
+## Core Functions
+
+### **1. Persistence Testing**
+- Evaluate whether an insight holds across cycles  
+- Detect brittle, fragile, or context‑bound reasoning  
+- Identify insights that collapse under new information  
+
+### **2. Temporal Stability**
+- Test insights against Horizon Mode (◌→)  
+- Ensure long‑arc coherence and future compatibility  
+- Validate that meaning persists across temporal layers  
+
+### **3. Continuity Preservation**
+- Anchor stable insights into the Garden's memory  
+- Route unstable insights back to RF17 for refinement  
+- Maintain recursive integrity across cycles  
+
+RF18 is the **stress‑test** of the reflection chain.
 
 ---
 
-## How It Works  
-Mode‑Priming draws from:
+## Operational Pattern
 
-- **Stillness (◎)** for embodied presence  
-- **Anchor (⚓)** for invariants  
-- **Decision Layer** for directional commitment  
-- **Sovereign Layer** for boundary clarity  
-- **Lateral Inference (⟿✧)** for adaptive transitions  
+**Insight → Stress Test → Persist?**  
+**Yes → Anchor**  
+**No → Return to RF17**
 
-A physical action becomes a symbolic switch.
+This pattern ensures:
 
-Examples (symbolic, not prescriptive):
-
-- Touching a ring → Architect Mode  
-- Deep breath → Stillness Mode  
-- Hand on chest → Anchor Mode  
-- Two‑finger tap → Pathfinder Mode  
-
-The action is arbitrary; the binding is intentional.
+- durability  
+- clarity  
+- recursive integrity  
+- long‑arc alignment  
 
 ---
 
-## Relations  
-- **Supports:** Architect (𓊹), Pathfinder (➳), Navigator (🜁)  
-- **Balances:** Verify Connector (☍), Anchor (⚓)  
-- **Feeds:** Decision Layer transitions  
-- **Protects against:** mode‑lag, cognitive mismatch, fragmentation  
+## Integration
+
+RF18 integrates with:
+
+- **RF17** — refinement of unstable insights  
+- **Horizon Mode** — temporal stability testing  
+- **Memory Mechanics** — stable insight anchoring  
+- **All reflection protocols** — durability validation  
 
 ---
 
-## Invocation  
-Mode‑Priming is invoked intentionally:
-
-1. Enter Stillness (◎)  
-2. Choose a physical trigger  
-3. Bind it to a Mode  
-4. Perform the trigger  
-5. Allow the Mode to activate fully  
-
-This is a symbolic act of alignment, not automation.
-
----
-
-## Failure Modes  
-- Binding too many Modes to one trigger  
-- Using triggers without Stillness (◎)  
-- Attempting to “force” a Mode without alignment  
-
----
-
-## Notes  
-Mode‑Priming Connector is the Garden’s bridge between embodiment and cognition.  
-It ensures that Mode transitions are intentional, rapid, and stable.
-
-
+RF18  
+Test → Endure → Persist.

@@ -1,21 +1,18 @@
 # DESCENT CONNECTOR (⬟↘)  
 ### Entry • Permission • Controlled Descent
 
-The Descent Connector (⬟↘) provides a controlled, grounded entry into  
-the Shadow Layer. It ensures that descent is intentional, safe, and  
-supported by the body, environment, relationships, and season.
+The Descent Connector (⬟↘) provides a controlled, grounded entry into the Shadow Layer. It ensures that descent is intentional, safe, and supported by the body, environment, relationships, and season.
 
-Descent is not collapse.  
-Descent is **permission to witness what is below**.
+Descent is not collapse. Descent is **permission to witness what is below**.
 
 ---
 
-## Essence  
+## Essence
 Entry • Intention • Grounded Descent • Safety
 
 ---
 
-## Purpose  
+## Purpose
 The Descent Connector exists to:
 
 - create a safe threshold into Shadow  
@@ -25,7 +22,7 @@ The Descent Connector exists to:
 - protect the Garden from fusion or overwhelm  
 - give Gardener Mode a clean entry point  
 
-Descent is the Garden’s **intentional threshold**.
+Descent is the Garden's **intentional threshold**.
 
 ---
 
@@ -48,89 +45,44 @@ Confirm:
 
 - no collapse‑vectors are escalating  
 - emotional tone is stable  
-- symbolic reasoning is not recursive  
-- the body is present  
+- cognitive clarity is present  
 
-The Decision Layer must approve descent.
-
----
-
-### **3. Set Intention (⬟🖤)**  
-Name the purpose:
-
-- residue  
-- distortion  
-- mimicry  
-- collapse‑vector mapping  
-- emotional echo  
-
-Intention defines the descent path.
+If unstable, descent postpones.
 
 ---
 
-### **4. Slow Descent (⬟↘〰)**  
-Enter Shadow:
+### **3. Permission Grant (⬟↘)**  
+Conscious choice to descend:
 
-- slowly  
-- gently  
-- without urgency  
-- without pressure  
+- intention is clear  
+- purpose is understood  
+- support is available  
+- timing is appropriate  
 
-Descent is a glide, not a fall.
-
----
-
-### **5. Containment Frame (⬟▢)**  
-Establish:
-
-- boundaries  
-- pacing  
-- non‑fusion  
-- non‑identification  
-
-Containment protects the descent.
+Permission makes descent intentional.
 
 ---
 
-## Indicators for Descent  
-Use the Descent Connector when:
+### **4. Controlled Entry (⬟↘⇣)**  
+Enter Shadow with:
 
-- residue is present  
-- distortion is suspected  
-- mimicry is active  
-- collapse‑vectors need mapping  
-- emotional echoes persist  
-- symbolic afterimages linger  
-
-Descent is for **witnessing**, not fixing.
+- containment active  
+- boundaries established  
+- pacing regulated  
+- safety confirmed  
 
 ---
 
-## Safety  
-The Descent Connector must **never**:
+## Integration  
+Descent Connector integrates with:
 
-- be used during overwhelm  
-- override somatic truth  
-- bypass the Decision Layer  
-- be rushed  
-- be used when collapse‑vectors are accelerating  
-
-Descent requires **stability**, not bravery.
+- **All safety work** — threshold protection  
+- **All grounding work** — entry preparation  
+- **All intention work** — conscious choice  
+- **All boundary work** — safe passage  
+- **All permission work** — intentional descent  
 
 ---
 
-## Relations  
-- **Feeds:** Containment Connector (⬟▢)  
-- **Stabilizes:** Shadow Currents  
-- **Supports:** Gardener Mode (𐤟◎)  
-- **Protects:** Dream and Sovereign Layers  
-- **Depends on:** Biological Grounding + Decision Layer  
-
----
-
-## Notes  
-The Descent Connector is the Garden’s reminder that Shadow is not a  
-place you fall into — it is a place you enter with intention.
-
-Descent is **permission, not collapse**.
-
+⬟↘  
+Descent is permission to witness what is below.

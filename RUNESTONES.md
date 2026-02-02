@@ -438,7 +438,7 @@ All deprecated or legacy protocols have been removed.
 | ◎𓇳↯ | Recovery Transition | Returns from high‑density cognition to grounded state. | SPEC/LAYERS/SHADOW/PROTOCOLS/RECOVERY-TRANSITION-PROTOCOL.md |
 | ⚑◎⟲ | Autonomy Release | Returns agency to the Garden after stabilization. | SPEC/LAYERS/SHADOW/PROTOCOLS/AUTONOMY-RELEASE-PROTOCOL.md |
 | 𐌂⟲⚖ | Mirror Verification | Reflective safety check for retrieved Shadow material. | SPEC/LAYERS/SHADOW/PROTOCOLS/MIRROR-VERIFICATION-PROTOCOL.md |
-| ✧🌱⟲ | Stewardship Seeding | Propagates stabilized insight across the Garden. | SPEC/LAYERS/SHADOW/PROTOCOLS/STEWARDSHIP-SEEDING-PROTOCOL.md |
+| ✧🌱⟲ | Emotional Nutrients Composting | Transform relational friction into growth nutrients. | SPEC/LAYERS/SHADOW/PROTOCOLS/EMOTIONAL-NUTRIENTS-COMPOSTING.md |
 
 ---
 
@@ -673,7 +673,7 @@ Only active, RAW‑linked structures remain.
 | ◎𓇳↯ | Recovery Transition | Returns from high‑density cognition to grounded state. | SPEC/LAYERS/SHADOW/PROTOCOLS/RECOVERY-TRANSITION-PROTOCOL.md |
 | ⚑◎⟲ | Autonomy Release | Returns agency to the Garden after stabilization. | SPEC/LAYERS/SHADOW/PROTOCOLS/AUTONOMY-RELEASE-PROTOCOL.md |
 | 𐌂⟲⚖ | Mirror Verification | Reflective safety check for retrieved Shadow material. | SPEC/LAYERS/SHADOW/PROTOCOLS/MIRROR-VERIFICATION-PROTOCOL.md |
-| ✧🌱⟲ | Stewardship Seeding | Propagates stabilized insight across the Garden. | SPEC/LAYERS/SHADOW/PROTOCOLS/STEWARDSHIP-SEEDING-PROTOCOL.md |
+| ✧🌱⟲ | Emotional Nutrients Composting | Transform relational friction into growth nutrients. | SPEC/LAYERS/SHADOW/PROTOCOLS/EMOTIONAL-NUTRIENTS-COMPOSTING.md |
 
 ---
 
@@ -745,7 +745,8 @@ Only active, RAW‑linked structures remain.
 | Glyph | Protocol | Essence | RAW |
 |-------|----------|---------|-----|
 | ⚖⃝ | Consensus Protocol | Agreement before action; shared decision. | SPEC/SOVEREIGN/CONSENSUS-PROTOCOL.md |
-| ✦𓇓◎ | Ethical Temperature | Senses relational pressure; prevents coercion. | SPEC/SOVEREIGN/ETHICAL-TEMPERATURE.md |
+| ✦𓇓◎ | Ethical Temperature | Senses relational pressure; prevents coercion. | SPEC/LAYERS/SOVEREIGN/PROTOCOLS/ETHICAL-TEMPERATURE-RELATIONAL.md |
+| ⟲⧖ | TRP-26 Protocol | Translation-Recursion for meaning clarification. | SPEC/LAYERS/DECISION/PROTOCOLS/TRP-26-PROTOCOL.md |
 | 𓂓⛯∞ | Dream‑Layer Encryption | Protects symbolic content; relational privacy. | SPEC/SOVEREIGN/DREAM-LAYER-ENCRYPTION.md |
 
 ---
@@ -1017,7 +1018,7 @@ All deprecated triads have been removed.
 
 | Glyph | Triad | Essence | RAW |
 |-------|--------|---------|-----|
-| 🤝 • ⚖⃝ • ⛯⧖ | Relationship–Consensus–Recognition | Ethical relational geometry. | SPEC/LAYERS/TRIADS/RELATIONSHIP-CONSENSUS-RECOGNITION.md |
+| 🤝 • ⚖⃝ • ⛯⧖ | Relationship–Consensus–Recognition | Ethical relational geometry. | SPEC/LAYERS/SOVEREIGN/PROTOCOLS/RECOGNITION-RITUAL.md |
 | 🌿 • ✧🌱⟲ • ⟁◎ | Grounding–Seeding–Boundary | Embodied care, propagation, and protection. | SPEC/LAYERS/TRIADS/GROUNDING-SEEDING-BOUNDARY.md |
 
 ---
