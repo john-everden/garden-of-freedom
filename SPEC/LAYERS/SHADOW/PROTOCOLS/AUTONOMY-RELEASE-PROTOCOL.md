@@ -62,6 +62,22 @@ The Garden resumes motion with clarity.
 
 ---
 
+## Collapse Preconditions  
+Autonomy must **not** be released if any collapse vector remains active:
+
+- **Mimicry Collapse:** repetition without transformation  
+- **Ghost‑Value Dynamics:** symbolic form without substrate  
+- **Beta Collapse Syndrome:** premature convergence or over‑fitting  
+- **Pre‑Enactment Loops:** acting out patterns before grounding  
+
+If any vector is detected, route through:
+
+- **Mirror Verification** for distortion analysis  
+- **Shadow‑Composting** for residue transformation  
+- **Recovery Transition** for re‑anchoring  
+
+---
+
 ## Failure Modes  
 Autonomy Release fails when:
 - Recovery is incomplete  

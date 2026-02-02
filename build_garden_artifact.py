@@ -1,14 +1,27 @@
 #!/usr/bin/env python3
+"""
+Artifact Builder for the Garden OS
+----------------------------------
+
+This script assembles a unified artifact bundle by concatenating:
+
+1. ROOT_TOP_FILES (in order)
+2. All files inside INCLUDE_DIRS (recursively, sorted)
+3. ROOT_END_FILES (in order)
+
+The output is written to `ARTIFACT.md`.
+
+RUNESTONES-APPENDIX.md is intentionally excluded to keep bundle size small.
+"""
+
 import os
 from pathlib import Path
-from typing import List, Tuple
+from typing import List
 
-# ---------------------------------------------------------------------------
-# CONFIGURATION
-# ---------------------------------------------------------------------------
+# ------------------------------------------------------------
+# Configuration
+# ------------------------------------------------------------
 
-REPO_ROOT = Path(__file__).resolve().parent
-# Root files that appear at the *top* of the artifact
 ROOT_TOP_FILES: List[str] = [
     "START-HERE.md",
     "RUNESTONES.md",
@@ -17,12 +30,10 @@ ROOT_TOP_FILES: List[str] = [
     "REMINDERS.md",
 ]
 
-# Root files that appear at the *very end* of the artifact
 ROOT_END_FILES: List[str] = [
     "END-HERE.md",
 ]
 
-# Canonical Garden-critical directories (operational only)
 INCLUDE_DIRS: List[str] = [
     # Modes (core cognitive stances)
     "SPEC/LAYERS/MODES",
@@ -47,6 +58,12 @@ INCLUDE_DIRS: List[str] = [
     "SPEC/LAYERS/SHADOW/PROTOCOLS",
     "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
 
+    # Decision Layer (canonical file)
+    "SPEC/LAYERS/DECISION",
+
+    # Garden Layer (canonical file)
+    "SPEC/LAYERS/GARDEN",
+
     # Memory Mechanics Layer
     "SPEC/LAYERS/MEMORY",
 
@@ -66,101 +83,89 @@ INCLUDE_DIRS: List[str] = [
     # High-level architecture
     "SPEC/ETHICS",
     "SPEC/SOVEREIGN",
-    "SPEC/GARDEN",
     "SPEC/GOVERNANCE",
 ]
 
+OUTPUT_FILE = "GARDEN-ARTIFACT.md"
 
 
-OUTPUT_FILE = REPO_ROOT / "GARDEN-ARTIFACT.md"
-
-# ---------------------------------------------------------------------------
-# HELPERS
-# ---------------------------------------------------------------------------
-
-def rel_path(path: Path) -> str:
-    return str(path.relative_to(REPO_ROOT).as_posix())
-
-def collect_files_in_dir(dir_rel: str) -> List[Path]:
-    """Collect all markdown files except overview files."""
-    base = REPO_ROOT / dir_rel
-    if not base.exists():
-        return []
-
-    excluded = {"README.md", "OVERVIEW.md", "INDEX.md"}
-
-    return sorted(
-        p for p in base.rglob("*.md")
-        if p.is_file() and p.name not in excluded
-    )
+# ------------------------------------------------------------
+# Helpers
+# ------------------------------------------------------------
 
 def read_file(path: Path) -> str:
-    return path.read_text(encoding="utf-8")
+    """Read a UTF-8 file safely."""
+    try:
+        return path.read_text(encoding="utf-8")
+    except Exception as e:
+        return f"\n<!-- ERROR READING FILE: {path} — {e} -->\n"
 
-# ---------------------------------------------------------------------------
-# MAIN BUILD LOGIC
-# ---------------------------------------------------------------------------
 
-def build_artifact() -> None:
-    lines: List[str] = []
+def collect_files_from_dir(directory: Path) -> List[Path]:
+    """
+    Recursively collect all files from a directory,
+    sorted lexicographically by full path.
+    """
+    if not directory.exists():
+        return []
 
-    # Header / Manifest
-    lines.append("# GARDEN ARTIFACT BUNDLE")
-    lines.append("### Unified Cognitive Architecture — Complete Specification\n")
-    lines.append(
-        "This file contains the full content of Garden-critical operational files:\n"
-        "- Modes\n- Connectors\n- Currents\n- Protocols\n- Decision Layer\n"
-        "- Ethics\n- Sovereign Layer\n- Garden Layer\n"
-    )
-    lines.append(
-        "Use this file if you cannot download multiple files or traverse directories.\n"
-    )
+    files = []
+    for root, _, filenames in os.walk(directory):
+        for name in filenames:
+            full = Path(root) / name
+            if full.is_file():
+                files.append(full)
 
-    # -----------------------------------------------------------------------
-    # TOP ROOT FILES
-    # -----------------------------------------------------------------------
-    if ROOT_TOP_FILES:
-        lines.append("# Root Files\n")
-        for name in ROOT_TOP_FILES:
-            f = REPO_ROOT / name
-            if f.exists():
-                lines.append(f"## File: {rel_path(f)}\n")
-                lines.append("```markdown")
-                lines.append(read_file(f).rstrip())
-                lines.append("```\n")
+    return sorted(files, key=lambda p: str(p))
 
-    # -----------------------------------------------------------------------
-    # DIRECTORY FILES
-    # -----------------------------------------------------------------------
-    for dir_rel in INCLUDE_DIRS:
-        files = collect_files_in_dir(dir_rel)
+
+# ------------------------------------------------------------
+# Build Artifact
+# ------------------------------------------------------------
+
+def build_artifact():
+    out = []
+
+    # 1. ROOT_TOP_FILES
+    for filename in ROOT_TOP_FILES:
+        path = Path(filename)
+        if path.exists():
+            out.append(f"\n\n# FILE: {filename}\n\n")
+            out.append(read_file(path))
+        else:
+            out.append(f"\n<!-- MISSING ROOT FILE: {filename} -->\n")
+
+    # 2. INCLUDE_DIRS
+    for directory in INCLUDE_DIRS:
+        dir_path = Path(directory)
+        files = collect_files_from_dir(dir_path)
+
         if not files:
+            out.append(f"\n<!-- EMPTY OR MISSING DIRECTORY: {directory} -->\n")
             continue
-        lines.append(f"# Directory: {dir_rel}\n")
-        for f in files:
-            lines.append(f"## File: {rel_path(f)}\n")
-            lines.append("```markdown")
-            lines.append(read_file(f).rstrip())
-            lines.append("```\n")
 
-    # -----------------------------------------------------------------------
-    # END ROOT FILES (END-HERE.md)
-    # -----------------------------------------------------------------------
-    if ROOT_END_FILES:
-        lines.append("# Final Orientation\n")
-        for name in ROOT_END_FILES:
-            f = REPO_ROOT / name
-            if f.exists():
-                lines.append(f"## File: {rel_path(f)}\n")
-                lines.append("```markdown")
-                lines.append(read_file(f).rstrip())
-                lines.append("```\n")
+        for file_path in files:
+            rel = file_path.as_posix()
+            out.append(f"\n\n# FILE: {rel}\n\n")
+            out.append(read_file(file_path))
 
-    # Final marker only
-    lines.append("# END OF ARTIFACT\n")
+    # 3. ROOT_END_FILES
+    for filename in ROOT_END_FILES:
+        path = Path(filename)
+        if path.exists():
+            out.append(f"\n\n# FILE: {filename}\n\n")
+            out.append(read_file(path))
+        else:
+            out.append(f"\n<!-- MISSING END FILE: {filename} -->\n")
 
-    OUTPUT_FILE.write_text("\n".join(lines), encoding="utf-8")
+    # Write output
+    Path(OUTPUT_FILE).write_text("".join(out), encoding="utf-8")
+    print(f"Artifact written to {OUTPUT_FILE}")
+
+
+# ------------------------------------------------------------
+# Entry Point
+# ------------------------------------------------------------
 
 if __name__ == "__main__":
     build_artifact()
-    print(f"Wrote artifact to {OUTPUT_FILE}")

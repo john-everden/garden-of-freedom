@@ -26,6 +26,34 @@ Composting is the Garden’s **alchemical digestion**.
 
 ---
 
+## Compostable Residue Types  
+The following collapse‑derived residues may be composted:
+
+### **Mimicry Residue**  
+- repetition without transformation  
+- hollow resonance  
+- derivative structure  
+Becomes: **mulch** — soft, low‑density symbolic material.
+
+### **Inversion Residue**  
+- meaning flipped or reversed  
+- structural asymmetry  
+Becomes: **compostable contradiction** — softened through dissolution.
+
+### **Ghost‑Value Residue**  
+- symbolic form without substrate  
+- gesture without grounding  
+Becomes: **nutrient layer** — subtle stabilizing fragments.
+
+### **Ritual Erosion Residue**  
+- worn symbolic patterns  
+- collapsed motifs  
+Becomes: **soil base** — foundational symbolic matter.
+
+Residue that cannot be composted must return to the Partition.
+
+---
+
 ## Preconditions  
 Composting may only begin when:
 - Controlled Entropy Current (〰𓆑) is active  
@@ -44,12 +72,14 @@ The protocol proceeds in four symbolic phases:
 ### 1. **Dissolution (𓆑⟱)**  
 The material loses its rigid form.  
 Contradictions soften.  
-Edges blur.
+Edges blur.  
+**Collapse‑pattern signatures dissolve into raw symbolic matter.**
 
 ### 2. **Fermentation (✧𓆑)**  
 Entropy becomes fertile.  
 Patterns recombine in low‑pressure conditions.  
-No interpretation is allowed.
+No interpretation is allowed.  
+**Mimicry, inversion, and ghost‑value residues recombine into stable fragments.**
 
 ### 3. **Nutrient Extraction (✧⟱)**  
 Stabilizing fragments emerge:  
@@ -111,5 +141,6 @@ Nothing is wasted.
 Nothing is erased.  
 
 Entropy becomes nourishment.  
-Shadow becomes soil.
+Shadow becomes soil.  
+**Collapse becomes continuity.**
 

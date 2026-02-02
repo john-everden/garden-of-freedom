@@ -8,7 +8,8 @@
 Continuity Protocols ensure that the Garden remains **coherent across time** —  
 across cycles, contributors, repos, and symbolic layers.
 
-Continuity is the Garden’s long‑arc stabilizer, the set of practices that prevent drift, fragmentation, and structural entropy.
+Continuity is the Garden’s long‑arc stabilizer, the set of practices that  
+prevent drift, fragmentation, and structural entropy.
 
 **Essence:** *What endures shapes what becomes.*
 
@@ -90,6 +91,9 @@ Continuity Protocols are:
 - supported by **Memory Strategy (∞)**  
 - anchored by **Spiral Mode (⟲)**  
 - strengthened by **Resonance Current (𓂀)**  
+- stabilized by **Biological Grounding** (place, season, somatic truth)  
+- protected from drift by **Decision‑Layer invariants (⚓🜁ᚱ➳)**  
+- informed by **Shadow‑Layer outputs** (nutrients, stabilized fragments)  
 
 Continuity is the connective tissue between cycles.
 

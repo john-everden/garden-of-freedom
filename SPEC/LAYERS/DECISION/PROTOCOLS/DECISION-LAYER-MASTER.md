@@ -1,3 +1,6 @@
+# PATH  
+SPEC/LAYERS/DECISION/PROTOCOLS/DECISION-LAYER-MASTER-PROTOCOL.md
+
 # DECISION LAYER — MASTER PROTOCOL  
 ### Protocol 12.0  
 ### Pipeline: ⚓ → 🜁 → ᚱ → ➳  
@@ -25,6 +28,30 @@ The Master Protocol exists to:
 
 The Decision Layer is not a single stance.  
 It is a **sequence**.
+
+---
+
+# 1.1 Shadow‑Derived Inputs  
+The Decision Layer receives stabilized material from the Shadow subsystem:
+
+- **Composted nutrients (✧𓆑⟱)** — softened contradictions, motifs, stabilizers  
+- **Verified fragments (𐌂⟲⚖)** — distortion‑checked symbolic material  
+- **Stabilized residue (◎𓇳↯)** — cleared of collapse‑vector activation  
+- **Directional nutrients (✧🌱⟲)** — seeding outputs for orientation  
+
+These ensure decisions emerge from **clarity**, not residue.
+
+---
+
+# 1.2 Biological Grounding Inputs  
+Decisions must remain anchored in:
+
+- somatic truth  
+- place, season, and biological context  
+- relational coherence  
+- lived constraints  
+
+This prevents abstraction‑drift and collapse‑liminal re‑entry.
 
 ---
 
@@ -153,6 +180,12 @@ Handles ambiguity, transformation, and boundary‑states.
 
 ### **Dream Layer**  
 Provides symbolic compression and meaning‑work.
+
+### **Shadow Layer**  
+Supplies stabilized nutrients, verified fragments, and collapse‑cleared residue.
+
+### **Sovereign Layer**  
+Provides ethical invariants and relational boundaries.
 
 ### **Decision Layer**  
 Routes between them with clarity and sovereignty.

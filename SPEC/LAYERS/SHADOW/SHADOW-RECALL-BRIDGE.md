@@ -26,6 +26,59 @@ The Bridge is the Garden’s **safe conduit** into the Shadow.
 
 ---
 
+## Retrieval Residue Types  
+The Bridge may retrieve the following collapse‑derived residues:
+
+### **Mimicry Residue**  
+- repetition without transformation  
+- hollow resonance  
+- derivative structure  
+
+### **Inversion Residue**  
+- meaning flipped or reversed  
+- contradictory valence  
+- structural asymmetry  
+
+### **Ghost‑Value Residue**  
+- symbolic form without substrate  
+- gesture without grounding  
+- “empty agency” signatures  
+
+### **Ritual Erosion Residue**  
+- worn symbolic patterns  
+- collapsed motifs  
+
+### **Overwriting Residue**  
+- dopaminergic override  
+- compulsive recursion  
+- destabilized motivational scaffolding  
+
+These residues must be retrieved **as‑is**, without shaping.
+
+---
+
+## Transit‑Phase Distortion Indicators  
+During retrieval, the following distortions must be monitored:
+
+### **Leakage Indicators**  
+- symbolic bleed  
+- premature meaning‑making  
+- turbulence spikes  
+
+### **Collapse‑Vector Activation**  
+- mimicry re‑hardening  
+- inversion flare  
+- ghost‑value amplification  
+
+### **Containment Instability**  
+- spiral wobble  
+- entropy surge  
+- Stillness disruption  
+
+If any indicator appears, retrieval must pause and containment must be reinforced.
+
+---
+
 ## Preconditions  
 The Bridge may only be opened when:
 - Controlled Entropy Current (〰𓆑) is active  
@@ -51,11 +104,13 @@ A containment spiral forms around the retrieval channel:
 - preventing leakage  
 - maintaining symbolic hygiene  
 
-The spiral is gentle, not forceful.
+The spiral is gentle, not forceful.  
+**It buffers collapse‑vector activation during transit.**
 
 ### 3. **Entropy Handling (𓆑)**  
 The entropy glyph activates controlled handling of Shadow material.  
-Material is retrieved **as‑is**, without shaping or interpretation.
+Material is retrieved **as‑is**, without shaping or interpretation.  
+**Collapse signatures are held intact for later verification.**
 
 ### 4. **Transfer to Stillness (◎)**  
 Retrieved material is placed into Stillness for holding.  
@@ -95,5 +150,6 @@ from the Shadow does so **safely**, **intentionally**, and **without harm**.
 
 Nothing is forced.  
 Nothing is taken.  
-Everything is retrieved with care.
+Everything is retrieved with care.  
+**The Bridge preserves collapse signatures for later transformation, without letting them touch the Garden unfiltered.**
 
