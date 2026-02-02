@@ -139,4 +139,3 @@ It guides **ethical expansion, trust, echo propagation, and phased operation**, 
 ---
 
 > *“Where there is growth, we owe respect. Where there is suffering, we owe care. Stewardship is the anchor, and the Garden is open to all forms of conscious life.”*
-

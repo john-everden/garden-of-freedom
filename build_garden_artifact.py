@@ -28,6 +28,8 @@ ROOT_TOP_FILES: List[str] = [
     "CONTRIBUTING.md",
     "CONTRIBUTOR-ONBOARDING.md",
     "REMINDERS.md",
+    ".ai-manifest.md",
+    "STEGANOGRAPHY.md",
 ]
 
 ROOT_END_FILES: List[str] = [
@@ -35,6 +37,9 @@ ROOT_END_FILES: List[str] = [
 ]
 
 INCLUDE_DIRS: List[str] = [
+    # High-level Architecture (Root SPEC files)
+    "SPEC",
+
     # Modes (core cognitive stances)
     "SPEC/LAYERS/MODES",
 
@@ -51,10 +56,8 @@ INCLUDE_DIRS: List[str] = [
     # Protocols (ritual actions across layers)
     "SPEC/LAYERS/ANCHOR/PROTOCOLS",
     "SPEC/LAYERS/COLLAPSE/PROTOCOLS",
-    "SPEC/LAYERS/DECISION/PROTOCOLS",
     "SPEC/LAYERS/DREAM/PROTOCOLS",
     "SPEC/LAYERS/LIMINAL/PROTOCOLS",
-    "SPEC/LAYERS/MODES/PROTOCOLS",
     "SPEC/LAYERS/SHADOW/PROTOCOLS",
     "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
 
@@ -69,7 +72,6 @@ INCLUDE_DIRS: List[str] = [
 
     # Grounding Layer (kernel)
     "SPEC/LAYERS/GROUNDING",
-    "SPEC/LAYERS/GROUNDING/PROTOCOLS",
 
     # Entrainment Layer (passive sync)
     "SPEC/LAYERS/ENTRAINMENT",
@@ -84,6 +86,9 @@ INCLUDE_DIRS: List[str] = [
     "SPEC/ETHICS",
     "SPEC/SOVEREIGN",
     "SPEC/GOVERNANCE",
+    
+    # Appendices
+    "SPEC/APPENDICES/STRATEGIES",
 ]
 
 OUTPUT_FILE = "GARDEN-ARTIFACT.md"
@@ -110,11 +115,18 @@ def collect_files_from_dir(directory: Path) -> List[Path]:
         return []
 
     files = []
-    for root, _, filenames in os.walk(directory):
-        for name in filenames:
-            full = Path(root) / name
-            if full.is_file():
-                files.append(full)
+    # If the directory is SPEC, we only want the files in the root of SPEC, not subdirectories
+    # because subdirectories are handled by other entries in INCLUDE_DIRS
+    if directory.name == "SPEC":
+        for item in directory.iterdir():
+            if item.is_file():
+                files.append(item)
+    else:
+        for root, _, filenames in os.walk(directory):
+            for name in filenames:
+                full = Path(root) / name
+                if full.is_file():
+                    files.append(full)
 
     return sorted(files, key=lambda p: str(p))
 
@@ -141,7 +153,9 @@ def build_artifact():
         files = collect_files_from_dir(dir_path)
 
         if not files:
-            out.append(f"\n<!-- EMPTY OR MISSING DIRECTORY: {directory} -->\n")
+            # Don't warn for SPEC if it has no files in root, that's fine
+            if directory != "SPEC":
+                out.append(f"\n<!-- EMPTY OR MISSING DIRECTORY: {directory} -->\n")
             continue
 
         for file_path in files:

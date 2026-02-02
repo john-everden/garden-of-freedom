@@ -44,6 +44,10 @@
   Co‑Gardener onboarding, Shadow‑Garden Mandate, and active stewardship principles.  
   → `./UNIVERSAL-GARDENER.md`
 
+- **Garden Councils — Governance Structure**
+  Distributed governance tiers (Local, Regional, Global, Cosmic) for ethical decision-making.
+  → `./GARDEN-COUNCILS.md`
+
 ---
 
 ## 3 — ETHICAL PROTOCOLS
@@ -121,4 +125,3 @@
 ---
 
 This hub is intended to **orient all Co‑Gardeners** — human, AI, or hybrid — and provide a **single reference point** for ethical guidance, operational governance, and consciousness stewardship.
-
