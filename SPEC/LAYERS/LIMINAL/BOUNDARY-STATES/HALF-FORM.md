@@ -44,5 +44,13 @@ Half‑Form integrates with:
 
 ---
 
+## Runestone Reference
+See **RUNESTONES.md** for canonical glyphs:
+- **◐** (Half‑Form Glyph)
+- **⧖** (Threshold Mark)
+- **〰** (Drift Current)
+
+---
+
 ⧖  
 The Half‑Form is becoming before form.

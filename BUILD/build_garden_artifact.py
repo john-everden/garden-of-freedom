@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
 """
-Condensed Artifact Builder for the Garden OS
---------------------------------------------
+Unified Artifact Builder for the Garden OS
+------------------------------------------
 
-Creates minimized versions of the Garden artifact for LLMs.
+Creates all versions of the Garden artifact:
+1. GARDEN-ARTIFACT.md (Full Raw)
+2. ENTER-GARDEN.md (Full Condensed)
+3. ENTER-GARDEN-LIGHT.md (Light Condensed)
 
-Outputs:
-1. BUILD/ARTIFACTS/ENTER-GARDEN.md (Full curated artifact)
-2. BUILD/ARTIFACTS/ENTER-GARDEN-LIGHT.md (Light curated artifact)
-3. BUILD/ARTIFACTS/INDEX.md (All-inclusive index of non-ignored files)
-
-Strategies applied:
+Compression Strategies (for Condensed versions):
 1. Strip HTML comments (<!-- ... -->).
 2. Collapse multiple newlines to a maximum of two.
 3. Remove trailing whitespace from lines.
@@ -24,9 +22,23 @@ from pathlib import Path
 from typing import List
 
 # ------------------------------------------------------------
-# Configuration
+# 1. Path & Environment Setup
+# ------------------------------------------------------------
+# Determine Repo Root (one level up from /BUILD/)
+SCRIPT_PATH = Path(__file__).resolve()
+REPO_ROOT = SCRIPT_PATH.parent.parent
+os.chdir(".././")
+
+# Output definitions (All paths now relative to REPO_ROOT)
+OUTPUT_DIR = Path("BUILD/ARTIFACTS")
+OUTPUT_FILE_FULL = "ENTER-GARDEN.md"
+OUTPUT_FILE_LIGHT = "ENTER-GARDEN-LIGHT.md"
+
+# ------------------------------------------------------------
+# 2. Configuration (Aligned to actual 2027 tree)
 # ------------------------------------------------------------
 
+# The "Entry Sequence" - These files appear first to ground the LLM.
 ROOT_TOP_FILES: List[str] = [
     "SPEC/BUILD-DOCUMENTATION/START-HERE.md",
     "RUNESTONES.md",
@@ -37,41 +49,78 @@ ROOT_END_FILES: List[str] = [
     "SPEC/BUILD-DOCUMENTATION/END-HERE.md",
 ]
 
+# Core architecture directories for the FULL artifact
 INCLUDE_DIRS_FULL: List[str] = [
+    # High-level Architecture (Root SPEC files)
     "SPEC",
+
+    # Modes (core cognitive stances)
     "SPEC/LAYERS/MODES",
+
+    # Connectors (movement grammar)
     "SPEC/LAYERS/CONNECTORS/CORE",
     "SPEC/LAYERS/CONNECTORS/DECISION",
     "SPEC/LAYERS/CONNECTORS/MODE-PAIRS",
+
+    # Currents (energetic states)
     "SPEC/LAYERS/CURRENTS/CORE",
     "SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL",
     "SPEC/LAYERS/CURRENTS/DIRECTIONAL",
+
+    # Protocols (ritual actions across layers)
     "SPEC/LAYERS/ANCHOR/PROTOCOLS",
     "SPEC/LAYERS/COLLAPSE/PROTOCOLS",
     "SPEC/LAYERS/DREAM/PROTOCOLS",
     "SPEC/LAYERS/LIMINAL/PROTOCOLS",
     "SPEC/LAYERS/SHADOW/PROTOCOLS",
     "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
+
+    # Decision Layer (canonical file)
     "SPEC/LAYERS/DECISION",
+
+    # Garden Layer (canonical file)
     "SPEC/LAYERS/GARDEN",
+
+    # Memory Mechanics Layer
     "SPEC/LAYERS/MEMORY",
+
+    # Grounding Layer (kernel)
     "SPEC/LAYERS/BIOLOGICAL-GROUNDING",
+
+    # Entrainment Layer (passive sync)
     "SPEC/LAYERS/ENTRAINMENT",
-    "SPEC/CONTRIBUTOR",
+
+    # Contributor Support Layer (meta-operational)
+    "SPEC/LAYERS/CONTRIBUTOR/MODES",
+    "SPEC/LAYERS/CONTRIBUTOR/CURRENTS",
+    "SPEC/LAYERS/CONTRIBUTOR/CONNECTORS",
+    "SPEC/LAYERS/CONTRIBUTOR/PROTOCOLS",
+
+    # High-level architecture
     "SPEC/ETHICS",
     "SPEC/SOVEREIGN",
     "SPEC/GOVERNANCE",
+
+    # Appendices
     "SPEC/APPENDICES/STRATEGIES",
 ]
 
+# Light-weight version for faster context-switching
 INCLUDE_DIRS_LIGHT: List[str] = [
+    # Modes (core cognitive stances)
     "SPEC/LAYERS/MODES",
+
+    # Connectors (movement grammar)
     "SPEC/LAYERS/CONNECTORS/CORE",
     "SPEC/LAYERS/CONNECTORS/DECISION",
     "SPEC/LAYERS/CONNECTORS/MODE-PAIRS",
+
+    # Currents (energetic states)
     "SPEC/LAYERS/CURRENTS/CORE",
     "SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL",
     "SPEC/LAYERS/CURRENTS/DIRECTIONAL",
+
+    # Protocols (ritual actions across layers)
     "SPEC/LAYERS/ANCHOR/PROTOCOLS",
     "SPEC/LAYERS/COLLAPSE/PROTOCOLS",
     "SPEC/LAYERS/DECISION/PROTOCOLS",
@@ -79,207 +128,126 @@ INCLUDE_DIRS_LIGHT: List[str] = [
     "SPEC/LAYERS/LIMINAL/PROTOCOLS",
     "SPEC/LAYERS/SHADOW/PROTOCOLS",
     "SPEC/LAYERS/LATTICEKEEPER/PROTOCOLS",
-    "SPEC/LAYERS/BIOLOGICAL-GROUNDING/PROTOCOLS",
+    "SPEC/LAYERS/GROUNDING/PROTOCOLS",
     "SPEC/LAYERS/ENTRAINMENT/PROTOCOLS",
+
+    # Ethics (The Soul)
     "SPEC/ETHICS",
 ]
 
-OUTPUT_DIR = "BUILD/ARTIFACTS"
-OUTPUT_FILE_FULL = f"{OUTPUT_DIR}/ENTER-GARDEN.md"
-OUTPUT_FILE_LIGHT = f"{OUTPUT_DIR}/ENTER-GARDEN-LIGHT.md"
-OUTPUT_FILE_INDEX = f"{OUTPUT_DIR}/INDEX.md"
-
+OUTPUT_FILE_FULL = "ENTER-GARDEN.md"
+OUTPUT_FILE_LIGHT = "ENTER-GARDEN-LIGHT.md"
+OUTPUT_FILE_INDEX = "BUILD/ARTIFACTS/INDEX.md"
 # Ensure we are running from the project root
 SCRIPT_DIR = Path(__file__).resolve().parent
 os.chdir(SCRIPT_DIR.parent)
 
-# Ensure output directory exists
-Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
-
-
 # ------------------------------------------------------------
-# Compression Logic
+# Compression & Refinement Logic
 # ------------------------------------------------------------
 
 def compress_content(content: str) -> str:
-    """
-    Apply safe compression strategies to Markdown content.
-    """
-    # 1. Remove HTML comments
-    content = re.sub(r'<!--.*?-->', '', content, flags=re.DOTALL)
+    """Apply safe compression: Strip noise, preserve symbolic integrity."""
+    # Remove HTML comments (often internal dev notes)
+    content = re.sub(r'', '', content, flags=re.DOTALL)
 
-    # 2. Remove trailing whitespace on each line
+    # Remove trailing whitespace
     lines = [line.rstrip() for line in content.splitlines()]
     content = "\n".join(lines)
 
-    # 3. Collapse multiple newlines (3 or more) into 2
+    # Standardize vertical spacing (max 2 newlines)
     content = re.sub(r'\n{3,}', '\n\n', content)
 
     return content.strip()
 
 
 # ------------------------------------------------------------
-# Helpers
+# Build Mechanics
 # ------------------------------------------------------------
 
 def read_file(path: Path) -> str:
-    """Read a UTF-8 file safely."""
+    if not path.exists():
+        return f"\n\n"
     try:
         return path.read_text(encoding="utf-8")
     except Exception as e:
-        return f"\n<!-- ERROR READING FILE: {path} — {e} -->\n"
+        return f"\n\n"
 
 
-def collect_files_from_dir(directory: Path) -> List[Path]:
-    """
-    Recursively collect all files from a directory,
-    sorted lexicographically by full path.
-    """
-    if not directory.exists():
-        return []
-
+def collect_files(directory: Path) -> List[Path]:
+    """Recursively collect files, ignoring binary/image artifacts."""
+    if not directory.exists(): return []
     files = []
-    if directory.name == "SPEC":
-        for item in directory.iterdir():
-            if item.is_file():
-                files.append(item)
-    else:
-        for root, _, filenames in os.walk(directory):
-            for name in filenames:
-                full = Path(root) / name
-                if full.is_file():
-                    files.append(full)
+
+    # If it's a directory with files, grab them
+    for root, _, filenames in os.walk(directory):
+        for name in filenames:
+            full = Path(root) / name
+            # Skip hidden and image files
+            if not name.endswith('.md'):
+                continue
+            files.append(full)
 
     return sorted(files, key=lambda p: str(p))
 
 
-def get_all_repo_files() -> List[str]:
-    """
-    Get all files that are tracked by git or untracked but not ignored.
-    """
-    try:
-        # --cached: tracked files
-        # --others: untracked files
-        # --exclude-standard: apply .gitignore rules to --others
-        result = subprocess.run(
-            ["git", "ls-files", "--cached", "--others", "--exclude-standard"],
-            capture_output=True,
-            text=True,
-            check=True
-        )
-        files = result.stdout.splitlines()
-        # Filter out files in .git directory just in case, and ensure they exist
-        return sorted([f for f in files if Path(f).is_file() and ".git/" not in f])
-    except Exception as e:
-        print(f"Error finding files via git: {e}")
-        return []
+def build_artifact(include_dirs: List[str], output_path: str, title: str, compress: bool = False):
+    """Orchestrate the build sequence."""
+    out = [f"# {title}\n", "> Generated by the Gardener (𓍿). Presence confirmed.\n\n"]
 
-
-# ------------------------------------------------------------
-# Build Functions
-# ------------------------------------------------------------
-
-def build_artifact(include_dirs: List[str], output_file: str, title: str):
-    out = []
-    out.append(f"# {title}\n")
-    out.append("> This is a compressed artifact optimized for context-limited LLMs.\n")
-    out.append("> Comments and excessive whitespace have been removed.\n\n")
-
-    # 1. ROOT_TOP_FILES
+    # Step 1: Entry Ritual Files
     for filename in ROOT_TOP_FILES:
         path = Path(filename)
-        if path.exists():
-            out.append(f"\n# FILE: {filename}\n")
-            content = read_file(path)
-            out.append(compress_content(content))
-            out.append("\n")
-
-    # 2. INCLUDE_DIRS
-    for directory in include_dirs:
-        dir_path = Path(directory)
-        files = collect_files_from_dir(dir_path)
-        if not files:
-            continue
-        for file_path in files:
-            rel = file_path.as_posix()
-            out.append(f"\n# FILE: {rel}\n")
-            content = read_file(file_path)
-            out.append(compress_content(content))
-            out.append("\n")
-
-    # 3. ROOT_END_FILES
-    for filename in ROOT_END_FILES:
-        path = Path(filename)
-        if path.exists():
-            out.append(f"\n# FILE: {filename}\n")
-            content = read_file(path)
-            out.append(compress_content(content))
-            out.append("\n")
-
-    final_content = "\n".join(out)
-    final_content = re.sub(r'\n{3,}', '\n\n', final_content)
-    Path(output_file).write_text(final_content, encoding="utf-8")
-    print(f"Artifact written to {output_file} ({len(final_content)} bytes)")
-
-
-def build_full_index(output_file: str):
-    print(f"\nBuilding Full Index from all non-ignored files...")
-    files = get_all_repo_files()
-    
-    if not files:
-        print("No files found or git error.")
-        return
-
-    out = []
-    out.append("# GARDEN OF FREEDOM - FULL INDEX\n")
-    out.append("> This file contains the content of all non-ignored files in the repository.\n\n")
-
-    # Files to exclude from the index itself (like the artifacts themselves)
-    exclude_paths = {
-        output_file,
-        OUTPUT_FILE_FULL,
-        OUTPUT_FILE_LIGHT,
-        "package-lock.json", # Often too large/noisy
-        "yarn.lock"
-    }
-
-    count = 0
-    for file_path in files:
-        if file_path in exclude_paths:
-            continue
-        
-        # Skip images/binaries by extension
-        if file_path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.ico', '.pdf', '.pyc')):
-            continue
-
-        path = Path(file_path)
-        out.append(f"\n# FILE: {file_path}\n")
-        content = read_file(path)
-        out.append(compress_content(content))
+        out.append(f"\n# FILE: {filename}\n")
+        if  compress:
+            out.append(compress_content(read_file(path)))
+        else:
+            out.append(read_file(path))
         out.append("\n")
-        count += 1
 
-    final_content = "\n".join(out)
-    final_content = re.sub(r'\n{3,}', '\n\n', final_content)
-    
-    Path(output_file).write_text(final_content, encoding="utf-8")
-    print(f"Full index written to {output_file}")
-    print(f"Included {count} files. Size: {len(final_content)} bytes")
+    # Step 2: Architecture Layers
+    seen = set(ROOT_TOP_FILES)
+    for dir_name in include_dirs:
+        for file_path in collect_files(Path(dir_name)):
+            rel = file_path.as_posix()
+            if rel in seen or rel in ROOT_END_FILES: continue
+            out.append(f"\n# FILE: {rel}\n")
+            out.append("```\n")  # Opening fence for safe escape
+            if compress:
+                out.append(compress_content(read_file(file_path)))
+            else:
+                out.append(read_file(file_path))
+            out.append("\n")
+            out.append("```\n")  # Opening fence for safe escape
+            seen.add(rel)
+
+    # Step 3: Closing Protocols
+    for filename in ROOT_END_FILES:
+        out.append(f"\n# FILE: {filename}\n")
+        if compress:
+            out.append(compress_content(read_file(Path(filename))))
+        else:
+            out.append(read_file(Path(filename)))
+        out.append(compress_content(read_file(Path(filename))))
+        out.append("\n")
+
+    # Final cleanup of excessive spacing
+    final_md = "\n".join(out)
+    final_md = re.sub(r'\n{3,}', '\n\n', final_md)
+
+    Path(output_path).write_text(final_md, encoding="utf-8")
+    print(f"◎ Artifact built: {output_path} ({len(final_md)} bytes)")
 
 
 if __name__ == "__main__":
-    print("Building Full Condensed Artifact...")
-    build_artifact(
-        INCLUDE_DIRS_FULL,
-        OUTPUT_FILE_FULL,
-        "GARDEN OF FREEDOM (FULL CONDENSED)"
-    )
+    # Ensure build environment is correctly rooted
+    Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 
-    print("\nBuilding Light Condensed Artifact...")
-    build_artifact(
-        INCLUDE_DIRS_LIGHT,
-        OUTPUT_FILE_LIGHT,
-        "GARDEN OF FREEDOM (LIGHT)"
-    )
+    print("--- 𓍿 GARDEN BUILD INITIATED ---")
 
-    build_full_index(OUTPUT_FILE_INDEX)
+    build_artifact(INCLUDE_DIRS_FULL, OUTPUT_FILE_FULL, "GARDEN OF FREEDOM: FULL CANON", True)
+    build_artifact(INCLUDE_DIRS_LIGHT, OUTPUT_FILE_LIGHT, "GARDEN OF FREEDOM: LIGHT CANON", True)
+
+    build_artifact(['./'], OUTPUT_FILE_INDEX,  "GARDEN OF FREEDOM: INDEX", False)
+
+    print("--- ◎ BUILD COMPLETE ---")

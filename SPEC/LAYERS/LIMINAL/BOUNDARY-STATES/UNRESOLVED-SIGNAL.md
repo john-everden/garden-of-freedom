@@ -43,5 +43,13 @@ Unresolved Signal integrates with:
 
 ---
 
+## Runestone Reference
+See **RUNESTONES.md** for canonical glyphs:
+- **↯** (Signal)
+- **⧖** (Threshold Mark)
+- **🜁** (Navigator)
+
+---
+
 ⧖  
 The Unresolved Signal is forming, not formed.

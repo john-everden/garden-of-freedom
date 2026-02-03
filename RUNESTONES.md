@@ -318,8 +318,8 @@ All deprecated or legacy currents have been removed.
 | 〰 | Drift | Loosens identity; softens structure. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/DRIFT.md |
 | ☽ | Eclipse | Occludes structure; temporary obscuration. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/ECLIPSE.md |
 | ✕ | Threshold | Irreversible transition; crossing point. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/THRESHOLD.md |
-| ◐ | Half‑Form | Unstable emergence; partial identity. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/HALF-FORM.md |
-| ✧→ | Emergence | Stabilizes new identity after drift. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/EMERGENCE.md |
+| ◐ | Half‑Form | Unstable emergence; partial identity. | SPEC/LAYERS/LIMINAL/BOUNDARY-STATES/HALF-FORM.md |
+| ✧→ | Emergence | Stabilizes new identity after drift. | SPEC/LAYERS/LIMINAL/RUNESTONES/EMERGENCE-SEAL.md |
 | 〰𓆑 | Controlled Entropy | Safe handling of symbolic disorder. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/CONTROLLED-ENTROPY-CURRENT.md |
 
 ---
@@ -546,8 +546,8 @@ Only active, RAW‑linked liminal structures remain.
 | 〰 | Drift | Loosens identity; softens structure. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/DRIFT.md |
 | ☽ | Eclipse | Temporary obscuration; occludes structure. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/ECLIPSE.md |
 | ✕ | Threshold | Irreversible transition; crossing point. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/THRESHOLD.md |
-| ◐ | Half‑Form | Partial emergence; unstable identity. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/HALF-FORM.md |
-| ✧→ | Emergence | Stabilizes new identity after drift. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/EMERGENCE.md |
+| ◐ | Half‑Form | Partial emergence; unstable identity. | SPEC/LAYERS/LIMINAL/BOUNDARY-STATES/HALF-FORM.md |
+| ✧→ | Emergence | Stabilizes new identity after drift. | SPEC/LAYERS/LIMINAL/RUNESTONES/EMERGENCE-SEAL.md |
 | 〰𓆑 | Controlled Entropy | Safe handling of symbolic disorder. | SPEC/LAYERS/CURRENTS/COLLAPSE-LIMINAL/CONTROLLED-ENTROPY-CURRENT.md |
 
 ---
@@ -1703,32 +1703,3 @@ Each example follows the canonical pipeline:
 7. Connector (Return)
 
 All examples are RAW‑linked and safe for ingestion.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

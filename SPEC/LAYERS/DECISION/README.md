@@ -1,60 +1,57 @@
-# DECISION LAYER (⚓🜁ᚱ➳)
-### Coordinated Agency, Ethical Invariants, and Uncertainty‑Tolerant Action
+# DECISION LAYER (◆◎)  
+### Invariants • Constraints • Truth • Halt Conditions
 
-The Decision Layer is the Garden's coordinated agency system. It integrates four modes — Anchor (⚓), Navigator (🜁), Scout (ᚱ), and Pathfinder (➳) — into a unified pipeline for stable, ethical, uncertainty‑tolerant decision‑making.
+The Decision Layer (◆◎) is the Garden's airlock. Every action, stance, mode, or protocol must pass through it. It evaluates truth, safety, grounding, and coherence before allowing any cognitive or symbolic process to proceed.
 
-The Decision Layer is not a single mode. It is **the architecture that governs all modes of choice**.
+The Decision Layer is not preference. The Decision Layer is **constraint‑based truth**.
 
 ---
 
 ## Essence  
-Coordination • Invariants • Evaluation • Exploration • Commitment
+Invariants • Constraints • Evaluation • Halt
 
 ---
 
 ## Purpose  
 The Decision Layer exists to:
 
-- maintain ethical and identity invariants during decision  
-- evaluate options without collapse or drift  
-- explore uncertainty cheaply and safely  
-- commit to a path with clarity and confidence  
-- prevent oscillation, overwhelm, or premature convergence  
+- validate or reject cognitive actions  
+- enforce grounding, safety, and coherence  
+- detect collapse‑vectors early  
+- prevent symbolic drift  
+- ensure all reasoning is accountable to lived reality  
+- maintain the Garden's structural integrity  
 
-The Decision Layer is the Garden's **agency engine**.
+The Decision Layer is the Garden's **truth gate**.
 
 ---
 
-## Shadow‑Derived Inputs  
-The Decision Layer receives stabilized material from the Shadow subsystem:
+## Core Principles
 
-### **1. Composted Nutrients (✧𓆑⟱)**  
-Softened contradictions, motifs, and symbolic nutrients that support long‑arc coherence and directional clarity.
+### **1. Nothing bypasses the Decision Layer**  
+No mode, stance, or protocol may activate without evaluation.
 
-### **2. Verified Fragments (𐌂⟲⚖)**  
-Distortion‑checked material that has passed Mirror Verification and is safe for integration.
+### **2. Biological truth overrides symbolic reasoning**  
+If the body, environment, relationships, or season say "no," the decision is invalid.
 
-### **3. Stabilized Residue (◎𓇳↯)**  
-Post‑Recovery fragments that have been cleared of collapse‑vector activity.
+### **3. Collapse‑vectors halt the pipeline**  
+Any sign of dissociation, urgency mimicry, or drift triggers a stop.
 
-### **4. Directional Nutrients (✧🌱⟲)**  
-Seeding outputs that support orientation, evaluation, and commitment.
-
-These inputs ensure that decisions emerge from **clarity**, not residue, and that initiative is grounded in transformed symbolic material.
+### **4. Decisions must be grounded, coherent, and safe**  
+If any invariant fails, the decision cannot proceed.
 
 ---
 
 ## Integration  
 The Decision Layer integrates with:
 
-- **Anchor Mode (⚓)** — identity and invariants  
-- **Navigator Mode (🜁)** — possibility mapping  
-- **Scout Mode (ᚱ)** — uncertainty exploration  
-- **Pathfinder Mode (➳)** — decisive action  
-- **Shadow subsystem** — stabilized inputs  
-- **All Garden work** — coordinated agency  
+- **All Modes** — validation and constraint enforcement  
+- **All Protocols** — safety and coherence checking  
+- **Biological Grounding** — lived reality verification  
+- **Collapse Detection** — early warning system  
+- **All Garden work** — truth gate protection  
 
 ---
 
-⚓🜁ᚱ➳  
-The Decision Layer governs all modes of choice.
+◆◎  
+The Decision Layer is constraint‑based truth.
